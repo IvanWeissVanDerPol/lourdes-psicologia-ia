@@ -1,207 +1,158 @@
-# Lourdes - Consultorio de Psicología con IA
+# Lourdes - Psicologia Tech & Bienestar Digital
 
-**Cliente:** Lourdes  
-**Estado:** Estudiante de Psicología (en formación)  
-**Plan:** Práctica de coaching/bienestar informal → Ahorrar capital → Lanzar como psicóloga licenciada con servicios de IA
-
----
-
-## Inicio Rápido
-
-**Si sos Lourdes:**
-
-1. Abrí [`01-EMPIEZA-AQUI/README.md`](01-EMPIEZA-AQUI/README.md)
-2. Seguí el plan de lanzamiento de 7 días
-3. Empezá a ganar experiencia mientras estudiás
-
-**Tiempo total hasta primera sesión:** 3 días  
-**Tiempo total hasta ingresos consistentes:** 2-3 meses  
-**Tiempo total hasta lanzamiento profesional:** Al obtener licencia
+**Cliente:** Lourdes
+**Estado:** Estudiante de Psicologia (5to ano, tesis en curso)
+**Nicho:** Profesionales Tech, Ingenieros, Developers, Gamers
+**Modelo:** 100% Online/Hibrido - Bootstrapping Total
 
 ---
 
-## Propuesta de Valor Única
+## Inicio Rapido
 
-### Terapia Tradicional + Análisis con IA
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    DIFERENCIACIÓN COMPETITIVA                       │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│   OTROS PSICÓLOGOS              LOURDES                            │
-│   ────────────────              ──────────────────                 │
-│   • Sesiones 1x/semana          • Sesiones + Análisis continuo    │
-│   • Notas manuales              • Documentación automatizada      │
-│   • Depende de memoria          • Insights basados en datos       │
-│   • Sin seguimiento entre       • Análisis de WhatsApp entre     │
-│     sesiones                      sesiones                        │
-│                                                                     │
-│   RESULTADO: Terapia más efectiva, progreso más rápido             │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-**¿Qué hace diferente a este consultorio?**
-
-1. **Análisis de WhatsApp** - Los clientes comparten sus conversaciones (con consentimiento) para detectar patrones de comunicación
-2. **Transcripción de sesiones** - Cada sesión se transcribe y analiza para extraer insights clave
-3. **Perfil psicológico vivo** - Documentación actualizada automáticamente con cada interacción
-4. **Seguimiento entre sesiones** - No se pierde información entre citas
+1. Abri [`01-INICIO/README.md`](01-INICIO/README.md)
+2. Segui el plan de lanzamiento
+3. Usa las plantillas en `04-PLANTILLAS/`
 
 ---
 
 ## Estructura del Repositorio
 
 ```
-lourdes-psicologia/
-├── README.md                           # Este archivo
+LourdesBusiness/
 │
-├── 01-EMPIEZA-AQUI/                   # EMPEZAR ACÁ
-│   ├── README.md                       # Navegación y vista general
-│   ├── INICIO-RAPIDO.md               # Plan lanzamiento 7 días
-│   └── GESTION-RIESGOS.md             # Gestión riesgos y mitigación
+├── 01-INICIO/                 # Empezar aqui - guia rapida
+│   ├── README.md
+│   └── INICIO-RAPIDO.md
 │
-├── 02-IMPLEMENTACION/                  # Planes de ejecución
-│   ├── FASE-1-ESTUDIANTE.md           # Guía mientras estudia
-│   ├── FASE-2-LICENCIADA.md           # Post-licencia
-│   └── PROYECCIONES-FINANCIERAS.md    # 3 escenarios
+├── 02-PLAN-NEGOCIO/           # Plan de negocio completo
+│   ├── 01-resumen-ejecutivo.md
+│   ├── 02-descripcion-empresa.md
+│   ├── 03-analisis-mercado.md
+│   ├── 04-plan-operaciones.md
+│   ├── 05-estrategia-marketing.md
+│   └── 06-plan-financiero.md
 │
-├── 03-INVESTIGACION/                   # Investigación de mercado
-│   ├── mercado/                        # Datos del mercado
-│   └── legal/                          # Requisitos legales
+├── 03-IMPLEMENTACION/         # Guias de implementacion
+│   ├── FASE-1-ESTUDIANTE.md
+│   ├── FASE-2-LICENCIADA.md
+│   ├── TRANSICION-PLAN.md
+│   └── CHECKLIST-LANZAMIENTO.md
 │
-├── 04-MARKETING/                       # Estrategias y diseño
-│   ├── estrategias/                    # Estrategias marketing
-│   └── diseno/                         # Prompts diseño visual
+├── 04-PLANTILLAS/             # Templates para uso diario
+│   ├── FICHA-CLIENTE-INICIAL.md
+│   ├── NOTA-SESION-MANUAL.md
+│   ├── PLAN-BIENESTAR.md
+│   ├── FACTURA-RECIBO.md
+│   └── SEGUIMIENTO-CLIENTE.md
 │
-├── 05-PLANTILLAS/                      # Plantillas clínicas
-│   ├── clinicas/                       # Historia clínica, consentimientos
-│   └── administrativas/                # Facturación, contratos
+├── 05-MARKETING/              # Materiales de marketing
+│   ├── INSTAGRAM-CONTENT-PLAN.md
+│   ├── WHATSAPP-SCRIPTS.md
+│   ├── ELEVATOR-PITCH.md
+│   └── FAQ-CLIENTES.md
 │
-├── 06-DATOS/                           # Datos y hojas cálculo
-│   └── README.md                       # Enlaces Google Sheets
+├── 06-LEGAL/                  # Documentos legales
+│   └── legal/
+│       ├── consentimiento-informado.md
+│       ├── consentimiento-analisis-ia.md
+│       └── politica-privacidad.md
 │
-├── 07-PLAN-NEGOCIO/                    # Plan de negocio formal
-│   ├── README.md                       # Índice plan negocio
-│   ├── 01-resumen-ejecutivo.md        # Resumen 2 páginas
-│   ├── 02-descripcion-empresa.md      # Misión, visión, valores
-│   ├── 03-analisis-mercado.md         # Análisis mercado
-│   ├── 04-plan-operaciones.md         # Operaciones diarias
-│   ├── 05-estrategia-marketing.md     # Marketing y ventas
-│   └── 06-plan-financiero.md          # Proyecciones financieras
+├── 07-DATOS/                  # Datos y ejemplos
+│   └── PACIENTES/
+│       └── 001-LOURDES/       # Ejemplo con datos reales
+│           ├── RAW/           # Audios originales
+│           ├── CLINICA/       # Transcripciones
+│           └── METADATA/      # Analisis
 │
-├── 08-LEGAL-BRANDING/                  # Legal y branding
-│   ├── legal/                          # Documentos legales
-│   │   ├── consentimiento-informado.md
-│   │   ├── politica-privacidad-ley-1682.md
-│   │   └── consentimiento-analisis-ia.md
-│   └── branding/                       # Identidad visual
+├── 08-HERRAMIENTAS/           # Sistema de IA
+│   ├── analisis/              # Modulo de analisis
+│   ├── transcripcion/         # Sistema de transcripcion
+│   └── plantillas/            # Templates de salida
 │
-├── 09-SCRIPTS-COMUNICACION/            # Scripts comunicación
-│   ├── whatsapp-templates.md          # Templates WhatsApp
-│   └── explicacion-servicio-ia.md     # Cómo explicar el servicio de IA
-│
-└── 10-AI-SYSTEM/                       # Sistema de análisis con IA
-    ├── README.md                       # Arquitectura del sistema
-    ├── analysis/                       # Scripts de análisis
-    │   ├── whatsapp_analyzer.py
-    │   ├── session_transcriber.py
-    │   └── pattern_extractor.py
-    └── templates/                      # Templates de documentación
-        ├── MASTER_PROFILE_TEMPLATE.md
-        ├── SESSION_NOTES_TEMPLATE.md
-        └── TREATMENT_GOALS_TEMPLATE.md
+├── config/                    # Configuracion
+├── scripts/                   # Scripts (DEPRECADO - Ver 08-HERRAMIENTAS)
+└── .sisyphus/                 # Notas internas
 ```
 
 ---
 
-## Modelo de Negocio en 2 Fases
+## Orden Logico de Trabajo
 
-### **FASE 1: Estudiante Sin Licencia**
-
-**Objetivo:** Ganar experiencia práctica + Construir metodología de IA
-
-- **Servicios:** Coaching de bienestar, apoyo emocional (NO terapia clínica)
-- **Clientes:** Amigos, familia, referencias personales
-- **Precios:** Gs. 50-80K por sesión (tarifas amigos)
-- **Legal:** Estado estudiante divulgado, sin diagnósticos clínicos
-- **IA:** Desarrollar y probar el sistema de análisis
-- **Meta:** Validar el modelo, construir base de datos de patrones
-
-### **FASE 2: Psicóloga Licenciada**
-
-**Objetivo:** Lanzar práctica profesional con diferenciación por IA
-
-- **Servicios:** Psicoterapia completa + Análisis de IA
-- **Clientes:** Público general
-- **Precios:** Gs. 180-250K por sesión (incluye análisis IA)
-- **Legal:** Licencia MSPBS, consentimientos específicos para IA
-- **Diferenciación:** Única práctica en Paraguay con análisis de IA integrado
+| #   | Carpeta        | Proposito   | Cuando Usar    |
+| --- | -------------- | ----------- | -------------- |
+| 01  | INICIO         | Orientacion | Primero        |
+| 02  | PLAN-NEGOCIO   | Fundamentos | Planificacion  |
+| 03  | IMPLEMENTACION | Como hacer  | Ejecucion      |
+| 04  | PLANTILLAS     | Templates   | Dia a dia      |
+| 05  | MARKETING      | Promocion   | Captacion      |
+| 06  | LEGAL          | Documentos  | Compliance     |
+| 07  | DATOS          | Ejemplos    | Referencia     |
+| 08  | HERRAMIENTAS   | IA/Tech     | Automatizacion |
 
 ---
 
-## Servicios con IA (Propuesta de Valor)
+## Sistema de Transcripcion (Nuevo)
 
-### **Nivel 1: Terapia Estándar + Notas IA**
-- Sesión presencial tradicional
-- Transcripción automática de la sesión
-- Resumen generado por IA para el terapeuta
-- **Precio:** Gs. 180,000
+```bash
+# Transcribir audios
+python -m transcripcion transcribe --input 07-DATOS/PACIENTES/001-LOURDES/RAW
 
-### **Nivel 2: Terapia + Análisis de Comunicación**
-- Todo lo de Nivel 1 +
-- Cliente comparte chats de WhatsApp relevantes
-- Análisis de patrones de comunicación
-- Informe mensual de insights
-- **Precio:** Gs. 250,000
+# Verificar calidad
+python -m transcription check-quality --input 07-DATOS/PACIENTES/001-LOURDES/CLINICA
 
-### **Nivel 3: Programa Intensivo**
-- Todo lo de Nivel 2 +
-- Perfil psicológico completo (estilo `MASTER_PROFILE.md`)
-- Análisis de voz (patrones emocionales)
-- Plan de tratamiento basado en datos
-- **Precio:** Gs. 350,000/mes (4 sesiones incluidas)
+# Ayuda
+python -m transcription --help
+```
+
+---
+
+## Modelo de Negocio
+
+### FASE 1: Estudiante (Actual)
+
+| Aspecto       | Detalle                                         |
+| ------------- | ----------------------------------------------- |
+| **Servicios** | Coaching de bienestar (NO terapia clinica)      |
+| **Target**    | Estudiantes de ingenieria, juniors tech, gamers |
+| **Modalidad** | 100% Online                                     |
+| **Legal**     | Divulgar estado estudiante                      |
+
+### FASE 2: Licenciada (2027+)
+
+| Aspecto            | Detalle                                 |
+| ------------------ | --------------------------------------- |
+| **Servicios**      | Psicoterapia completa + Analisis IA     |
+| **Target**         | Profesionales Tech, CTOs                |
+| **Diferenciacion** | Unica psicologa tech-native en Paraguay |
+
+---
+
+## Precios
+
+| Tarifa    | Target              | Precio       |
+| --------- | ------------------- | ------------ |
+| Student   | Universitarios      | Gs. 70-90K   |
+| Junior    | Young Professionals | Gs. 100-180K |
+| Pro       | Seniors/Lideres     | Gs. 200-300K |
+| Night Owl | Madrugada           | Gs. 250-350K |
 
 ---
 
 ## Aviso Legal
 
-**CRÍTICO:** Durante Fase 1 (estudiante), solo se puede ofrecer:
+**FASE 1 (estudiante) - PUEDE:**
 
-**PUEDE HACER:**
-- Coaching de bienestar general
-- Apoyo emocional (escucha activa)
-- Ejercicios de mindfulness
-- Análisis de comunicación (como herramienta de autoconocimiento)
+- Coaching de bienestar
+- Apoyo emocional
+- Mindfulness
 
-**NO PUEDE HACER:**
-- Diagnósticos clínicos (depresión, ansiedad, etc.)
-- Tratamiento de trastornos mentales
-- Usar el título "psicóloga" en publicidad
-- Cobrar como servicio de salud mental
+**NO PUEDE:**
 
-**Siempre divulgar:**
-> "Soy estudiante de psicología. Este servicio es de coaching y bienestar, no tratamiento clínico. Si necesitás atención de salud mental profesional, te puedo referir a un colega licenciado."
+- Diagnosticos clinicos
+- Tratamiento de trastornos
+- Usar titulo "psicologa"
 
 ---
 
-## Información de Contacto
-
-**Repositorio:** [Local]  
-**Cliente:** Lourdes  
-**Ubicación:** Asunción, Paraguay  
-**Estado:** Estudiante de Psicología
-
----
-
-## Licencia
-
-Este plan de negocio es propiedad privada de Lourdes.  
-No redistribuir sin permiso.
-
----
-
-**Última Actualización:** Enero 2026  
-**Versión:** 1.0  
-**Estado:** En desarrollo
+**Ultima Actualizacion:** Enero 2026
+**Version:** 4.0

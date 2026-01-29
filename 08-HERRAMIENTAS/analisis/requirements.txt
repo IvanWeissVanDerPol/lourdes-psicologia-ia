@@ -1,0 +1,13 @@
+# Dependencias del Sistema de Analisis con IA
+# Instalar con: pip install -r requirements.txt
+
+# APIs de IA
+openai>=1.0.0          # Para Whisper (transcripcion)
+anthropic>=0.18.0      # Para Claude (analisis)
+
+# Utilidades
+python-dotenv>=1.0.0   # Para cargar .env con API keys
+
+# Opcionales (para features avanzadas)
+# pydub>=0.25.0        # Para manipulacion de audio
+# tiktoken>=0.5.0      # Para contar tokens exactos

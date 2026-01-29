@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía de Celulares para tu Abuelo - Paraguay 2025</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .summary {
+            background: #f8f9fa;
+            padding: 30px;
+            border-bottom: 3px solid #667eea;
+        }
+        
+        .summary h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        
+        .summary .highlight {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid #764ba2;
+            margin-bottom: 15px;
+        }
+        
+        .cards-container {
+            padding: 40px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+        }
+        
+        .phone-card {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+            border: 2px solid transparent;
+        }
+        
+        .phone-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 35px rgba(0,0,0,0.2);
+        }
+        
+        .phone-card.recommended {
+            border-color: #ffc107;
+            position: relative;
+        }
+        
+        .phone-card.recommended::before {
+            content: "⭐ RECOMENDADO";
+            position: absolute;
+            top: 15px;
+            right: -35px;
+            background: #ffc107;
+            color: #333;
+            padding: 5px 40px;
+            transform: rotate(45deg);
+            font-weight: bold;
+            font-size: 0.8em;
+            box-shadow: 0 2px 10px rgba(255,193,7,0.3);
+        }
+        
+        .card-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .card-header h3 {
+            font-size: 1.5em;
+            margin-bottom: 5px;
+        }
+        
+        .price {
+            font-size: 2em;
+            font-weight: bold;
+            color: #ffc107;
+            margin: 10px 0;
+        }
+        
+        .card-body {
+            padding: 20px;
+        }
+        
+        .specs {
+            list-style: none;
+            margin: 15px 0;
+        }
+        
+        .specs li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .specs li:last-child {
+            border-bottom: none;
+        }
+        
+        .spec-label {
+            font-weight: 600;
+            color: #667eea;
+        }
+        
+        .rating {
+            display: flex;
+            gap: 5px;
+            margin: 10px 0;
+            align-items: center;
+        }
+        
+        .stars {
+            color: #ffc107;
+            font-size: 1.2em;
+        }
+        
+        .pros-cons {
+            margin: 15px 0;
+        }
+        
+        .pros, .cons {
+            margin: 10px 0;
+        }
+        
+        .pros h4 {
+            color: #28a745;
+            font-size: 0.9em;
+            margin-bottom: 5px;
+        }
+        
+        .cons h4 {
+            color: #dc3545;
+            font-size: 0.9em;
+            margin-bottom: 5px;
+        }
+        
+        .pros ul, .cons ul {
+            margin-left: 20px;
+            font-size: 0.9em;
+        }
+        
+        .buy-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 30px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s;
+            margin: 10px 5px;
+            text-align: center;
+        }
+        
+        .buy-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 20px rgba(102,126,234,0.4);
+        }
+        
+        .stores-section {
+            background: #f8f9fa;
+            padding: 40px;
+        }
+        
+        .stores-section h2 {
+            color: #667eea;
+            margin-bottom: 25px;
+            text-align: center;
+        }
+        
+        .stores-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        
+        .store-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 3px 15px rgba(0,0,0,0.1);
+        }
+        
+        .store-card h3 {
+            color: #764ba2;
+            margin-bottom: 10px;
+        }
+        
+        .detailed-section {
+            padding: 40px;
+        }
+        
+        .detailed-section h2 {
+            color: #667eea;
+            margin: 30px 0 20px 0;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #667eea;
+        }
+        
+        .detailed-section h3 {
+            color: #764ba2;
+            margin: 20px 0 15px 0;
+        }
+        
+        .info-box {
+            background: #e3f2fd;
+            border-left: 5px solid #2196f3;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 5px;
+        }
+        
+        .warning-box {
+            background: #fff3cd;
+            border-left: 5px solid #ffc107;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 5px;
+        }
+        
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.9em;
+        }
+        
+        .comparison-table th {
+            background: #667eea;
+            color: white;
+            padding: 12px;
+            text-align: left;
+        }
+        
+        .comparison-table td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .comparison-table tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .footer {
+            background: #333;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+            
+            .cards-container {
+                padding: 20px;
+            }
+            
+            .phone-card.recommended::before {
+                font-size: 0.7em;
+                padding: 3px 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔍 Guía de Celulares Android</h1>
+            <p>Las mejores opciones en Paraguay hasta Gs. 1.000.000</p>
+            <p style="font-size: 0.9em; margin-top: 10px;">Para tu abuelo - Experiencia Android | Aplicaciones y Trabajo</p>
+        </div>
+        
+        <div class="summary">
+            <h2>📋 Resumen Ejecutivo</h2>
+            <div class="highlight">
+                <p><strong>💰 Presupuesto:</strong> Hasta 1.000.000 Gs</p>
+                <p><strong>📱 Usuario:</strong> Persona mayor con experiencia en Android</p>
+                <p><strong>🎯 Uso principal:</strong> Aplicaciones, trabajo, comunicación</p>
+                <p><strong>📷 Cámara:</strong> No es prioridad</p>
+            </div>
+            <div class="highlight">
+                <p><strong>🏆 Recomendación Principal:</strong> Samsung Galaxy A06 64GB a Gs. 943.999</p>
+                <p><strong>💡 Mejor relación calidad-precio:</strong> Motorola Moto E13 a Gs. 701.000</p>
+                <p><strong>💾 Más almacenamiento:</strong> Samsung Galaxy A05 128GB a Gs. 935.000</p>
+            </div>
+        </div>
+        
+        <div class="cards-container">
+            <!-- Samsung Galaxy A06 -->
+            <div class="phone-card recommended">
+                <div class="card-header">
+                    <h3>Samsung Galaxy A06</h3>
+                    <div class="price">Gs. 943.999</div>
+                    <p>64GB | 4GB RAM</p>
+                </div>
+                <div class="card-body">
+                    <div class="rating">
+                        <span class="stars">⭐⭐⭐⭐⭐</span>
+                        <span>Mejor opción general</span>
+                    </div>
+                    
+                    <ul class="specs">
+                        <li><span class="spec-label">Procesador</span> <span>Helio G85</span></li>
+                        <li><span class="spec-label">RAM</span> <span>4GB</span></li>
+                        <li><span class="spec-label">Almacenamiento</span> <span>64GB</span></li>
+                        <li><span class="spec-label">Pantalla</span> <span>6.7" HD+</span></li>
+                        <li><span class="spec-label">Batería</span> <span>5000mAh</span></li>
+                        <li><span class="spec-label">Interfaz</span> <span>One UI Core</span></li>
+                    </ul>
+                    
+                    <div class="pros-cons">
+                        <div class="pros">
+                            <h4>✅ Ventajas</h4>
+                            <ul>
+                                <li>Modo fácil para personas mayores</li>
+                                <li>Garantía oficial Samsung Paraguay</li>
+                                <li>Excelente soporte técnico local</li>
+                                <li>Pantalla grande y clara (6.7")</li>
+                                <li>Actualizaciones de seguridad 2+ años</li>
+                            </ul>
+                        </div>
+                        <div class="cons">
+                            <h4>❌ Desventajas</h4>
+                            <ul>
+                                <li>Carga lenta (15W)</li>
+                                <li>64GB puede quedarse corto</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <a href="https://shop.samsung.com/latin/py/shop/smartphones.html" class="buy-button" target="_blank">Comprar en Samsung Oficial</a>
+                    <a href="#tiendas" class="buy-button" style="background: #6c757d;">Ver más tiendas</a>
+                </div>
+            </div>
+            
+            <!-- Motorola Moto E13 -->
+            <div class="phone-card">
+                <div class="card-header">
+                    <h3>Motorola Moto E13</h3>
+                    <div class="price">Gs. 701.000</div>
+                    <p>64GB | 2GB RAM</p>
+                </div>
+                <div class="card-body">
+                    <div class="rating">
+                        <span class="stars">⭐⭐⭐⭐½</span>
+                        <span>Mejor precio</span>
+                    </div>
+                    
+                    <ul class="specs">
+                        <li><span class="spec-label">Procesador</span> <span>Unisoc T606</span></li>
+                        <li><span class="spec-label">RAM</span> <span>2GB</span></li>
+                        <li><span class="spec-label">Almacenamiento</span> <span>64GB</span></li>
+                        <li><span class="spec-label">Pantalla</span> <span>6.5" HD+</span></li>
+                        <li><span class="spec-label">Batería</span> <span>5000mAh</span></li>
+                        <li><span class="spec-label">Interfaz</span> <span>Android puro</span></li>
+                    </ul>
+                    
+                    <div class="pros-cons">
+                        <div class="pros">
+                            <h4>✅ Ventajas</h4>
+                            <ul>
+                                <li>Ahorro de Gs. 242.999</li>
+                                <li>Android puro sin bloatware</li>
+                                <li>Muy simple de usar</li>
+                                <li>Batería duradera</li>
+                                <li>Diseño compacto y ergonómico</li>
+                            </ul>
+                        </div>
+                        <div class="cons">
+                            <h4>❌ Desventajas</h4>
+                            <ul>
+                                <li>Solo 2GB RAM (puede ser lento)</li>
+                                <li>Multitarea limitada</li>
+                                <li>Procesador más básico</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <a href="https://www.shoppingchina.com.py/producto/celular-motorola-moto-e13-2gb-64gb-aurora-green-861777" class="buy-button" target="_blank">Comprar en Shopping China</a>
+                    <a href="#tiendas" class="buy-button" style="background: #6c757d;">Ver más tiendas</a>
+                </div>
+            </div>
+            
+            <!-- Samsung Galaxy A05 -->
+            <div class="phone-card">
+                <div class="card-header">
+                    <h3>Samsung Galaxy A05</h3>
+                    <div class="price">Gs. 935.000</div>
+                    <p>128GB | 4GB RAM</p>
+                </div>
+                <div class="card-body">
+                    <div class="rating">
+                        <span class="stars">⭐⭐⭐⭐½</span>
+                        <span>Más almacenamiento</span>
+                    </div>
+                    
+                    <ul class="specs">
+                        <li><span class="spec-label">Procesador</span> <span>Helio G85</span></li>
+                        <li><span class="spec-label">RAM</span> <span>4GB</span></li>
+                        <li><span class="spec-label">Almacenamiento</span> <span>128GB</span></li>
+                        <li><span class="spec-label">Pantalla</span> <span>6.7" HD+</span></li>
+                        <li><span class="spec-label">Batería</span> <span>5000mAh</span></li>
+                        <li><span class="spec-label">Interfaz</span> <span>One UI Core</span></li>
+                    </ul>
+                    
+                    <div class="pros-cons">
+                        <div class="pros">
+                            <h4>✅ Ventajas</h4>
+                            <ul>
+                                <li>Doble almacenamiento (128GB)</li>
+                                <li>Mismo rendimiento que A06</li>
+                                <li>Gs. 8.999 más barato que A06</li>
+                                <li>Garantía Samsung oficial</li>
+                                <li>Sin preocupación por espacio</li>
+                            </ul>
+                        </div>
+                        <div class="cons">
+                            <h4>❌ Desventajas</h4>
+                            <ul>
+                                <li>Disponibilidad limitada</li>
+                                <li>Diseño exterior menos moderno</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <a href="https://shop.samsung.com/latin/py/shop/smartphones.html" class="buy-button" target="_blank">Buscar en Samsung</a>
+                    <a href="https://tiendamovil.com.py/shop/celulares/" class="buy-button" target="_blank">Tienda Móvil</a>
+                </div>
+            </div>
+            
+            <!-- Xiaomi Redmi 13C -->
+            <div class="phone-card">
+                <div class="card-header">
+                    <h3>Xiaomi Redmi 13C</h3>
+                    <div class="price">Gs. 850.000-950.000</div>
+                    <p>128GB | 4GB RAM</p>
+                </div>
+                <div class="card-body">
+                    <div class="rating">
+                        <span class="stars">⭐⭐⭐⭐</span>
+                        <span>Mejores specs técnicas</span>
+                    </div>
+                    
+                    <ul class="specs">
+                        <li><span class="spec-label">Procesador</span> <span>Helio G85</span></li>
+                        <li><span class="spec-label">RAM</span> <span>4GB</span></li>
+                        <li><span class="spec-label">Almacenamiento</span> <span>128GB</span></li>
+                        <li><span class="spec-label">Pantalla</span> <span>6.74" 90Hz</span></li>
+                        <li><span class="spec-label">Batería</span> <span>5000mAh</span></li>
+                        <li><span class="spec-label">Interfaz</span> <span>MIUI 14</span></li>
+                    </ul>
+                    
+                    <div class="pros-cons">
+                        <div class="pros">
+                            <h4>✅ Ventajas</h4>
+                            <ul>
+                                <li>Pantalla 90Hz (más fluida)</li>
+                                <li>Gorilla Glass protección</li>
+                                <li>128GB almacenamiento</li>
+                                <li>Excelentes especificaciones</li>
+                            </ul>
+                        </div>
+                        <div class="cons">
+                            <h4>❌ Desventajas</h4>
+                            <ul>
+                                <li>MIUI con bloatware y anuncios</li>
+                                <li>Requiere configuración inicial</li>
+                                <li>Curva de aprendizaje</li>
+                                <li>Soporte técnico limitado en Paraguay</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="warning-box">
+                        <strong>⚠️ Nota:</strong> Requiere 30-45 minutos de configuración para desactivar anuncios y bloatware. Solo recomendado si hay ayuda técnica disponible.
+                    </div>
+                    
+                    <a href="https://tiendamovil.com.py/shop/celulares/" class="buy-button" target="_blank">Tienda Móvil</a>
+                    <a href="#tiendas" class="buy-button" style="background: #6c757d;">Ver tiendas</a>
+                </div>
+            </div>
+            
+            <!-- Realme Note 60X -->
+            <div class="phone-card" style="opacity: 0.8;">
+                <div class="card-header" style="background: #6c757d;">
+                    <h3>Realme Note 60X</h3>
+                    <div class="price">Gs. 617.000</div>
+                    <p>128GB | 3-4GB RAM (est.)</p>
+                </div>
+                <div class="card-body">
+                    <div class="rating">
+                        <span class="stars">⭐⭐⭐</span>
+                        <span>Más económico</span>
+                    </div>
+                    
+                    <ul class="specs">
+                        <li><span class="spec-label">Procesador</span> <span>Gama entrada</span></li>
+                        <li><span class="spec-label">RAM</span> <span>3-4GB (est.)</span></li>
+                        <li><span class="spec-label">Almacenamiento</span> <span>128GB</span></li>
+                        <li><span class="spec-label">Pantalla</span> <span>~6.7" HD+</span></li>
+                        <li><span class="spec-label">Batería</span> <span>5000mAh</span></li>
+                        <li><span class="spec-label">Interfaz</span> <span>Realme UI</span></li>
+                    </ul>
+                    
+                    <div class="pros-cons">
+                        <div class="pros">
+                            <h4>✅ Ventajas</h4>
+                            <ul>
+                                <li>Precio más bajo (ahorro Gs. 326.999)</li>
+                                <li>128GB almacenamiento</li>
+                            </ul>
+                        </div>
+                        <div class="cons">
+                            <h4>❌ Desventajas</h4>
+                            <ul>
+                                <li>Marca con presencia limitada en Paraguay</li>
+                                <li>Soporte técnico incierto</li>
+                                <li>Garantía difícil de ejercer</li>
+                                <li>Información técnica limitada</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="warning-box">
+                        <strong>⚠️ No recomendado:</strong> Soporte limitado en Paraguay. Para uso laboral, es mejor invertir en marcas establecidas con servicio técnico confiable.
+                    </div>
+                    
+                    <a href="#tiendas" class="buy-button" style="background: #6c757d;">Ver tiendas CDE</a>
+                </div>
+            </div>
+        </div>
+        
+        <div id="tiendas" class="stores-section">
+            <h2>🏪 Dónde Comprar en Paraguay</h2>
+            
+            <div class="stores-grid">
+                <div class="store-card">
+                    <h3>🔵 Samsung Paraguay Oficial</h3>
+                    <p><strong>Página:</strong> <a href="https://shop.samsung.com/latin/py/shop/smartphones.html" target="_blank">shop.samsung.com/latin/py</a></p>
+                    <p><strong>Ventajas:</strong></p>
+                    <ul>
+                        <li>Garantía oficial directa</li>
+                        <li>Envío gratis 24-48h</li>
+                        <li>Hasta 24 cuotas sin interés</li>
+                        <li>Soporte técnico respaldado</li>
+                    </ul>
+                    <p><strong>Recomendado para:</strong> Samsung A06 y A05</p>
+                </div>
+                
+                <div class="store-card">
+                    <h3>🟢 Nissei</h3>
+                    <p><strong>Página:</strong> nissei.com/py</p>
+                    <p><strong>Teléfono:</strong> +595 61 500 115</p>
+                    <p><strong>Sucursales:</strong></p>
+                    <ul>
+                        <li>CDE: Av. Adrián Jara Esq. Shopping Hijazi</li>
+                        <li>Asunción: Av. España 1261</li>
+                    </ul>
+                    <p><strong>Horario:</strong> Lun-Sab 06:30-15:45</p>
+                    <p><strong>43 años en Paraguay</strong> - Garantía 1 año</p>
+                </div>
+                
+                <div class="store-card">
+                    <h3>🟡 Cellshop Importados</h3>
+                    <p><strong>Ubicación:</strong> Ciudad del Este</p>
+                    <p><strong>Dirección:</strong> Av. Carlos A. López (Shopping Ibiza)</p>
+                    <p><strong>WhatsApp:</strong> +595 994 193150</p>
+                    <p><strong>Ventajas:</strong></p>
+                    <ul>
+                        <li>6 pisos de productos</li>
+                        <li>~5.000 visitantes diarios</li>
+                        <li>Acepta múltiples monedas</li>
+                        <li>Probar antes de comprar</li>
+                    </ul>
+                </div>
+                
+                <div class="store-card">
+                    <h3>🟠 Tienda Móvil</h3>
+                    <p><strong>Página:</strong> <a href="https://tiendamovil.com.py/shop/celulares/" target="_blank">tiendamovil.com.py</a></p>
+                    <p><strong>Ventajas:</strong></p>
+                    <ul>
+                        <li>Distribuidor multimarca</li>
+                        <li>Garantía oficial 1 año</li>
+                        <li>Envíos gratuitos</li>
+                        <li>Celulares desbloqueados</li>
+                    </ul>
+                    <p><strong>Compatible con:</strong> Tigo, Personal, Claro</p>
+                </div>
+                
+                <div class="store-card">
+                    <h3>🟣 Shopping China</h3>
+                    <p><strong>Página:</strong> <a href="https://www.shoppingchina.com.py" target="_blank">shoppingchina.com.py</a></p>
+                    <p><strong>Ubicación:</strong> Ciudad del Este</p>
+                    <p><strong>Ventajas:</strong></p>
+                    <ul>
+                        <li>Precios competitivos</li>
+                        <li>Moto E13 a Gs. 701.000</li>
+                        <li>Stock variado</li>
+                    </ul>
+                </div>
+                
+                <div class="store-card">
+                    <h3>🔴 Inverfin</h3>
+                    <p><strong>Página:</strong> <a href="https://inverfin.com.py" target="_blank">inverfin.com.py</a></p>
+                    <p><strong>Ventajas:</strong></p>
+                    <ul>
+                        <li>Descuentos frecuentes</li>
+                        <li>Especialista en Xiaomi</li>
+                        <li>Envíos a todo Paraguay</li>
+                        <li>Solo online</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="info-box" style="margin-top: 30px;">
+                <h3>💡 Consejos de compra:</h3>
+                <ul>
+                    <li><strong>En Asunción:</strong> Comprar online en Samsung Oficial o Nissei con envío</li>
+                    <li><strong>En Ciudad del Este:</strong> Visitar Cellshop o Nissei físicamente para probar</li>
+                    <li><strong>Garantía:</strong> Siempre pedir factura oficial y verificar cobertura de garantía</li>
+                    <li><strong>Envíos:</strong> La mayoría ofrece envío gratis 24-48 horas a todo Paraguay</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="detailed-section">
+            <h2>📊 Tabla Comparativa Completa</h2>
+            
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Característica</th>
+                        <th>Samsung A06</th>
+                        <th>Motorola E13</th>
+                        <th>Samsung A05</th>
+                        <th>Xiaomi 13C</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Precio</strong></td>
+                        <td>Gs. 943.999</td>
+                        <td>Gs. 701.000</td>
+                        <td>Gs. 935.000</td>
+                        <td>Gs. 850k-950k</td>
+                    </tr>
+                    <tr>
+                        <td><strong>RAM</strong></td>
+                        <td>4GB ✅</td>
+                        <td>2GB ⚠️</td>
+                        <td>4GB ✅</td>
+                        <td>4GB ✅</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Almacenamiento</strong></td>
+                        <td>64GB</td>
+                        <td>64GB</td>
+                        <td>128GB ✅</td>
+                        <td>128GB ✅</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Procesador</strong></td>
+                        <td>Helio G85 ✅</td>
+                        <td>Unisoc T606</td>
+                        <td>Helio G85 ✅</td>
+                        <td>Helio G85 ✅</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Pantalla</strong></td>
+                        <td>6.7" 60Hz</td>
+                        <td>6.5" 60Hz</td>
+                        <td>6.7" 60Hz</td>
+                        <td>6.74" 90Hz ✅</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Batería</strong></td>
+                        <td>5000mAh</td>
+                        <td>5000mAh</td>
+                        <td>5000mAh</td>
+                        <td>5000mAh</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Interfaz</strong></td>
+                        <td>One UI Core ✅</td>
+                        <td>Android puro ✅</td>
+                        <td>One UI Core ✅</td>
+                        <td>MIUI 14 ⚠️</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Modo fácil</strong></td>
+                        <td>Sí ✅</td>
+                        <td>No</td>
+                        <td>Sí ✅</td>
+                        <td>No</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Soporte Paraguay</strong></td>
+                        <td>Excelente ✅</td>
+                        <td>Bueno</td>
+                        <td>Excelente ✅</td>
+                        <td>Regular ⚠️</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Garantía oficial</strong></td>
+                        <td>1 año Samsung</td>
+                        <td>1 año</td>
+                        <td>1 año Samsung</td>
+                        <td>1 año (limitado)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Ideal para</strong></td>
+                        <td>Confiabilidad</td>
+                        <td>Ahorro</td>
+                        <td>Almacenamiento</td>
+                        <td>Especificaciones</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <h2>🎯 ¿Cuál elegir? Guía de decisión rápida</h2>
+            
+            <div class="info-box">
+                <h3>✅ Elige Samsung Galaxy A06 si:</h3>
+                <ul>
+                    <li>Buscas la mejor combinación de confiabilidad y rendimiento</li>
+                    <li>Valoras el soporte técnico local y garantía oficial</li>
+                    <li>Necesitas modo fácil para personas mayores</li>
+                    <li>El celular se usa para trabajo importante</li>
+                    <li>Quieres 4GB RAM para multitarea sin frustraciones</li>
+                </ul>
+            </div>
+            
+            <div class="info-box">
+                <h3>💰 Elige Motorola Moto E13 si:</h3>
+                <ul>
+                    <li>El presupuesto es ajustado (ahorro de Gs. 242.999)</li>
+                    <li>Prefieres Android limpio sin bloatware</li>
+                    <li>El uso es básico-intermedio (no multitarea pesada)</li>
+                    <li>Valoras simplicidad sobre especificaciones</li>
+                    <li>No abres 5+ aplicaciones simultáneamente</li>
+                </ul>
+            </div>
+            
+            <div class="info-box">
+                <h3>💾 Elige Samsung Galaxy A05 si:</h3>
+                <ul>
+                    <li>Necesitas mucho espacio de almacenamiento (128GB)</li>
+                    <li>Guardas muchas fotos, videos y documentos</li>
+                    <li>No quieres preocuparte por "memoria llena"</li>
+                    <li>Encuentras el modelo en stock</li>
+                    <li>Quieres el mejor valor Samsung (Gs. 8.999 menos que A06)</li>
+                </ul>
+            </div>
+            
+            <div class="warning-box">
+                <h3>⚠️ Evita Xiaomi Redmi 13C si:</h3>
+                <ul>
+                    <li>No tienes paciencia para 30-45 minutos de configuración inicial</li>
+                    <li>Te molestan anuncios en el sistema operativo</li>
+                    <li>Prefieres experiencia lista para usar</li>
+                    <li>No tienes ayuda técnica disponible para configuración</li>
+                    <li>El soporte técnico local es prioridad</li>
+                </ul>
+            </div>
+            
+            <h2>📱 Información Detallada por Modelo</h2>
+            
+            <h3>Samsung Galaxy A06 - Análisis Profundo</h3>
+            <p>El Galaxy A06 es la recomendación principal por su equilibrio perfecto entre especificaciones, precio y soporte. Su procesador MediaTek Helio G85 es octa-core (2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55), suficiente para todas las aplicaciones cotidianas y trabajo sin lag frustrante.</p>
+            
+            <p><strong>¿Por qué 4GB de RAM es importante?</strong> Con 4GB, el sistema operativo Android 13 usa aproximadamente 1.5GB, dejando 2.5GB disponibles para aplicaciones. Esto permite mantener abiertas simultáneamente: WhatsApp, navegador con 4-5 pestañas, correo electrónico, aplicación de trabajo (Excel, Word, etc.), y una app de streaming sin que el sistema cierre aplicaciones por falta de memoria.</p>
+            
+            <p><strong>One UI Core y Modo Fácil:</strong> Samsung diseñó One UI Core específicamente para dispositivos de entrada. El modo fácil transforma completamente la interfaz: los iconos triplican su tamaño, los menús se simplifican, el teclado agranda las teclas, y las configuraciones avanzadas se ocultan. Para personas mayores, esta es una ventaja incomparable que ningún otro fabricante ofrece a este precio.</p>
+            
+            <p><strong>Batería de 5000mAh:</strong> En uso real, esto se traduce en:</p>
+            <ul>
+                <li>10-12 horas de uso activo (navegación, apps, videos)</li>
+                <li>24-36 horas con uso moderado (llamadas, mensajes, consultas ocasionales)</li>
+                <li>Hasta 3 días en standby con uso muy ligero</li>
+            </ul>
+            
+            <p><strong>Soporte y actualizaciones:</strong> Samsung garantiza 2 años de actualizaciones de seguridad mensuales. Esto protege contra vulnerabilidades nuevas y asegura que aplicaciones bancarias, correo corporativo y datos sensibles permanezcan seguros. Además, el servicio técnico Samsung existe en principales ciudades paraguayas.</p>
+            
+            <h3>Motorola Moto E13 - Análisis Profundo</h3>
+            <p>El Moto E13 brilla por su filosofía de diseño: Android puro sin modificaciones innecesarias. Al encenderlo por primera vez, ves exactamente las aplicaciones de Google (Chrome, Gmail, Maps, YouTube, Fotos) sin aplicaciones duplicadas o bloatware promocional.</p>
+            
+            <p><strong>Limitación de 2GB RAM:</strong> Es importante ser honesto sobre esta limitación. Con solo 2GB de RAM, el Moto E13 funciona perfectamente para uso secuencial (abrir una app, usarla, cerrarla, abrir otra), pero sufre en multitarea intensiva. Si tu abuelo:</p>
+            <ul>
+                <li>Abre WhatsApp, responde, cierra, abre navegador → Funciona bien ✅</li>
+                <li>Mantiene 6-7 aplicaciones abiertas simultáneamente → Experimentará lentitud ❌</li>
+            </ul>
+            
+            <p><strong>Android puro - ventajas reales:</strong></p>
+            <ul>
+                <li>Solo 12 aplicaciones pre-instaladas vs. 25-30 en Samsung o Xiaomi</li>
+                <li>Sin menús duplicados ni opciones confusas</li>
+                <li>Actualizaciones llegan 2-3 meses más rápido que versiones personalizadas</li>
+                <li>Consume menos recursos del sistema (RAM y batería)</li>
+            </ul>
+            
+            <p><strong>Procesador Unisoc T606:</strong> Este procesador es menos potente que el Helio G85, pero la optimización de Android puro compensa parcialmente. En benchmarks sintéticos obtiene ~30% menos puntaje, pero en uso real diario la diferencia es menos notoria para tareas básicas.</p>
+            
+            <h3>Samsung Galaxy A05 - Análisis Profundo</h3>
+            <p>El A05 es prácticamente idéntico al A06 en hardware interno (mismo procesador Helio G85, misma RAM de 4GB, misma batería 5000mAh, pantalla casi idéntica). La diferencia principal es cosmética: diseño exterior ligeramente diferente y generación 2023-2024 vs. 2024-2025 del A06.</p>
+            
+            <p><strong>128GB vs. 64GB - diferencia real:</strong></p>
+            <ul>
+                <li>64GB después del sistema operativo: ~52GB disponibles (almacena ~12.000 fotos o 50 aplicaciones medianas)</li>
+                <li>128GB después del sistema operativo: ~116GB disponibles (almacena ~30.000 fotos o 120 aplicaciones)</li>
+            </ul>
+            
+            <p>Para personas mayores que no quieren gestionar almacenamiento constantemente, 128GB es libertad. Pueden instalar aplicaciones sin pensar, guardar fotos sin límite, descargar archivos de trabajo sin preocupación.</p>
+            
+            <p><strong>¿Por qué cuesta menos que el A06?</strong> Simple: es modelo anterior. Las tiendas quieren vender stock antes de que lleguen más unidades del A06. Esto es oportunidad excelente para consumidores inteligentes.</p>
+            
+            <h3>Xiaomi Redmi 13C - Análisis Profundo</h3>
+            <p>En papel, el Redmi 13C es el mejor dispositivo técnicamente: procesador idéntico a Samsung, 4GB RAM, 128GB almacenamiento, pantalla superior (90Hz vs. 60Hz), y Gorilla Glass protección. ¿Por qué no es la recomendación principal? MIUI 14.</p>
+            
+            <p><strong>MIUI 14 - ventajas y desventajas:</strong></p>
+            
+            <p>Ventajas:</p>
+            <ul>
+                <li>Personalizaciones extensas (temas, iconos, animaciones)</li>
+                <li>Gestión de batería agresiva (mayor duración)</li>
+                <li>Funciones adicionales (clonación de apps, segundo espacio)</li>
+            </ul>
+            
+            <p>Desventajas:</p>
+            <ul>
+                <li>12+ aplicaciones Xiaomi pre-instaladas (Mi Browser, Mi Video, Mi Music, Mi Community, etc.)</li>
+                <li>Anuncios integrados en apps del sistema (desactivables, pero molesto)</li>
+                <li>Notificaciones promocionales frecuentes</li>
+                <li>Permisos excesivos solicitados por apps Xiaomi</li>
+                <li>Estructura de menús diferente a Android stock</li>
+            </ul>
+            
+            <p><strong>Configuración óptima (guía paso a paso):</strong></p>
+            <ol>
+                <li>Desinstalar apps Xiaomi innecesarias: Mi Browser, Mi Video, Mi Music (algunas no permiten desinstalación completa, solo deshabilitar)</li>
+                <li>Desactivar anuncios: Configuración → Contraseña y seguridad → Autorización y revocación → Desactivar "Recibir recomendaciones"</li>
+                <li>Configurar apps Google como predeterminadas: Configuración → Apps → Apps predeterminadas → Cambiar navegador a Chrome, reproductor a YouTube</li>
+                <li>Desactivar notificaciones molestas: Mantener presionado cada notificación molesta → Desactivar</li>
+                <li>Optimizar permisos: Revisar permisos de apps Xiaomi y revocar innecesarios</li>
+            </ol>
+            
+            <p><strong>Pantalla 90Hz - diferencia notable:</strong> La tasa de refresco de 90Hz significa que la pantalla actualiza 90 veces por segundo vs. 60 veces del estándar. Esto hace que scrolling (desplazamiento en listas, páginas web, feeds) se sienta más fluido y responsivo. Una vez experimentas 90Hz, volver a 60Hz se nota menos suave.</p>
+            
+            <h2>🛡️ Accesorios Esenciales</h2>
+            
+            <div class="info-box">
+                <h3>📦 Compra obligatoria con el celular:</h3>
+                <ul>
+                    <li><strong>Funda tipo TPU con bordes elevados:</strong> Gs. 20.000-35.000
+                        <ul>
+                            <li>Protege esquinas (punto común de impacto en caídas)</li>
+                            <li>Bordes elevados impiden contacto directo de pantalla con superficies</li>
+                            <li>Busca textura anti-deslizante para mejor agarre</li>
+                        </ul>
+                    </li>
+                    <li><strong>Protector pantalla vidrio templado:</strong> Gs. 15.000-30.000
+                        <ul>
+                            <li>Absorbe impactos menores sin dañar pantalla real</li>
+                            <li>Se rompe en lugar de la pantalla (ahorro de Gs. 300.000-500.000)</li>
+                            <li>La mayoría de tiendas incluyen instalación gratuita</li>
+                        </ul>
+                    </li>
+                </ul>
+                <p><strong>Inversión total en protección: Gs. 35.000-65.000 ahorra potencialmente Gs. 300.000+ en reparaciones</strong></p>
+            </div>
+            
+            <div class="info-box">
+                <h3>🔌 Accesorios opcionales útiles:</h3>
+                <ul>
+                    <li><strong>Cargador rápido adicional:</strong> Gs. 40.000-60.000 (dejar uno en casa, uno en trabajo)</li>
+                    <li><strong>Cable USB-C extra:</strong> Gs. 15.000-25.000 (siempre tener respaldo)</li>
+                    <li><strong>Popsocket o anillo adhesivo:</strong> Gs. 10.000-20.000 (mejor agarre, reduce caídas)</li>
+                    <li><strong>Tarjeta microSD:</strong> Gs. 40.000-80.000 para 64GB-128GB adicionales (solo si compras modelo 64GB)</li>
+                </ul>
+            </div>
+            
+            <h2>⚙️ Configuración Inicial Recomendada</h2>
+            
+            <p>Cuando compres el celular, dedica 1 hora configurándolo junto a tu abuelo antes de entregárselo para uso independiente. Este tiempo invertido previene frustraciones futuras:</p>
+            
+            <div class="info-box">
+                <h3>✅ Checklist de configuración (30-60 minutos):</h3>
+                <ol>
+                    <li><strong>Transferir contactos del celular anterior:</strong>
+                        <ul>
+                            <li>Vía Bluetooth: Emparejar ambos celulares → Compartir contactos</li>
+                            <li>Vía Google Contacts: Sincronizar en celular viejo → Descargar en nuevo</li>
+                            <li>Vía tarjeta SIM: Copiar contactos a SIM → Insertar SIM en nuevo celular</li>
+                            <li>Añadir fotos a contactos importantes (más fácil identificar que nombres)</li>
+                        </ul>
+                    </li>
+                    <li><strong>Instalar aplicaciones esenciales solamente:</strong>
+                        <ul>
+                            <li>Comunicación: WhatsApp, Telegram (si usa)</li>
+                            <li>Trabajo: Apps específicas que necesita</li>
+                            <li>Banco: Apps bancarias que usa</li>
+                            <li>Esenciales: Gmail, Google Maps, YouTube</li>
+                            <li>NO instalar "por si acaso" - añadir conforme las necesite</li>
+                        </ul>
+                    </li>
+                    <li><strong>Configurar pantalla principal inteligentemente:</strong>
+                        <ul>
+                            <li>Widget de clima en parte superior</li>
+                            <li>Widget de contactos favoritos (llamada con un toque)</li>
+                            <li>Widget de calendario para ver citas</li>
+                            <li>Carpeta "Importantes" con apps más usadas</li>
+                            <li>Evitar pantallas llenas de iconos desorganizados</li>
+                        </ul>
+                    </li>
+                    <li><strong>Activar accesibilidad apropiada:</strong>
+                        <ul>
+                            <li>Aumentar tamaño de texto: Configuración → Accesibilidad → Tamaño visualización → Grande</li>
+                            <li>Activar Modo Fácil (Samsung): Configuración → Modo fácil</li>
+                            <li>Configurar Google Assistant: "Ok Google" para comandos de voz</li>
+                            <li>Activar lupa: Accesibilidad → Lupa (útil para leer letra pequeña)</li>
+                        </ul>
+                    </li>
+                    <li><strong>Configurar seguridad y emergencias:</strong>
+                        <ul>
+                            <li>Activar "Encontrar mi dispositivo": Configuración → Seguridad → Buscar mi dispositivo</li>
+                            <li>Configurar SOS de emergencia: 3 toques en botón encendido envía ubicación a contactos</li>
+                            <li>Añadir información médica en pantalla de bloqueo (alergias, contactos emergencia)</li>
+                            <li>Configurar desbloqueo biométrico si está disponible</li>
+                        </ul>
+                    </li>
+                    <li><strong>Enseñar funciones básicas:</strong>
+                        <ul>
+                            <li>Captura de pantalla: Botón encendido + volumen abajo simultáneos</li>
+                            <li>Linterna rápida: Deslizar hacia abajo → Tocar icono linterna</li>
+                            <li>Cambiar volumen de llamadas vs. medios</li>
+                            <li>Cómo cerrar aplicaciones correctamente</li>
+                        </ul>
+                    </li>
+                    <li><strong>Limpiar bloatware y notificaciones:</strong>
+                        <ul>
+                            <li>Desinstalar aplicaciones pre-instaladas innecesarias</li>
+                            <li>Desactivar notificaciones de apps promocionales</li>
+                            <li>Configurar "No molestar" para horarios de descanso</li>
+                            <li>Solo mantener notificaciones de comunicación y trabajo</li>
+                        </ul>
+                    </li>
+                </ol>
+            </div>
+            
+            <h2>❓ Preguntas Frecuentes</h2>
+            
+            <div class="info-box">
+                <h3>¿Funcionará con mi operadora (Tigo/Personal/Claro)?</h3>
+                <p>Sí, todos los modelos recomendados son desbloqueados y compatibles con las tres operadoras principales de Paraguay. Soportan tecnología 4G LTE en las bandas comunes paraguayas (B2, B4, B5, B7, B28). Vendedores oficiales garantizan compatibilidad total.</p>
+            </div>
+            
+            <div class="info-box">
+                <h3>¿Conviene comprar en Ciudad del Este o Asunción?</h3>
+                <p><strong>Ciudad del Este:</strong> Precios 5-10% menores, más variedad. Requiere viaje si vives en Asunción, algunas garantías son "internacionales" no oficiales Paraguay.</p>
+                <p><strong>Asunción/Online oficial:</strong> Comodidad, envío domicilio gratis 24-48h, garantías oficiales respaldadas localmente, servicio técnico accesible.</p>
+                <p><strong>Recomendación:</strong> Para diferencia de Gs. 50.000-100.000, la garantía oficial y comodidad valen la inversión.</p>
+            </div>
+            
+            <div class="warning-box">
+                <h3>¿Debería comprar modelo usado o reacondicionado para ahorrar?</h3>
+                <p><strong>No recomendado</strong> para personas mayores que usan celular para trabajo. Celulares usados pueden tener baterías degradadas, componentes no-originales, y sin garantía oficial. Para tu abuelo, confiabilidad es más importante que ahorro máximo. Un celular que falla en tarea laboral o emergencia cuesta más que el ahorro inicial.</p>
+            </div>
+            
+            <div class="info-box">
+                <h3>¿Es necesario comprar modelo 5G?</h3>
+                <p>No necesario actualmente en Paraguay. Cobertura 5G está limitada a zonas específicas de Asunción. Modelos 5G en este rango cuestan Gs. 1.100.000+, excediendo presupuesto. 4G LTE es completamente suficiente para streaming HD, videollamadas, navegación rápida. Cuando 5G sea ubicuo (2026-2027), tu abuelo puede actualizar.</p>
+            </div>
+            
+            <div class="info-box">
+                <h3>¿Cuánto dura realmente la batería de 5000mAh?</h3>
+                <p><strong>Uso intensivo:</strong> 10-12 horas (navegación constante, apps, videos, llamadas frecuentes)</p>
+                <p><strong>Uso moderado:</strong> 24-36 horas (llamadas diarias, mensajes, consultas ocasionales)</p>
+                <p><strong>Uso ligero:</strong> Hasta 3 días (standby con consultas mínimas)</p>
+                <p>Para persona mayor con uso típico, cargando cada noche, la batería no será problema.</p>
+            </div>
+            
+            <h2>🎯 Recomendación Final</h2>
+            
+            <div class="highlight" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 15px; margin: 30px 0;">
+                <h3 style="color: #ffc107; font-size: 1.8em;">Para tu abuelo, recomiendo:</h3>
+                <h2 style="font-size: 2.2em; margin: 20px 0;">Samsung Galaxy A06 64GB</h2>
+                <p style="font-size: 1.3em; margin: 15px 0;"><strong>Precio: Gs. 943.999</strong></p>
+                <p style="font-size: 1.1em; line-height: 1.8;">
+                    Esta opción equilibra especificaciones sólidas (4GB RAM, procesador potente, batería duradera), 
+                    interfaz familiar con modo fácil perfecto para personas mayores, garantía oficial respaldada por 
+                    servicio técnico Samsung en Paraguay, y precio dentro del presupuesto con margen para accesorios.
+                </p>
+                <p style="font-size: 1.1em; margin-top: 20px;">
+                    <strong>Dónde comprar:</strong> Samsung Paraguay Oficial con envío gratuito
+                </p>
+                <a href="https://shop.samsung.com/latin/py/shop/smartphones.html" 
+                   style="display: inline-block; background: #ffc107; color: #333; padding: 15px 40px; 
+                          border-radius: 25px; text-decoration: none; font-weight: bold; margin-top: 20px; 
+                          font-size: 1.2em;" 
+                   target="_blank">Ver en Samsung Paraguay →</a>
+            </div>
+            
+            <div class="info-box" style="margin: 30px 0;">
+                <h3>💡 Alternativas según prioridades:</h3>
+                <ul style="font-size: 1.1em; line-height: 1.8;">
+                    <li><strong>Si el presupuesto es más ajustado:</strong> Motorola Moto E13 a Gs. 701.000 (ahorro Gs. 242.999)</li>
+                    <li><strong>Si encuentras en stock:</strong> Samsung Galaxy A05 128GB a Gs. 935.000 (mejor valor Samsung)</li>
+                    <li><strong>Si tienes ayuda técnica para configuración:</strong> Xiaomi Redmi 13C (mejores specs)</li>
+                </ul>
+            </div>
+            
+            <div class="warning-box" style="margin: 30px 0;">
+                <h3>⚠️ Importante: Configura el celular junto a tu abuelo</h3>
+                <p style="font-size: 1.1em; line-height: 1.8;">
+                    Dedica 1 hora inicial a transferir contactos, instalar aplicaciones esenciales, activar 
+                    funciones de accesibilidad, y enseñar operaciones básicas. Esta inversión de tiempo previene 
+                    frustración posterior y asegura que tu abuelo aproveche completamente su nuevo dispositivo.
+                </p>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p style="font-size: 1.2em; margin-bottom: 10px;">📱 Guía completa de celulares Android en Paraguay 2025</p>
+            <p>Investigación actualizada - Noviembre 2025</p>
+            <p style="margin-top: 15px; font-size: 0.9em; opacity: 0.8;">
+                Precios y disponibilidad sujetos a cambios. Verificar en tiendas antes de comprar.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Pizzeria La Estacion ;;;
+FN:Pizzeria La Estacion 
+X-WA-BIZ-NAME:La Estación Pizzas
+X-WA-BIZ-DESCRIPTION:Venta de pizzas congeladas para cocinar a la parrilla o al horno. Catering de Pizzas a la Parrilla
+TEL;type=CELL;type=VOICE;waid=595984168080:+595 984 168080
+END:VCARD

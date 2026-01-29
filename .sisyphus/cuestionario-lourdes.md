@@ -16,75 +16,96 @@
 
 ### A.1 Perfil Profesional
 
-1. **Estado Actual:** Estudiante de psicologia 5to ano.
-   - **Graduación estimada:** En 2027
-2. **Especialidades de Interés:** clinica
-3. **Experiencia Clínica:**
-   - **Prácticas:** Shadow teacher desde 2022
-   - **Clientes:** Ninos
-4. **Conexión con Tecnología:** Uso casual de ias
+_(INSTRUCCIÓN: Lee las opciones y borra lo que NO corresponda a tu realidad actual)_
+
+**[OPCIÓN SELECCIONADA: ESTUDIANTE AVANZADO]**
+
+- **Estado:** Estudiante de 5to año / Tesis en curso.
+- **Meta:** Graduación estimada en 2027.
+- **Foco Actual:** Formación clínica y prácticas supervisadas.
+- **Experiencia:** "Shadow Teacher" (Acompañante Terapéutico) con niños desde 2022.
+- **Foco Actual:** Armado de consultorio y captación de primeros pacientes propios.
+
+---
+
+**[INTERÉS: CLÍNICA TECH]**
+
+- **Enfoque:** Psicoterapia individual integrada con tecnología.
+- **Perfil:** Uso casual de IAs (ChatGPT) para potenciar procesos.
+- **Nicho:** Pacientes del sector IT/Ingeniería.
 
 ### A.2 Conocimiento del Mercado Local
 
-_Vamos a convertir ese "No sé" en inteligencia de mercado:_
+_(INSTRUCCIÓN: Borra las misiones que no vayas a aceptar)_
 
-1.  **Red de Contactos (Tu Capital Social):**
-    - **Respuesta Actual:** "Sí".
-    - **Misión de Activación:** ¿Quiénes son específicamente?
-      - [ ] **Derivadores Potenciales:** Psiquiatras o médicos que te pueden enviar pacientes difíciles.
-      - [ ] **Mentores:** Profesores de la facultad que te respeten y te validen.
-      - [ ] **Colegas/Competencia:** Compañeros que ya están atendiendo (para preguntarles precios reales).
-      - [ ] **Líderes Estudiantiles:** Presidentes de Centro de Estudiantes de Ingeniería (contactos clave para entrar al nicho).
+**[MISIÓN 1: MAPEO DE CONTACTOS]**
 
-2.  **Precios Observados (Investigación):**
-    - **Respuesta Actual:** "No sé" (Aunque luego estimaste 150-300k).
-    - **Acción:** Preguntar a 3 colegas recién egresados cuánto cobran _realmente_ (no cuánto dicen que cobran).
-    - _Hipótesis:_ El mercado "estudiante" real está entre 80.000 y 120.000 Gs. El "Pro" real está en 200.000+.
+- **Objetivo:** Identificar quiénes te validan.
+- **Acción:** Listar nombres concretos de:
+  1.  Líderes de centros de estudiantes de Ingeniería.
+      puedo ir a la facultad y ofrecer y a amigos de amigos de la carrera
 
-3.  **Demanda Local (Indicadores Ocultos):**
-    - **Respuesta Actual:** "No".
-    - **Datos para validar tu nicho:**
-      - _¿Cuántos alumnos hay en FIUNA/Poli/UCA Ingeniería?_ (Mercado Total Disponible).
-      - _¿Cuántos postean memes de depresión/ansiedad e ingeniería en Twitter/X Paraguay?_ (Indicador de dolor real).
-      - _¿Hay cola de espera en la clínica psicológica de la UNA?_ (Si hay cola, hay demanda insatisfecha).
+**[MISIÓN 2: INVESTIGACIÓN DE PRECIOS]**
 
-4.  **Cobertura Seguro (El gran filtro):**
-    - **Estado:** Sin datos.
-    - **Investigación Rápida (Paraguay):**
-      - [ ] **Seguros Privados:** (Asismed, Santa Clara, Migone) ¿Cubren terapia externa o solo en sus sanatorios? (Generalmente solo interna o con reintegro bajo).
-      - [ ] **Seguro Universitario:** ¿La facultad ofrece algo? (Competencia directa gratuita).
-      - _Estrategia:_ Si los seguros pagan mal y tarde (como suele pasar), tu modelo debe ser **100% Particular sin seguro**. Confirma esto rápido.
+- **Objetivo:** Validar rango de mercado real.
+- **Acción:** Preguntar confidencialmente a 3 colegas jóvenes: "¿A cuánto estás cerrando realmente tus sesiones privadas?".
+- **Hipótesis a Validar:** Estudiantes pagan 80-100k Gs / Profesionales pagan 200k+ Gs.
+
+me parece que esta bien
+
+**[MISIÓN 3: DEMANDA OCULTA]**
+
+- **Objetivo:** Confirmar dolor en el nicho.
+- **Indicadores:**
+  1.  Quejas en Twitter/X Paraguay sobre burnout en ingeniería.
+  2.  Cola de espera en servicios gratuitos de la UNA.
+
+**[MISIÓN 4: FILTRO DE SEGUROS]**
+
+- **Objetivo:** Descartar burocracia.
+- **Premisa:** Los seguros privados (Asismed, Migone) pagan poco y tarde.
+- **Decisión:** Modelo 100% Particular (Reintegro por factura si el seguro del paciente lo permite).
+- pago adelantado y plan mensual etc /tri mestral con descuentos para mas accesible
 
 ### A.3 Ubicación y Logística
 
-1. **Preferencia Zonal:** Todas las que pueda presencial y online sin limite de tiempo, podria hasta de madrugada
-2. **Modalidad de Atención:** online y presencial (como respondido arriba)
-3. **Disponibilidad Horaria:** Madrugada y noche, todo el dia 24/7
+_(INSTRUCCIÓN: Deja solo el modelo que vas a ejecutar)_
+
+**[MODELO HÍBRIDO FLEXIBLE]**
+
+- **Atención:** Online (Zoom/Meet) por defecto + Presencial según necesidad.
+- **Zona:** Flexible (Coworking o domicilio del paciente si aplica), sin consultorio fijo propio aún.
+- **Ventaja:** Bajos costos fijos, alcance global/nacional.
 
 ### A.3.1 Profundización: El Modelo 24/7 (Madrugada y Noche)
 
-_Has identificado un diferenciador masivo, pero operativo y humanamente complejo. Responde estas preguntas para estructurarlo:_
+_(INSTRUCCIÓN: Esta es tu ventaja competitiva. Elige cómo operará en la realidad)_
 
-1.  **¿Guardia Pasiva o Turno Activo?**
-    - _Opción A:_ Estás durmiendo pero con el celular prendido ("Si me llaman, atiendo").
-    - _Opción B:_ Estás despierta y activa en la PC de 2 AM a 6 AM (Turno nocturno fijo).
-    - _¿Cuál es tu realidad actual?_
+**[OPCIÓN A: GUARDIA PASIVA (ON-CALL)]**
 
-2.  **Modelo de Pricing Nocturno:**
-    - ¿La hora de las 3:00 AM cuesta lo mismo que la de las 3:00 PM?
-    - _Sugerencia:_ "Tarifa Night Owl" (+30-50%) o Plan de Suscripción ("Guardia Mensual").
+- **Dinámica:** Duermes con el celular en modo "Sonido". Si entra solicitud, te despiertas y atiendes.
+- **Ventaja:** Sostenible a largo plazo, no rompe tanto el ciclo de sueño si no hay llamadas.
+- **Riesgo:** Latencia de respuesta (te toma unos minutos "activar" el cerebro).
 
-3.  **Tipo de Intervención:**
-    - ¿Es para **Crisis** (ataques de pánico, urgencias) o para **Sesiones Regulares** (agendar terapia normal a las 2 AM porque es su hora libre)?
-    - _Nota:_ Las crisis requieren protocolos distintos a la terapia.
+**[OPCIÓN B: TURNO NOCTURNO ACTIVO (NIGHT OWL)]**
 
-4.  **Canal Preferido en Madrugada:**
-    - ¿Video llamada full? ¿Solo Audio? ¿Solo Chat (texto)?
-    - _Nota target IT:_ Muchos prefieren Chat/Audio ágil en la noche.
+- **Dinámica:** Estás despierta, vestida y frente a la PC de 02:00 a 06:00 AM (tu horario productivo).
+- **Ventaja:** Respuesta inmediata, calidad de atención máxima, ideal para programadores nocturnos.
+- **Riesgo:** Alto burnout si no duermes bien de día.
 
-5.  **Sostenibilidad Personal (Burnout):**
-    - Si atiendes de madrugada, ¿cuándo duermes?
-    - ¿Cuántos "turnos nocturnos" por semana son sostenibles para vos hoy? (Ej: Solo Martes y Jueves, o Lunes a Viernes).
+usualmente duermo a las 1 am y me despierto a las 530 am
+
+puedo atender de noche si me agendan o me despierto Pero no aseguro despertar sin anticipacion
+
+**[PRICING: TARIFA NOCTURNA]**
+
+- **Estrategia:** La hora de madrugada vale más (+30% a +50%) por ser horario antisocial.
+- **Justificación:** "Estás pagando por mi insomnio y exclusividad".
+
+**[CANAL: TEXTO & AUDIO FIRST]**
+
+- **Estrategia:** Priorizar Chat y Audios en la madrugada.
+- **Justificación:** Menos invasivo que una videollamada a las 4 AM, más cómodo para el perfil introvertido/gamer.
 
 ---
 
@@ -93,44 +114,42 @@ _Has identificado un diferenciador masivo, pero operativo y humanamente complejo
 ### B.1 Análisis de Precios Actuales
 
 1. **Precios Psicólogos:**
-   - 200, 300, 150
+   -150, 200, 300
 2. **Precios de Servicios Digitales:**
    - 160 PSICOLOGA DE FINLANDIA
 3. **Percepción de Valor:** Su empatia y su seguimiento adecuado
 
 ### B.2 Análisis de Competencia
 
-_Selecciona o marca con una X lo que te suene familiar en el mercado:_
+_(INSTRUCCIÓN: Borra los competidores que NO sientes como amenaza real)_
 
-1.  **Tipos de Competidores (Psicólogos Identificados):**
-    - [ ] **Clínicas Universitarias:** (UNA, UCA) - Costo bajo/gratuito, atención por estudiantes.
-    - [ ] **Influencers de Salud Mental:** Psicólogos con +10k seguidores en IG que venden cursos/talleres.
-    - [ ] **Consultorios Tradicionales:** Psicoanalistas de "vieja escuela", presencial, zona Villa Morra/Centro.
-    - [ ] **Plataformas Online:** Apps como "Psicología a un Click" o directorios médicos.
+**[COMPETIDOR: CLÍNICAS UNIVERSITARIAS (UNA / UCA)]**
 
-2.  **Servicios Ofrecidos (¿Qué venden?):**
-    - [ ] **Terapia Cognitivo Conductual (TCC):** Muy común, enfocada en síntomas.
-    - [ ] **Psicoanálisis:** El estándar clásico en Paraguay (diván, largo plazo).
-    - [ ] **Evaluaciones Psicotécnicas:** Para licencias de conducir, portación de armas, o ingresos laborales.
-    - [ ] **Talleres Grupales:** "Manejo de ansiedad", "Habilidades sociales".
+- **Perfil:** Atención gratuita o de costo social por estudiantes en práctica.
+- **Amenaza:** Precio imbatible (Gratis).
+- **Tu Contraataque:** "Yo no soy una practicante random, soy una especialista en TU mundo (Ingeniería)".
 
-3.  **Estrategias de Marketing (¿Cómo consiguen pacientes?):**
-    - [ ] **"Boca a boca":** Recomendación de amigos/familiares (Tradicional).
-    - [ ] **Derivación Médica:** Psiquiatra o clínico que envía pacientes.
-    - [ ] **Marca Personal en redes:** Videos virales en TikTok/Reels sobre "5 signos de ansiedad".
-    - [ ] **Directorios Médicos:** Perfiles en Doctoralia o web de seguros privados.
+**[COMPETIDOR: INFLUENCERS DE SALUD MENTAL]**
 
-4.  **Estrategias Digitales (Presencia Online):**
-    - [ ] **Solo WhatsApp:** Tienen un link a WA en su perfil y nada más.
-    - [ ] **Instagram Estético:** Feed muy cuidado con frases motivacionales (Canva).
-    - [ ] **Video Marketing:** El psicólogo habla a cámara explicando patologías.
-    - [ ] **Booking Automático:** Tienen un link (Calendly) para agendar directo sin hablar.
+- **Perfil:** Psicólogos con +10k seguidores que venden cursos/talleres genéricos.
+- **Amenaza:** Alcance masivo y contenido atractivo.
+- **Tu Contraataque:** Atención 1 a 1 personalizada y disponibilidad real de madrugada (ellos no hacen eso).
+
+**[COMPETIDOR: CONSULTORIOS TRADICIONALES]**
+
+- **Perfil:** Psicoanalistas de "vieja escuela", presenciales en zonas caras (Villa Morra).
+- **Amenaza:** Estatus y validación social.
+- **Tu Contraataque:** Modernidad, agilidad y entendimiento de la cultura digital (no les pides que se acuesten en un diván).
 
 ### B.3 Disponibilidad y Accesibilidad
 
-1. **Tiempo de Espera:** Lo ideal es que no esperen o maximo 5. minutos
-2. **Horarios Disponibles:** Am a Dispponibilliad de24/7
-3. **Cobertura Seguro:** No tengo idea
+_(INSTRUCCIÓN: Elige tu promesa de servicio)_
+
+**[MODELO: ESTRUCTURA FLEXIBLE]**
+
+- **Tiempo de Espera:** Respuesta en el día.
+- **Horarios:** Amplios pero con pausas para dormir (1 am - 6 am).
+- **Filosofía:** "Flexibilidad con límites humanos".
 
 ---
 
@@ -138,75 +157,72 @@ _Selecciona o marca con una X lo que te suene familiar en el mercado:_
 
 ### C.1 Perfil del Cliente Ideal
 
-_Marcá con una X los perfiles que confirmas como tu foco principal:_
+_(INSTRUCCIÓN: Deja solo los perfiles que vas a atacar en esta etapa)_
 
-1.  **Rango Etario (Definición Fina):**
-    - **Respuesta Actual:** Adolescentes y adultos.
-    - **A confirmar:**
-      - [ ] **Adolescentes "Geek" (15-18):** Gamers, introvertidos, problemas escolares por "ser distintos".
-      - [ ] **Universitarios (19-24):** Estudiantes de Ingeniería/Informática con alto estrés académico.
-      - [ ] **Young Professionals (25-35):** Primeros trabajos en Tech, burnout, síndrome del impostor.
-      - [ ] **Seniors/Líderes (35+):** Ingenieros que deben liderar equipos y les faltan soft skills.
+**[PERFIL 1: EL ADOLESCENTE "GEEK" (15-18)]**
 
-2.  **Capacidad Económica:**
-    - **Respuesta Actual:** Estudiantes (presupuesto bajo) y Egresados Ingeniería/IT (7 millones PYG aprox).
-    - **A confirmar:**
-      - [ ] **Segmento "Beca":** Tarifa social para estudiantes (inversión a futuro, fidelización).
-      - [ ] **Segmento "Pro":** Tarifa completa para egresados (tienen capacidad de pago real).
-      - [ ] **Pago por Terceros:** ¿Padres pagan la terapia de los estudiantes? (Muy común).
+- **Situación:** Gamer, introvertido, posibles problemas escolares por "ser distinto".
+- **Pago:** Depende al 100% de los padres.
+- **Dolor:** Incomprensión familiar y soledad.
 
-3.  **Ocupación Principal (Nichos):**
-    - **Respuesta Actual:** IT general, informática y todas las ingenierías.
-    - **A confirmar (Roles Específicos):**
-      - [ ] **Developers/Programadores:** Trabajo remoto, aislamiento, presión de deadlines.
-      - [ ] **Soporte Técnico/SysAdmin:** Alto estrés, guardias rotativas, trato con clientes enojados.
-      - [ ] **Estudiantes Ingeniería:** Presión por exámenes, tesis, falta de vida social.
-      - [ ] **Data Scientists/Analistas:** Perfiles muy lógicos que racionalizan demasiado las emociones.
+**[PERFIL 2: EL UNIVERSITARIO DE INGENIERÍA (19-24)]**
 
-4.  **Dolores Principales (Diagnósticos Temativos):**
-    - **Respuesta Actual:** Autismo, "shy" (timidez), hablar con gente. Afrontamiento, toma de decisiones, aceptación.
-    - **A confirmar (Traducción Clínica):**
-      - [ ] **Ansiedad Social:** "Miedo a hablar en dailies/meetings".
-      - [ ] **Burnout Tecnológico:** Agotamiento por estar siempre conectado.
-      - [ ] **Síndrome del Impostor:** "No soy tan bueno como creen, me van a descubrir".
-      - [ ] **Parálisis por Análisis:** Dificultad para tomar decisiones por sobre-analizar datos.
-      - [ ] **Soledad Digital:** Tener muchos amigos en Discord pero ninguno para tomar un café.
-      - [ ] **Neurodivergencia:** (TEA/TDAH) Buscando adaptación funcional al mundo laboral, no "cura".
+- **Situación:** Alto estrés académico, vive en la facultad, no duerme, se alimenta mal.
+- **Pago:** Presupuesto limitado (necesita tarifa social) o pagan los padres.
+- **Dolor:** Miedo a fallar (exámenes), tesis interminable, presión por rendir.
+
+**[PERFIL 3: EL YOUNG PROFESSIONAL TECH (25-35)]**
+
+- **Situación:** Primer trabajo serio en IT, gana bien pero sufre "Síndrome del Impostor".
+- **Pago:** Capacidad plena (Tarifa Pro).
+- **Dolor:** Burnout, ansiedad en reuniones (dailies), siente que "no sabe nada".
+
+**[PERFIL 4: EL SENIOR / LÍDER TÉCNICO (35+)]**
+
+- **Situación:** Ingeniero crack que ascendieron a jefe y no sabe lidiar con personas.
+- **Pago:** Tarifa Premium.
+- **Dolor:** Falta de soft skills, estrés por gestión de equipos.
 
 ### C.2 Canales de Comunicación
 
-1. **Uso de WhatsApp:** Solo usan whatsapp y instagram no facebook
-2. **Redes Sociales:** instagram
-3. **Comunicación Profesional:** Ni idea
-4. **Disponibilidad Digital:** bastante minimo una laptop o un cell para hacer llamadas
+_(INSTRUCCIÓN: Confirma tu ecosistema digital)_
+**[ECOSISTEMA OMNICANAL]**
+
+- **Canal Principal:** WhatsApp (Chat y Audios) y Discord (DMs y canales de voz).
+- **Videollamadas:** Google Meet, Zoom o Discord.
+- **Redes Sociales:** Instagram (DM) y TikTok (Contenido y respuestas).
+- **Estilo:** Comunicación flexible, priorizando el texto/audio pero con soporte de video de alta calidad, adaptándose al entorno natural del paciente tech.
 
 ### C.3 Experiencia con Salud Mental
 
-_Indica lo que crees que aplica a tu público:_
+_(INSTRUCCIÓN: Borra las barreras que NO creas que tengan tus clientes)_
 
-1.  **Historial de Terapia (Barreras de Entrada):**
-    - **Respuesta Actual:** "La mayoría no, al menos en Paraguay jajaja".
-    - **Implicancias a confirmar:**
-      - [ ] **Primerizos:** Serás su primera experiencia con un profesional. (Requiere mucha educación inicial sobre "cómo funciona").
-      - [ ] **Estigma Cultural:** "Ir al psicólogo es de locos" (Muy común en familias tradicionales).
-      - [ ] **Mala Experiencia Previa:** Fueron a uno que "solo escuchaba" sin dar feedback práctico (queja típica de ingenieros).
-      - [ ] **Autodidactas:** Tratan de "arreglarse" solos leyendo Reddit/Libros porque valoran su propia intelectualidad.
+**[BARRERA: PRIMERIZOS ABSOLUTOS]**
 
-2.  **Uso Actual de Herramientas (Tech Stack Mental):**
-    - **Respuesta Actual:** "No".
-    - **¿Seguro? A veces usan cosas sin llamarlas 'Salud Mental'. Confirma si ves esto:**
-      - [ ] **Productividad Obsesiva:** Notion, Pomodoro, Obsidian (intentan controlar su ansiedad con orden excesivo).
-      - [ ] **Gaming como Escape:** Juegan horas seguidas para disociar/desconectar del estrés.
-      - [ ] **Consumo de Contenido:** Youtube/Podcasts (Huberman, Peterson, Estoicismo) = Autoayuda intelectualizada.
-      - [ ] **Nada:** Realmente no tienen ninguna válvula de escape sana.
+- **Situación:** Nunca fueron a terapia. No saben qué esperar.
+- **Acción:** Necesitas un "Onboarding" educativo muy claro ("Así funciona la terapia").
 
-3.  **Apertura a la IA (Expectativas):**
-    - **Respuesta Actual:** "Si hace más barato y eficiente, why not".
-    - **Validar propuestas de venta:**
-      - [ ] **IA como "Reductor de Costos":** Permitir planes más accesibles delegando seguimiento a la IA.
-      - [ ] **IA como "Optimizador":** "No quiero perder 20 min contándote mi semana, que la IA te la resuma".
-      - [ ] **IA como "Espejo Objetivo":** "La IA no me juzga, solo me muestra datos".
-      - [ ] **Escepticismo:** ¿Crees que te preguntarán por la privacidad de sus datos? (Común en gente de Ciberseguridad/IT).
+**[BARRERA: ESTIGMA CULTURAL]**
+
+- **Situación:** Creen que "ir al psicólogo es de locos" o "de débiles".
+- **Acción:** Normalizar la salud mental como "Mantenimiento del Cerebro" (lenguaje ingeniería).
+
+**[BARRERA: MALA EXPERIENCIA PREVIA]**
+
+- **Situación:** Fueron a un psicólogo que "solo escuchaba y asentía" (muy común en psicoanálisis clásico).
+- **Acción:** Ofrecer un enfoque pragmático, con devolución activa y herramientas concretas.
+
+**[TECH STACK ACTUAL (¿Qué usan hoy?)]**
+
+- **Productividad Compulsiva:** Notion, Obsidian (intentan ordenar el caos mental con listas).
+- **Gaming:** Válvula de escape disociativa (LoL, Valorant).
+- **Consumo Pasivo:** Podcasts de auto-optimización (Huberman Lab).
+
+**[ACTITUD ANTE LA IA]**
+
+- **Pragmáticos:** "Si es eficiente y barato, dale".
+- **Privacidad:** "¿Qué pasa con mis datos?".
+- **Expectativa:** Esperan que la IA les de resúmenes o "insights" de datos, no empatía fingida.
 
 ---
 
@@ -214,77 +230,36 @@ _Indica lo que crees que aplica a tu público:_
 
 ### D.1 Propuesta Única de Valor
 
-1. **Atractivo Principal:**
+_(INSTRUCCIÓN: Elige 1 o 2 conceptos que definan tu marca y borra el resto)_
 
-   > _Sugerencias Generadas:_
-   >
-   > 1. "Terapia 24/7: Tu psicólogo en tu bolsillo, cuando más lo necesitas."
-   > 2. "Salud mental sin barreras: Atención híbrida y flexible para nativos digitales."
-   > 3. "Psicología Geek: Un espacio seguro para mentes tech."
-   > 4. "Tu mente, tu código: Debugging emocional con herramientas modernas."
-   > 5. "Acompañamiento real en tiempo real: Más allá de la sesión semanal."
-   > 6. "Psicología Integrativa Tech: Lo mejor de la clínica con el poder de la IA."
-   > 7. "Espacio Seguro para Introvertidos Digitales: Chatea, habla o video-llama."
-   > 8. "Salud Mental On-Demand: Flexibilidad total para tu agenda caótica."
-   > 9. "Empatía + Tecnología: El futuro de la terapia clínica."
-   > 10. "Conectando contigo: Atención psicológica adaptada a la era digital."
+**[CONCEPTO: TERAPIA ON-DEMAND]**
 
-2. **Beneficio Clave:**
+- **Slogan:** "Tu psicólogo en tu bolsillo, 24/7".
+- **Promesa:** Disponibilidad radical. Estás ahí cuando la ansiedad ataca (madrugada), no 3 días después.
 
-   > _Sugerencias Generadas:_
-   >
-   > 1. "Reducción de ansiedad social mediante exposición gradual controlada."
-   > 2. "Acceso inmediato a herramientas de afrontamiento en momentos de crisis."
-   > 3. "Flexibilidad absoluta: Sesiones que se adaptan a tu horario de ingeniería/IT."
-   > 4. "Entendimiento profundo del mundo tech: No tienes que explicar qué es un 'deploy'."
-   > 5. "Continuidad terapéutica: Seguimiento entre sesiones vía chat."
-   > 6. "Espacio libre de juicios para temas 'tabú' o 'frikis'."
-   > 7. "Desarrollo de habilidades sociales para entornos corporativos/tech."
-   > 8. "Meora del rendimiento laboral mediante gestión del estrés."
-   > 9. "Sentimiento de 'estar acompañado' siempre, reduciendo la soledad."
-   > 10. "Resultados medibles y tangibles en tu bienestar emocional."
+**[CONCEPTO: INTROVERT-FRIENDLY]**
 
-3. **Diferenciador Crítico:**
-   > _Sugerencias Generadas:_
-   >
-   > 1. "Disponibilidad de madrugada para insomnes y trabajadores nocturnos."
-   > 2. "Enfoque híbrido fluido: Cambia de chat a video según tu nivel de energía social."
-   > 3. "Perfil 'Shadow Teacher': Experiencia real en acompañamiento diario, no solo clínico."
-   > 4. "Especialización en perfiles técnicos/ingeniería (público desatendido)."
-   > 5. "Integración transparente de IA para mejorar el proceso (si el cliente quiere)."
-   > 6. "Tarifas adaptadas a estudiantes y recién graduados."
-   > 7. "Comprensión nativa de la cultura de internet y gaming."
-   > 8. "Enfoque en resultados prácticos y herramientas inmediatas."
-   > 9. "Atención personalizada 'Artesanal' vs. Apps masivas automatizadas."
-   > 10. "La terapeuta que 'habla tu idioma' (literal y culturalmente)."
+- **Slogan:** "Salud mental sin barreras sociales".
+- **Promesa:** Híbrido Text/Audio. No te obligo a prender la cámara si no tienes energía social.
 
 ### D.2 Propuesta de Tecnología
 
-_(Sugerencias generadas por IA para potenciar tu práctica)_
+_(INSTRUCCIÓN: Borra las herramientas que NO te ves usando al inicio)_
 
-1.  **Documentación y Gestión (Ideas Clave):**
-    1.  **Historia Clínica Viva:** Dashboard que se actualiza solo.
-    2.  **Reducción de Admin:** Menos tiempo escribiendo, más atendiendo.
-    3.  **Estandarización:** Todos los pacientes con el mismo nivel de detalle.
-    4.  **Seguridad:** Encriptación y acceso controlado mejor que papel.
-    5.  **Búsqueda Inteligente:** "Buscar todos los pacientes con ansiedad social" para ver patrones.
-    6.  **Generador de Informes:** Crear cartas para psiquiatras/otros en segundos.
-    7.  **Alertas de Seguimiento:** Sistema que avisa "Hace 3 meses no hablamos de X tema".
-    8.  **Plantillas Dinámicas:** Se adaptan según la patología (Depresión template vs Ansiedad template).
-    9.  **Consentimientos Digitales:** Firma electrónica fácil desde el celular.
-    10. **Backup en Nube:** Nunca perder un expediente por humedad o pérdida física.
+**[GESTIÓN: HISTORIA CLÍNICA VIVA]**
 
-2.  **Herramientas Adicionales:**
-    1.  **Agendamiento Automático:** (Calendly/Cal.com) Para slots de madrugada sin interacción humana previa.
-    2.  **Pasarelas de Pago:** Cobro automático o links de pago simples para no hablar de dinero en sesión.
-    3.  **Wearables:** Integrar datos de Apple Watch/Garmin (sueño, pulso) si el paciente quiere.
-    4.  **VR (Realidad Virtual):** Para exposición controlada a fobias sociales (hablar en público simulado).
-    5.  **Tests Psicométricos Online:** Enviar link, recibir resultados directos.
-    6.  **Comunidad Discord:** Servidor privado moderado para tus pacientes (si aplica metodología grupal).
-    7.  **Noise Cancelling:** Recomendar/Usar herramientas de audio para sesiones online nítidas.
-    8.  **Pizarras Virtuales:** (Miro/FigJam) Para dibujar diagramas durante sesiones online con ingenieros.
-    9.  **Apps de Tareas:** (Notion/Todoist) Plantillas de "Life Management" para pacientes.
-    10. **Biblioteca de Recursos:** Bot que envía PDFs/Videos curados según la necesidad del momento.
+- **Herramienta:** Notion / Obsidian.
+- **Uso:** Dashboard que evoluciona con el paciente. Detecta patrones a lo largo del tiempo.
+
+**[OPERATIVA: AGENDAMIENTO ASÍNCRONO]**
+
+- **Herramienta:** Calendly / Cal.com.
+- **Uso:** El paciente agenda su slot de madrugada sin tener que hablar contigo primero.
+
+**[COMUNIDAD: DISCORD PRIVADO]**
+
+- **Herramienta:** Servidor Discord Moderado.
+- **Uso:** Para tus pacientes "beta", creando un grupo de apoyo anónimo.
 
 ---
 
@@ -292,81 +267,60 @@ _(Sugerencias generadas por IA para potenciar tu práctica)_
 
 ### E.1 Sensibilidad a Precios
 
-_Confirma si estos rangos te hacen sentido para tus dos segmentos:_
+_(INSTRUCCIÓN: Elige tu estrategia de precios)_
 
-1.  **Rango Máximo (Segmento PRO/Ingenieros):**
-    - **Propuesta:** 200.000 Gs - 300.000 Gs por sesión individual.
-    - **Justificación:** Tienen poder adquisitivo (ganan 7M+) y valoran la disponibilidad 24/7 y el enfoque "científico".
-    - **Tarifa "Night Owl" (Madrugada):** 350.000 Gs (Premium por horario antisocial).
+**[ESTRATEGIA: SEGMENTADA (RECOMENDADO)]**
 
-2.  **Rango Mínimo (Segmento Estudiante/Beca):**
-    - **Propuesta:** 70.000 Gs - 90.000 Gs.
-    - **Estrategia:** Solo cupos limitados (ej. "5 cupos beca al mes") para no devaluar tu hora, pero mantener la misión social y ganar experiencia.
+- **Tarifa Night Owl (Madrugada):** 350.000 Gs. (Premium por horario difícil).
+- **Tarifa Pro (Senior/Líderes):** 200.000 - 300.000 Gs. (Prioridad de agenda).
+- **Tarifa Junior (Young Professionals):** 100.000 - 180.000 Gs. (El punto medio ideal).
+- **Tarifa Student (Becados):** 70.000 - 90.000 Gs. (Cupos limitados para impacto social).
 
-3.  **Estructura de Paquetes (Sugerencias):**
-    - [ ] **"Debug Session" (On-demand):** 1 sesión suelta para resolver un problema puntual. Precio Full.
-    - [ ] **"Suscripción Mensual" (Maintenance):** 4 sesiones + Chat ilimitado (o limitado a X mensajes/día). Precio con 10-15% descuento.
-    - [ ] **"Pack Semestral":** Orientado a universitarios para acompañar todo un semestre académico.
+### E.2 Inversión y Costos
 
-4.  **Formas de Pago:**
-    - _Indispensables:_ Transferencia bancaria inmediata (SIPAP), Billeteras (TigoMapy/Zimble para estudiantes).
-    - _Deseable:_### E.3 Modelo de Negocio (Pivot: Consultoría Tech & Chill)
+_(INSTRUCCIÓN: Borra los costos que no vayas a asumir)_
 
-_Estrategia: Lanzar bajo una "Marca de Fantasía" (Brand) para generar ingresos YA, probar la IA y operar sin la rigidez de un consultorio clínico formal._
+**[INVERSIÓN: BOOTSTRAPPING TOTAL (0 Gs)]**
 
-1.  **Fase de Lanzamiento (The "Beta Test"):**
-    - **Concepto:** No vendes "Terapia", vendes "Consultoría de Bienestar Digital" o "Mental Debugging".
-    - **Marca Sugerida (Elige tu Vibe Profesional):**
-      _Selecciona la categoría que más resuene con la imagen que quieres proyectar:_
-      - **Opción A: Tech & Minimalista (Serio, Moderno, "Silicon Valley")**
-        - [ ] **MindSet Lab:** Suena a laboratorio de ideas, muy aceptado en tech.
-        - [ ] **Cortex Consultoría:** Referencia cerebral sutil, muy profesional.
-        - [ ] **Focus State:** Alusión al "estado de flujo" y foco mental.
-        - [ ] **Debug Mental:** Directo al nicho developer, usando su jerga.
-        - [ ] **Logic & Soul:** Contraste fuerte entre ingeniería y psicología.
-      - **Opción B: Humano & Cercano (Cálido, Seguro, "Safe Space")**
-        - [ ] **Espacio Calma:** Simple, directo, promete tranquilidad.
-        - [ ] **Tu Lado B:** Referencia a lo que no se muestra en el trabajo.
-        - [ ] **Refugio Tech:** Explícitamente un lugar seguro para gente de tecnología.
-        - [ ] **Ágora Digital:** Lugar de encuentro y diálogo.
-      - **Opción C: Abstracto & Profesional (Sofisticado, Consultora High-End)**
-        - [ ] **Kairos Wellness:** "Kairos" es el momento oportuno en griego.
-        - [ ] **Aura Strategy:** Mezcla bienestar con estrategia de vida.
-        - [ ] **Nexo Personal:** Conexión entre vida laboral y personal.
-        - [ ] **Delta Growth:** "Delta" implica cambio/diferencia en matemáticas/física.
-        - [ ] **Vector Humano:** Dirección y magnitud, lenguaje ingenieril aplicado a personas.
+- **Recursos:** Laptop actual, Celular actual, Canva Gratuito.
+- **Web:** Perfil de Instagram/LinkedIn bien optimizado (sin pagar hosting).
 
-      - **Opción D: Dinámico & Acción (Coaching, Performance, Resultados)**
-        - [ ] **Level Up Mentality:** Gamification, subir de nivel.
-        - [ ] **Next Step:** Enfocado en el futuro y la acción inmediata.
-        - [ ] **Unlock Potential:** Desbloquear capacidades.
-        - [ ] **Reset Button:** La idea de reiniciar cuando el sistema falla.
-        - [ ] **Shift Perspective:** Cambiar el punto de vista.
+### E.3 Modelo de Negocio (Pivot: Consultoría Tech & Chill)
 
-    - **Propuesta:** "Busco 5 beta-testers para probar una nueva metodología con IA para bajar estrés. Costo reducido a cambio de feedback".
-    - **Ventaja:** Te quita presión clínica. Si la IA falla, es parte del "Beta". Si es informal, es parte del "Vibe".
+_(INSTRUCCIÓN: Elige UNA identidad de marca para tu Beta Test)_
 
-2.  **Horario de Trabajo (Open & On-Demand):**
-    - **Filosofía:** "Tu horario es mi horario". Disponibilidad total para gente que trabaja.
-    - **Bloques Flexibles:**
-      - **After-Office (18:00 - 22:00):** Para desconectar después del trabajo.
-      - **Night Owl (22:00 - 06:00):** Disponibilidad real de Madrugada sin restricciones.
-      - **Power Breaks:** Sesiones cortas al mediodía o media tarde.
-    - _Ventaja:_ "No tenés que pedir permiso en el trabajo para ir al psicólogo, vas cuando terminás (o cuando no podés dormir)".
+**[MARCA A: TECH & MINIMALISTA]**
 
-3.  **Metodología & Filosofía Tecnológica (AI-Powered):**
-    - **Eficiencia Extrema:** Usamos IA para analizar el contexto completo de forma rápida y sin sesgos (_unbiased_).
-    - **Root Cause Analysis:** Vamos directo a la raíz de los problemas usando análisis de datos y patrones, ahorrando meses de charlas superficiales.
-    - **Visión Profunda:** Detectamos lo que no se puede ver a simple vista en pocas sesiones humanas, acelerando el proceso terapéutico.
+- **Nombres:** MindSet Lab, Cortex Consultoría, Debug Mental.
+- **Vibe:** Serio, científico, moderno.
+- **Público:** Developers Senior, CTOs.
 
-4.  **Estrategia de Crecimiento:**
-    - "Guerrilla Marketing" en Discord y Grupos de Facultad.
-    - "¿Estás quemado del código? Vení a desahogarte y probar herramientas nuevas".
+**[MARCA B: HUMANO & CERCANO]**
 
-5.  **Objetivos a 1 Año:**
-    - Generar caja (cashflow) para pagar la matrícula/título.
-    - Tener validado qué herramientas de IA realmente sirven.
-    - Tener una base de datos de usuarios listos para migrar a "Pacientes Clínicos" cuando tengas el título.
+- **Nombres:** Espacio Calma, Tu Lado B, Refugio Tech.
+- **Vibe:** Cálido, protector, "Safe Space".
+- **Público:** Estudiantes estresados, Juniors, mujeres en tech.
+
+**[MARCA C: DINÁMICO & GAMIFIED]**
+
+- **Nombres:** Level Up Mentality, Unlock Potential, Reset Button.
+- **Vibe:** Coaching, acción, subir de nivel.
+- **Público:** Perfiles orientados a performance y objetivos.
+
+**[HORARIO: OPEN & ON-DEMAND]**
+
+- **Filosofía:** "Tu horario es mi horario".
+- **Bloque Sueño:** 01:00 - 05:30 (Recarga / Offline).
+- **Bloque Madrugada:** 05:30 - 09:00 (Atención On-Demand / Early Birds).
+- **Bloque Diurno:** 09:00 - 18:00 (Sesiones Estándar / Gestión).
+- **Bloque After-Office:** 18:00 - 22:00 (Horario Prime / Alta Demanda).
+- **Bloque Nocturno:** 22:00 - 01:00 (Nicho Tech & Gamer / Deep Chat).
+- **Ventaja:** Captas al público que trabaja full-time y no puede pedir permiso.
+
+**[METODOLOGÍA: AI-POWERED]**
+
+- **Filosofía:** Usamos IA para acelerar el insight.
+- **Promesa:** "Root Cause Analysis" (Análisis de Causa Raíz) rápido, sin rodeos.
 
 ---
 
@@ -374,58 +328,55 @@ _Estrategia: Lanzar bajo una "Marca de Fantasía" (Brand) para generar ingresos 
 
 ### F.1 Validación de Supuestos
 
-_Checklist de cosas que debemos probar si son ciertas antes de invertir dinero:_
+_(INSTRUCCIÓN: Borra los riesgos que NO te preocupan)_
 
-1.  **Supuestos más Importantes:**
-    - [ ] **"La gente paga por chat":** Que los usuarios aceptarán pagar por seguimiento vía texto/audio sin ver tu cara todo el tiempo.
-    - [ ] **"Nicho Nocturno":** Que realmente hay demanda a las 2 AM o 3 AM (y no es solo algo que dicen pero no hacen).
-    - [ ] **"Valor de la IA":** Que a los clientes les sirve el "Resumen IA" y lo ven como un _feature_ premium, no como "atención robotizada".
+**[SUPUESTO: PAGO POR CHAT]**
 
-2.  **Riesgos Identificados:**
-    - _Burnout Rápido:_ Que atender de madrugada te destruya el sueño antes de ver dinero.
-    - _Límites Difusos:_ Que los clientes "beta" crean que eres su amiga 24/7 y no respeten los tiempos de respuesta.
-    - _Problema Legal:_ Dar "Consejos" que se malinterpreten como "Diagnóstico Clínico" sin tener el título aún. (Mitigación: Usar Disclaimer de "Consultoría/Coaching").
+- **Hipótesis:** La gente valorará (y pagará por) seguimiento vía WhatsApp/Audio.
+- **Riesgo:** Que asuman que el chat es "gratis" y solo quieran pagar la videollamada.
 
-3.  **Puntos de Incertidumbre:**
-    - ¿Cuánto cobrar exactamente por el pack mensual? (Hay que testear 2 precios).
-    - ¿Qué herramientas de IA son seguras y privadas?
+**[SUPUESTO: NICHO NOCTURNO]**
 
-4.  **Métricas de Éxito (KPIs del Beta):**
-    - Tener 3 clientes pagos en el primer mes.
-    - Que al menos 1 cliente renueve el mes siguiente.
-    - Dormir al menos 6 horas seguidas (Sostenibilidad).
+- **Hipótesis:** Hay demanda real a las 3 AM.
+- **Riesgo:** Que solo sean insomnes sin dinero, o gente en crisis grave que requiere psiquiatra.
 
-### F.2 Plan de Acción Inmediato
+**[RIESGO: BURNOUT PROPIO]**
 
-_Tu hoja de ruta para las próximas 2 semanas (Sprint 1):_
+- **Amenaza:** Que el horario invertido te deteriore la salud.
+- **Mitigación:** Límites estrictos de "Horas de Sueño" diurnas.
 
-1.  **Semana 1: Setup & Branding (Lo Básico)**
-    - [ ] **Elegir Nombre:** Seleccionar una de las opciones de "Marca de Fantasía" (Sección E.3).
-    - [ ] **Crear Perfil "Pro" en Redes:** Un Instagram/TikTok nuevo, separado del personal. Bio: _"Mental Debugging for Tech & Students. AI-Powered."_
-    - [ ] **Definir Stack Tecnológico:** Configurar un WhatsApp Business y elegir qué IA usarás (ej. ChatGPT Plus / Claude con prompts seguros).
-    - [ ] **Escribir el Disclaimer:** Redactar el texto legal de "Esto es consultoría de bienestar, no terapia médica de urgencia".
+### F.2 Plan de Acción Inmediato (Sprint 1)
 
-2.  **Semana 2: Búsqueda de Beta Testers**
-    - [ ] **Contactos Prioritarios:** Hablar con 5 amigos/conocidos del rubro Ingeniería/Informática. Decirles: _"Estoy probando un método nuevo, te regalo 1 sesión de feedback a cambio de tu opinión"_.
-    - [ ] **Lanzar "Oferta Fundador":** Publicar en estados de WA: _"Abro 3 cupos para acompañamiento nocturno/estudios con precio especial"_.
-    - [ ] **Experimento Rápido:** Ofrecer "15 min de Desahogo Audio" gratis a alguien estresado para probar tu capacidad de respuesta.
+_(INSTRUCCIÓN: Este es tu to-do list)_
 
-3.  **Recursos Necesarios (Ya los tenés):**
-    - Celular + WhatsApp Business.
-    - Cuenta de MercadoPago/Banco (Alias fácil de recordar).
-    - Suscripción a una IA (20 USD/mes) - _Única inversión real_.
+**[SEMANA 1: SETUP]**
+
+- Elegir Nombre de Fantasía.
+- Crear Instagram/TikTok nuevo ("Mental Debugging").
+- Configurar WhatsApp Business con respuestas automáticas.
+
+**[SEMANA 2: BETA TESTERS]**
+
+- Contactar 5 amigos del rubro TI.
+- Ofrecer: "1 sesión de feedback gratis a cambio de probar mi método".
+- Validar si se sienten cómodos con el formato asíncrono.
 
 ---
 
 ## Sección G: Visión a Largo Plazo
 
-### G.1 Visión Personal
+_(INSTRUCCIÓN: Elige tu destino final)_
 
-_Sin respuestas aún._
+**[VISIÓN 2: BOUTIQUE LIFESTYLE (FREEDOM)]**
 
-### G.2 Alineación con Propósito
+- **Meta:** Tener una práctica pequeña, exclusiva y de alto valor.
+- **Estilo:** Bajo perfil, solo recomendados, trabajar pocas horas pero cobrar caro.
+- **Negocio:** 10-15 pacientes fijos, mucha libertad de tiempo, nómada digital.
 
-_Sin respuestas aún._
+**[ALINEACIÓN DE PROPÓSITO]**
+
+- **Pregunta Clave:** ¿Por qué haces esto?
+- **Opción D:** "Porque quiero dinero y la libertad de tiempo para viajar y experimentar la vida".
 
 ---
 
@@ -434,6 +385,6 @@ _Sin respuestas aún._
 **Insights Clave Detectados:**
 
 1. **Nicho Claro:** Ingenieros, IT, Tech, Estudiantes.
-2. **Pain Point Real:** Habilidades sociales ("shy"), Soledad, Estrés académico/laboral.
+2. **Pain Point Real:** Habilidades sociales ("shy"), Soledad, Estrés académico/laboral, contencion emocional.
 3. **Océano Azul:** Atención de madrugada/24hs. No hay competencia ahí.
 4. **Apertura a IA:** Pragmática ("si es más barato y eficiente, why not").
