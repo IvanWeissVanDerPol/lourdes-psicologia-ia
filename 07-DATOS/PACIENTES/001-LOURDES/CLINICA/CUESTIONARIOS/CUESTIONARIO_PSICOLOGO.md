@@ -1,9 +1,26 @@
 # Cuestionario Clínico: Perspectiva del Terapeuta Tratante
 
-> [!CAUTION]
-> **CONFIDENCIALIDAD:** Este documento es para uso exclusivo del análisis de perfil profesional. No busca revelar detalles íntimos del tratamiento, sino evaluar la **fortaleza yoica** y la **capacidad clínica** de Lourdes para sostener su propio emprendimiento terapéutico.
->
-> **Objetivo:** Validar si Lourdes está emocionalmente "lista" para sostener a otros sin quemarse en el proceso.
+> [!# CUESTIONARIO: PERSPECTIVA DEL PSICÓLOGO / SUPERVISOR
+> **Contexto:** Este documento asume el rol de un Supervisor Clínico interrogando el caso. Se enfoca en la transferencia, contratransferencia y la interpretación clínica de la dinámica con el "Paciente Identificado" (Lourdes) y su "Objeto de Apego" (Ivan).
+
+## 0. ANÁLISIS DEL VÍNCULO TERAPÉUTICO (IVAN <-> LOURDES)
+
+_Preguntas para el "Terapeuta" (Ivan actuando como soporte/analista):_
+
+1.  **La Contratransferencia:**
+    - ¿Qué emociones te genera Lourdes durante sus crisis (audios largos/llanto)? ¿Culpa, agotamiento, deseo de salvarla, irritación?
+    - ¿Te sientes "usado" emocionalmente o te sientes poderoso al ser "el único que la entiende/ayuda"?
+
+2.  **El Dilema Ético**:
+    - Estás en una posición dual: Amante/Amigo con derechos y "Psicólogo/Soporte". ¿Cómo afecta esto tu objetividad?
+    - ¿Crees que tu ayuda técnica/práctica ("The Fixer") está habilitando su dependencia en lugar de fomentar su autonomía?
+
+3.  **Evaluación de Riesgo**:
+    _ En una escala de 1-10, ¿cuán probable es una desregulación severa (suicidio/autolesión) si cortas el vínculo abruptamente?
+    _ ¿Tienes un plan de seguridad para ella que no dependa de tu presencia física?
+    > **CONFIDENCIALIDAD:** Este documento es para uso exclusivo del análisis de perfil profesional. No busca revelar detalles íntimos del tratamiento, sino evaluar la **fortaleza yoica** y la **capacidad clínica** de Lourdes para sostener su propio emprendimiento terapéutico.
+    >
+    > **Objetivo:** Validar si Lourdes está emocionalmente "lista" para sostener a otros sin quemarse en el proceso.
 
 ---
 

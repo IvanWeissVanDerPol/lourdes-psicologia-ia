@@ -36,6 +36,23 @@
 - **Observation:** She thrives on routine and crashes on ambiguity.
 - **Recommendation:** Establish "Rituals of Connection" (e.g., a guaranteed Good Night text, regardless of the day's mood).
 
+### D. The Need for Competence/Utility (The "Ivan" Gap)
+
+- **Definition:** The need for practical help and problem-solving without emotional cost.
+- **Observation:** Victor fails here ("No sé", "Veremos"). Ivan succeeds here (Fixing PC, advice).
+- **Risk:** Lourdes outsources this need to Ivan, which might lower the friction with Victor but also lowers the interdependence/trust.
+
+---
+
+## 3. The Need Split (Victor vs. Ivan)
+
+| Need Category           | Met by **Victor**?        | Met by **Ivan**?     | Resulting Dynamic                                                                    |
+| :---------------------- | :------------------------ | :------------------- | :----------------------------------------------------------------------------------- |
+| **Emotional Intensity** | ✅ Yes (High)             | ❌ No (Low/Platonic) | Addiction to the "Highs" with Victor.                                                |
+| **Safety/Stability**    | ❌ No (Unpredictable)     | ✅ Yes (Consistent)  | Iván becomes the "Safe Harbor" (Conflict Avoidance).                                 |
+| **Practical Support**   | ❌ Low Interest           | ✅ High Competence   | "Triangulation of Utility" - Asking Ivan to fix things Victor triggers anxiety over. |
+| **Sexual Validation**   | ✅ Yes (Passionate/Rough) | ✅ Yes (Casual/Open) | Confusion. Sexual needs are split between "Passion" (V) and "Exploration" (I).       |
+
 ---
 
 ## 3. "Translation" Script for Therapy

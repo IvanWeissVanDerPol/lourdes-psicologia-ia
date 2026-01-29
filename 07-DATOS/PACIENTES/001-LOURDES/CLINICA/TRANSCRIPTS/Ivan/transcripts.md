@@ -528,7 +528,7 @@ Ay, estuve haciendo muchas cosas que no quería dejar pendiente para la semana, 
 
 ### PTT-20230917-WA0045.opus
 
-holis, uh don't worry yo estoy acá viendo videos de youtube de como testear aplicaciones de dispositivos móviles chileando con renny que f***** calor que hace realmente hoy ah si tengo que ver un flaque cocinó
+holis, uh don't worry yo estoy acá viendo videos de youtube de como testear aplicaciones de dispositivos móviles chileando con renny que f**\*** calor que hace realmente hoy ah si tengo que ver un flaque cocinó
 
 ### PTT-20230917-WA0046.opus
 
@@ -644,7 +644,7 @@ E circunляются. Soy joven, pero me parece que la springs es bueno, pero yo
 
 ### PTT-20230924-WA0027.opus
 
-parties Piendo formalmente Eso. Un банto de COMMPA en la嗎? Y siempre sea que muy, Y초 cuándo ya voy. para queoralmente no estamos. A quién funciono, ¿ percentageo? 있었o, en sight en la verdad ikke, Me agrade a 먹고 sobre tu lo le da***LES. No hayее un golo de acogaba en miulations, no estoy tanheaded , pero no estoy25 recently. No estoy tan degrees, tu likes, pero este fello comeve que si me puedo Toujours, hay un 오늘은 bibolito di **** Y no?
+parties Piendo formalmente Eso. Un банto de COMMPA en la嗎? Y siempre sea que muy, Y초 cuándo ya voy. para queoralmente no estamos. A quién funciono, ¿ percentageo? 있었o, en sight en la verdad ikke, Me agrade a 먹고 sobre tu lo le da**\*LES. No hayее un golo de acogaba en miulations, no estoy tanheaded , pero no estoy25 recently. No estoy tan degrees, tu likes, pero este fello comeve que si me puedo Toujours, hay un 오늘은 bibolito di \*\*** Y no?
 
 ### PTT-20230924-WA0030.opus
 
@@ -874,7 +874,7 @@ Uff, sorri por hace rato, esta va a ser más formico digo Por fin ya anda todo O
 
 ### PTT-20231019-WA0005.opus
 
-Ay, buen día. Recién me avisaron que no trabajo. O sea, como vine a trabajar la mañana, recién me avisaron que no trabajo hasta por la tarde y estoy, ah, qué gusto. No voy a tener que estar a pesar de que es muy tarde hoy. Porque ya... No estoy tolerando más nadie con el que trabajó hasta tarde. Porque su padre es un rey imbécil. Y bueno... Se acostaba a... Ay... Ay, ay, ay... Y ya tengo codigos. Yo... También me invitaría. Cinco de una materia que recurse. Y después dije, voy a hacer otras materias porque de las nuevas materias que llevo este año. Yo también los cuatro trabajo prácticamente en esas materias. Y me queda... Uno que no sabe qué m***. Si tiene, no, no sé qué onda, ¿verdad? Y después cuatro más... quecito que sé. Como que quise tomar la entrevista. Ay... Me da ganas de dormir encima de tu y yo mismo, así, relajarme. Ay... Puedo canalizar todas las entrevistas que... Me faltan dos entrevistas todavía. Y me toca transcribirte a las que hice el domingo, la que le hice a Dari, la que te hizo a vos. Que te transcribiré y todo. Y yo se ve eso ahora mismo. O sea, como me levanté. Me dice, ¿quién vine? Y se ve esto que dice. Y voy a hacer eso. He escuchado el mismo de Dari. Porque se escuchó el primero el tuyo, y me decía, mía, me voy a mojar todavía. Me van a tojar mucho entonces. Y después toqué de leer todos los materiales de la que es la ducteta heuprana. Y después cuando va a ver los otros dos, las otras dos entrevistas, tengo que poner, ¿por qué Iván tiene 15 años? Ah, mentira. Me caí casi en el nariz y todo, así, de lo que es un adulto y siente en el rango la normalidad. Y este adulto, o adulto joven, que es el Novos, ejemplo Dari, ejemplo Topo, bueno, que es el rango la normalidad en cuanto a moción al método, esas cosas de los adultos. Y así esta estupidez, y que se oye, qué paja.
+Ay, buen día. Recién me avisaron que no trabajo. O sea, como vine a trabajar la mañana, recién me avisaron que no trabajo hasta por la tarde y estoy, ah, qué gusto. No voy a tener que estar a pesar de que es muy tarde hoy. Porque ya... No estoy tolerando más nadie con el que trabajó hasta tarde. Porque su padre es un rey imbécil. Y bueno... Se acostaba a... Ay... Ay, ay, ay... Y ya tengo codigos. Yo... También me invitaría. Cinco de una materia que recurse. Y después dije, voy a hacer otras materias porque de las nuevas materias que llevo este año. Yo también los cuatro trabajo prácticamente en esas materias. Y me queda... Uno que no sabe qué m\*\*\*. Si tiene, no, no sé qué onda, ¿verdad? Y después cuatro más... quecito que sé. Como que quise tomar la entrevista. Ay... Me da ganas de dormir encima de tu y yo mismo, así, relajarme. Ay... Puedo canalizar todas las entrevistas que... Me faltan dos entrevistas todavía. Y me toca transcribirte a las que hice el domingo, la que le hice a Dari, la que te hizo a vos. Que te transcribiré y todo. Y yo se ve eso ahora mismo. O sea, como me levanté. Me dice, ¿quién vine? Y se ve esto que dice. Y voy a hacer eso. He escuchado el mismo de Dari. Porque se escuchó el primero el tuyo, y me decía, mía, me voy a mojar todavía. Me van a tojar mucho entonces. Y después toqué de leer todos los materiales de la que es la ducteta heuprana. Y después cuando va a ver los otros dos, las otras dos entrevistas, tengo que poner, ¿por qué Iván tiene 15 años? Ah, mentira. Me caí casi en el nariz y todo, así, de lo que es un adulto y siente en el rango la normalidad. Y este adulto, o adulto joven, que es el Novos, ejemplo Dari, ejemplo Topo, bueno, que es el rango la normalidad en cuanto a moción al método, esas cosas de los adultos. Y así esta estupidez, y que se oye, qué paja.
 
 ### PTT-20231019-WA0074.opus
 
@@ -1566,7 +1566,7 @@ Yo creo que 0 issues es un exponer metodo y hacerle full trauma damping y darle 
 
 ### PTT-20250818-WA0011.opus
 
-Lo suave es que tipo yo vivo en un estado constante de chill en el que ignoro mis issues tipo no issues pero tipo las cosas que me molestan, las cosas que wow me deberían de enojar en vez de enojar me ignoro nomás y me quedo chill hasta que tipo explota y tipo estoy onda no puedo más estar acá y... shi** de no hacer más chill bueno si yo puedo... me es bastante fácil ignorar nomás cuando algo es onda nada no estira o bajón no no sé mala onda, estoy onda chill, me inojo en la PC entonces después se va a calmar pero... def ahora que se que hago eso voy a tomar en cuenta para no hacer más eso
+Lo suave es que tipo yo vivo en un estado constante de chill en el que ignoro mis issues tipo no issues pero tipo las cosas que me molestan, las cosas que wow me deberían de enojar en vez de enojar me ignoro nomás y me quedo chill hasta que tipo explota y tipo estoy onda no puedo más estar acá y... shi\*\* de no hacer más chill bueno si yo puedo... me es bastante fácil ignorar nomás cuando algo es onda nada no estira o bajón no no sé mala onda, estoy onda chill, me inojo en la PC entonces después se va a calmar pero... def ahora que se que hago eso voy a tomar en cuenta para no hacer más eso
 
 ### PTT-20250818-WA0014.opus
 
@@ -2382,7 +2382,7 @@ Olys, uuuu... No, tranqui, si vos yo preguntaba más que nada para saber ondas, 
 
 ### PTT-20251012-WA0015.opus
 
-y van a decir yo no sé, yo nunca comré por esto, ayuda y o sea es que se me complicó al final todo porque tengo que o sea mi alumna me dice que no puede entonces estoy así y jod** o sea si yo no puedo ahora me pido cambiar de hora y yo me quiero pegar un tiro por ahí porque no puedo otra hora y estoy viendo que hacer ayayayayay no sé qué hacer eeeh y si me tengo que tomar mañana entonces y yo tengo que hacer un tp esta bien terminó todo, auxilio por dios y para hacer ese tp tengo que estudiar porque o sea terminar y mañana yo tengo que tener que ver me quiero morir
+y van a decir yo no sé, yo nunca comré por esto, ayuda y o sea es que se me complicó al final todo porque tengo que o sea mi alumna me dice que no puede entonces estoy así y jod\*\* o sea si yo no puedo ahora me pido cambiar de hora y yo me quiero pegar un tiro por ahí porque no puedo otra hora y estoy viendo que hacer ayayayayay no sé qué hacer eeeh y si me tengo que tomar mañana entonces y yo tengo que hacer un tp esta bien terminó todo, auxilio por dios y para hacer ese tp tengo que estudiar porque o sea terminar y mañana yo tengo que tener que ver me quiero morir
 
 ### PTT-20251012-WA0016.opus
 
@@ -4839,4 +4839,3 @@ Estaba prestado one time, no es que trate de hacerle un poco de que se cierre as
 y luego mmm ya esta, creo que ya la vamos a ver donde me del chat del juego obviamente
 
 ---
-

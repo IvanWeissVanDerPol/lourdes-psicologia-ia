@@ -9,16 +9,27 @@
 
 ### Primary Triggers (The "Entry Points")
 
-1.  **Unanswered Messages (The "Void"):**
-    - _Observation:_ Conflict often starts _after_ a period of silence from the partner.
-    - _Patient Quote:_ "Hay veces que no respondes los mensajes... ¿por qué? Para mí me está diciendo que no te importo."
-    - _Reaction:_ Anxiety spikes -> Multiple messages sent -> Tone becomes pleading.
-2.  **Ambiguous Tone (The "Coldness"):**
-    - _Observation:_ Patient interprets neutral/short text responses as anger or withdrawal.
-    - _Patient Quote:_ "Perdón por pensar que me respondes fríamente."
-3.  **Cancellation of Plans:**
-    - _Observation:_ High sensitivity to changes in schedule.
-    - _Context:_ "Me canceló otra vez... no se me hace nada... porque es géle que es mi amigo." (File: `00001125`)
+#### 1. El "Silencio Ambiguo" (El Trigger Maestro)
+
+**Definición:** Lapso de tiempo > 2 horas sin respuesta a un mensaje emocional o de conexión, o respuestas monosilábicas ("Si", "Maso").
+**Contexto (Datos 2025):** Típicamente ocurre cuando Víctor está "trabajando" o "con familia", pero no comunica su indisponibilidad previamente.
+**Reacción de Lourdes:**
+
+1.  **Duda:** "¿Estará enojado?"
+2.  **Protesta:** Mensajes dobles/triples, reclamos ("Viste, no respondes").
+3.  **Fantasía de Abandono:** "Seguro está con otra".
+    **Ejemplo:** _Lourdes esperando respuesta sobre si verse o no, Víctor responde horas después con "Saliendo" sin contexto previo._
+
+#### 2. Invalidación Emocional
+
+**Definición:** Respuestas que minimizan o ridiculizan la angustia de Lourdes.
+**Ejemplo (Víctor):** "Que mongolica jajaja" ante una expresión de inseguridad/celos.
+**Efecto:** Confirma la creencia de Lourdes de ser "demasiado" o "loca", incrementando su necesidad de validación externa (a veces buscada en Iván).
+
+#### 3. Cancellation of Plans
+
+**Observation:** High sensitivity to changes in schedule.
+**Context:** "Me canceló otra vez... no se me hace nada... porque es géle que es mi amigo." (File: `00001125`)
 
 ### Key Dates (Chronological Cluster)
 
@@ -31,17 +42,6 @@
 
 - **Late Night Spirals:** Many emotional voice notes appear to be recorded late at night.
 - **Post-Event Crash:** Emotional drops often occur _after_ seeing the partner (`00000850-AUDIO...` mentions "después de verte").
-
----
-
-## 2. Conflict Archetypes
-
-### Type A: "The Pursuit of Reassurance"
-
-- **Trigger:** Patient feels insecure/unloved.
-- **Action:** Asks for validation ("¿Me quieres?").
-- **Partner Response:** Minimal or delayed.
-- **Result:** Escalation to distress.
 
 ### Type B: "The Defensive Explanation"
 

@@ -44,6 +44,28 @@ Signs that the patient is entering a crisis state:
 
 ---
 
+## 3. Digital Boundary Rules (The "Victor" Firewall)
+
+### Rule A: The "One Minute" Rule
+
+- **Trigger:** Urge to explain yourself via audio.
+- **Action:** If the audio is > 1 minute, **DELETE IT**.
+- **Reason:** Long audios are perceived as "attacks" or "noise" by avoidant partners, triggering _their_ withdrawal and fueling _your_ anxiety.
+
+### Rule B: The "Airplane Mode" Tactic
+
+- **Trigger:** Victor does not reply for > 2 hours.
+- **Action:** Put phone on Airplane Mode for 30 minutes.
+- **Reason:** Removes the possibility of the "ding" dopamine hit. You regain control of the silence.
+
+### Rule C: The "Third Party Check" (Anti-Triangulation)
+
+- **Trigger:** Temptation to mention a "Special Person" (Ivan) to make Victor jealous.
+- **Action:** Stop. Write down: "I am feeling invalid. I want to hurt him back."
+- **Reason:** Mentioning third parties only confirms Victor's narrative that _you_ are unstable/unfaithful. It backfires 100% of the time.
+
+---
+
 ## 3. Emergency Contacts
 
 - **Psychologist:** [Insert Name]

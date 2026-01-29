@@ -29,6 +29,24 @@ Para el análisis detallado, consulte los siguientes documentos generados:
     - _Contenido:_ Plan de seguridad (Protocolo D.E.E.P.) para eventos de desregulación severa.
     - _Uso:_ Activación inmediata ante marcadores somáticos de colapso.
 
+6.  **[RAW EVIDENCE] [Deep Extraction Report](REPORTS/DEEP_EXTRACTION_REPORT_Victor.md)**
+    - _Contenido:_ Banco de datos crudos (33k+ caracteres) de transcripciones clasificadas por emoción.
+    - _Uso:_ Referencia forense para buscar citas textuales.
+
+---
+
+## 6. 💘 ECOSISTEMA RELACIONAL (EL TRIÁNGULO)
+
+**A. Pareja Actual: [VICTOR (Ver Reporte Detallado)](ANALISIS_RELACION_VICTOR.md)**
+
+- **Dinámica:** Ciclo de Persecución-Distancia. Fuente de estrés primario (2025).
+
+**B. Ex-Pareja/Soporte: [IVAN (Ver Reporte Detallado)](ANALISIS_RELACION_IVAN.md)**
+
+- **Dinámica:** "The Fixer". Fuente de seguridad práctica y memoria afectiva (2023-Presente).
+
+**Insight:** Lourdes triangula sus necesidades: Busca intensidad con Victor y estabilidad con Ivan.
+
 ---
 
 ## 1. RESUMEN EJECUTIVO
@@ -39,10 +57,11 @@ Para el análisis detallado, consulte los siguientes documentos generados:
 
 ### Dinámica Central
 
-La paciente se encuentra atrapada en un ciclo de **Persecución-Distanciamiento** con su pareja (Víctor).
+La paciente se encuentra atrapada en un ciclo de **Persecución-Distanciamiento** con su pareja actual (**Víctor**).
 
 - **Lourdes (Ansiosa):** Busca reaseguro constante ("¿Estás bien?") ante la percepción de amenaza.
 - **Víctor (Evitativo):** Responde al estrés con retirada y silencio, lo que confirma los miedos de Lourdes.
+- **Rol de Iván:** Funciona accidentalmente como "tercero regulador" (triangulación), proveyendo la calma que Víctor no da, lo que impide que la crisis con Víctor se resuelva o termine.
 
 ---
 

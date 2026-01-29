@@ -1,63 +1,75 @@
-# Cuestionario Profundo: Pareja / Confidente Íntimo
+# CUESTIONARIO: DINÁMICA DE PAREJA Y SOPORTE VINCULAR
 
-> [!NOTE]
-> **Objetivo:** Obtener la visión más cruda y realista del día a día de Lourdes. Entender sus miedos, sus sueños reales (sin filtro profesional) y sus necesidades emocionales.
-> **Instrucciones:** Sé brutalmente honesto. Valida o corrige las opciones pre-llenadas.
+> **Enfoque:** Análisis del "Ecosistema Relacional" (Victor vs. Ivan).
+> **Objetivo:** Entender cómo el vínculo con la Ex-Pareja (Ivan) sostiene o habilita la inestabilidad con la Pareja Actual (Victor).
 
----
+## 1. LA PAREJA ACTUAL: VICTOR ("La Montaña Rusa")
 
-## 1. La Realidad Cotidiana (Behind the Scenes)
+> _Foco: Identificar el refuerzo intermitente que te mantiene enganchada._
 
-**1.1. ¿Cuál es el mayor desafío diario de Lourdes hoy en día?**
+**1.1. La Moneda de Cambio:**
+¿Qué te da Victor que Ivan _no_ te da? (Sé brutalmente honesta. ¿Es pasión? ¿Es validación de alguien "difícil"? ¿Es la sensación de triunfo cuando responde?)
 
-- [x] **Opción A (Pre-llenada): Síndrome del Impostor y Perfeccionismo**
-  - "Lucha mucho con creerse capaz. Aunque saca buenas notas y todos le dicen que es brillante, ella a veces se siente un fraude. Relee sus tesis mil veces. Tarda horas en hacer un post de Instagram porque quiere que sea perfecto. Mi trabajo es recordarle constantemente que ella VALE y que sabe lo que hace."
-- [ ] **Opción B: Falta de Tiempo**
-  - "Simplemente tiene demasiadas cosas que hacer y no le dan las horas."
-- [ ] **Opción C: Otra**
-  - _(Escriba su observación aquí)_...
+- [ ] ***
 
-**1.2. ¿Cómo es su relación con la tecnología en la intimidad?**
+**1.2. El Ciclo del Silencio:**
+Cuando Victor desaparece o duerme (El Silencio), ¿cuál es tu primer pensamiento automático?
 
-- [x] **Opción A (Pre-llenada): Simbiosis Total (a veces demasiado)**
-  - "Su celular es una extensión de su mano. Lee papers en el cel, contesta mensajes, ve TikToks de psicología. A veces tengo que pedirle 'amor, dejá el cel un rato'. Pero también es nuestra forma de conectar: nos mandamos memes, jugamos juntos. La tecnología no es una barrera entre nosotros, es un puente, pero a veces necesita límites para descansar la vista y la mente."
+- [ ] "Está enojado conmigo."
+- [ ] "Le pasó algo."
+- [ ] "Está con otra."
+- [ ] "Soy aburrida."
 
----
+**1.3. La Fantasía Futura:**
+Si Victor NO cambiara nada (sigue igual de evitativo por 5 años), ¿te quedarías?
 
-## 2. Sueños y Ambiciones (Sin Filtro)
-
-**2.1. Cuando habla de su futuro negocio a las 2 de la mañana, ¿qué dice realmente?**
-
-- [x] **Opción A (Pre-llenada): Impacto y Libertad**
-  - "No habla de ser millonaria (aunque no le molestaría). Habla de cambiar cómo se ve la terapia en Paraguay. Dice cosas como 'Quiero que los devs dejen de sufrir en silencio'. Y habla mucho de libertad: quiere poder trabajar desde cualquier lado, no depender de un jefe que le diga qué hacer. Le aterra la idea de un trabajo de oficina gris y burocrático."
-- [ ] **Opción B: Estabilidad y Seguridad**
-  - "Solo quiere un sueldo seguro y jubilarse tranquila."
-
-**2.2. ¿Qué le da más miedo de lanzarse sola?**
-
-- [x] **Opción A (Pre-llenada): Exponerse y ser Juzgada**
-  - "Le da pánico la exposición pública en redes. El 'qué dirán' los colegas más viejos o sus profesores. Tiene miedo de que alguien le comente algo feo en un post y eso la desestabilice. Le da miedo fallar públicamente. El riesgo económico le preocupa, pero el riesgo social/reputacional le asusta más."
+- [ ] Sí (¿Por qué?)
+- [ ] No (¿Qué estás esperando que cambie exactamente?)
 
 ---
 
-## 3. Dinámica de Apoyo Emocional
+## 2. EL PUERTO SEGURO: IVAN ("El Ancla")
 
-**3.1. ¿Cuál es la mejor forma de ayudarla cuando está bloqueada o triste?**
+> _Foco: Entender la función psicológica de Ivan en tu vida actual._
 
-- [x] **Opción A (Pre-llenada): Presencia Silenciosa y Comida**
-  - "No tratar de solucionarle el problema inmediatamente. Solo estar ahí. Traerle su comida favorita (sushi/pizza/lo que ame). Escucharla descargar su frustración sin juzgar. Y después, proponerle una distracción: '¿Jugamos una partida?' o 'Vamos a caminar'. Sacarla de su cabeza es la clave."
-- [ ] **Opción B: Dejarla sola**
-  - "Necesita espacio total, me voy de la casa por unas horas."
+**2.1. El Contrastre de Seguridad:**
+Cuando hablas con Ivan sobre un problema, ¿cómo te sientes físicamente en comparación a cuando hablas con Victor?
 
-**3.2. ¿Qué rol juegas tú en su proyecto 'LourdesBusiness'?**
+- [ ] Con Ivan: (ej. Hombros relajados, respiración lenta)
+- [ ] Con Victor: (ej. Taquicardia, nudo en el estómago)
 
-- [x] **Opción A (Pre-llenada): El Tester y Porrista Oficial**
-  - "Soy el primero que lee sus ideas. Soy el que le dice 'esto está buenísimo, subilo'. Soy el que le ayuda a configurar el micrófono o la cámara si no anda. Soy su ancla a tierra cuando vuela demasiado o cuando se hunde en inseguridades."
+**2.2. La Dependencia "Técnica":**
+Ivan te arregla la PC, te da consejos médicos (melatonina), te escucha. ¿Crees que podrías tolerar los silencios de Victor si NO tuvieras a Ivan para llenarlos?
+
+- [ ] Sí, podría sola.
+- [ ] No, colapsaría sin Ivan.
+- [ ] Ivan hace que Victor sea "tolerable" porque llena mis vacíos.
+
+**2.3. Límites Difusos (FWB):**
+Dado que han tenido intimidad en el pasado (2023) y mantienen una amistad estrecha:
+
+- ¿Siente Victor celos de Ivan?
+- ¿Usas a Ivan para darle celos a Victor (consciente o inconscientemente)?
 
 ---
 
-### Comentarios Adicionales de la Pareja
+## 3. LA PREGUNTA DEL MILLÓN (EL TRIÁNGULO)
 
-_(Cosas que solo tú ves)_
+**3.1. Hipótesis de Sustitución:**
+Si mañana Ivan desapareciera de la faz de la tierra (sin contacto posible)...
+¿Cuánto tiempo duraría tu relación con Victor?
 
->
+- [ ] Menos de un mes.
+- [ ] Igual que siempre.
+- [ ] Mejoraría (me enfocaría solo en Victor).
+
+**3.2. ¿Quién es "Tu Persona"?**
+Si tienes una emergencia médica grave a las 3 AM:
+
+- ¿A quién llamas primero? ********\_\_********
+- ¿Quien esperas que conteste primero? ********\_\_********
+- ¿Te duele esa discrepancia?
+
+---
+
+> **Nota para Lourdes:** Este cuestionario no es para juzgar, sino para ver si Ivan está actuando como una "muleta" que te permite caminar con una pierna rota (Victor) en lugar de sanarla o cambiar de camino.
