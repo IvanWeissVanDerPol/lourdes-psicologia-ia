@@ -1,0 +1,91 @@
+# Configuración APA 7 para Documentos Profesionales
+# Basado en: Publication Manual APA 7th Edition (2020)
+
+document:
+  type: professional
+
+  # Márgenes: 1 pulgada en todos los lados (APA 7, p. 44)
+  margins:
+    top: 1.0
+    bottom: 1.0
+    left: 1.0
+    right: 1.0
+    units: inches
+
+  # Tamaño de página: Carta (8.5 x 11 pulgadas)
+  page:
+    width: 8.5
+    height: 11
+    units: inches
+
+  # Fuente: Times New Roman 12pt, doble espacio (APA 7, p. 44)
+  font:
+    name: Times New Roman
+    size: 12
+    line_spacing: 2.0
+
+  # Running head: SÍ para profesionales (APA 7, p. 30)
+  running_head:
+    enabled: true
+    max_length: 50
+    uppercase: true
+    alignment: left
+
+# Portada (APA 7, p. 30)
+cover_page:
+  enabled: true
+  elements:
+    - title          # Título del trabajo (negrita, centrado)
+    - author         # Nombre del autor
+    - institution    # Afiliación institucional
+    - author_note    # Nota del autor (opcional)
+
+  alignment: center
+
+  spacing:
+    before_title: 10  # Más espacio para profesionales
+    after_title: 1
+
+# Resumen/Abstract (APA 7, p. 38)
+abstract:
+  enabled: true
+  keywords: true
+  max_words: 250
+  indent_keywords: true
+  keywords_italic: true
+
+# Referencias (APA 7, p. 303-304)
+references:
+  hanging_indent: 0.5
+  hanging_indent_units: inches
+  auto_detect: true
+  double_space: true
+
+# Tablas (APA 7, p. 195-215)
+tables:
+  borders:
+    top: single        # Borde superior
+    bottom: single     # Borde inferior
+    left: none         # Sin borde izquierdo
+    right: none        # Sin borde derecho
+    inside_vertical: none      # Sin bordes verticales internos
+    inside_horizontal: single  # Bordes horizontales entre filas
+
+  caption_style:
+    number_bold: true
+    title_italic: true
+    alignment: left
+
+# Figuras (APA 7, p. 225-250)
+figures:
+  caption_style:
+    number_bold: true
+    title_italic: true
+    alignment: left
+
+# Listas (APA 7, p. 189-192)
+lists:
+  bullet_indent: 0.5
+  bullet_indent_units: inches
+  numbered_indent: 0.5
+  numbered_indent_units: inches

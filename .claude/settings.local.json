@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python extract_docx.py:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(python analyze_docx.py:*)",
+      "Bash(rm:*)",
+      "Bash(python analyze_tesis_docx.py:*)",
+      "Bash(dir:*)",
+      "Bash(python -c:*)",
+      "Bash(python analyze_apa7_compliance.py:*)",
+      "Bash(python extract_sections.py:*)",
+      "Bash(python apply_apa7_corrections.py:*)",
+      "Bash(python validate_corrected_document.py:*)",
+      "Bash(python enhance_tables_styling.py:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
