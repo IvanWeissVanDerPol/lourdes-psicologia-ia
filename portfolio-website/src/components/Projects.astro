@@ -1,0 +1,160 @@
+---
+// Projects section component - loads all content from data files
+import { portfolioData, themeConfig } from '../data/index.js';
+
+// Filter featured projects
+const featuredProjects = portfolioData.projects.filter(project => project.featured);
+const otherProjects = portfolioData.projects.filter(project => !project.featured);
+---
+
+<article id={portfolioData.sectionId} class={portfolioData.layout.wrapperClass}>
+  <div 
+    class={portfolioData.layout.containerClass}
+    data-sal="fade"
+    data-sal-duration="800"
+  >
+    <header class="major">
+      <h2 data-sal="slide-up" data-sal-delay="100">{portfolioData.title}</h2>
+      <p data-sal="slide-up" data-sal-delay="200">{portfolioData.subtitle}</p>
+    </header>
+
+    <!-- Featured Projects -->
+    <section class="featured-projects">
+      <h3 
+        class="section-subtitle"
+        data-sal="slide-right" 
+        data-sal-delay="200"
+      >
+        Featured Projects
+      </h3>
+      
+      <div class="row gtr-uniform">
+        {featuredProjects.map((project, index) => (
+          <div class="col-6 col-12-medium">
+            <div 
+              class="project-card featured"
+              data-sal="zoom-in" 
+              data-sal-delay={300 + (index * 150)}
+            >
+              <div class="project-image">
+                <img src={project.image} alt={project.title} />
+                <div class="project-overlay">
+                  <div class="project-links">
+                    {project.liveUrl && (
+                      <a href={project.liveUrl} class="button small" target="_blank" rel="noopener">
+                        <i class="icon solid fa-external-link-alt"></i> Live Demo
+                      </a>
+                    )}
+                    {project.githubUrl && (
+                      <a href={project.githubUrl} class="button small" target="_blank" rel="noopener">
+                        <i class="icon brands fa-github"></i> Code
+                      </a>
+                    )}
+                  </div>
+                </div>
+              </div>
+              
+              <div class="project-content">
+                <header>
+                  <h4>{project.title}</h4>
+                  <span class="category">{project.category}</span>
+                  <span class={`status status-${project.status}`}>{project.status}</span>
+                </header>
+                
+                <p>{project.description}</p>
+                
+                <div class="technologies">
+                  {project.technologies.map(tech => (
+                    <span class="tech-tag">{tech}</span>
+                  ))}
+                </div>
+                
+                <div class="highlights">
+                  <h5>Key Features:</h5>
+                  <ul>
+                    {project.highlights.map(highlight => (
+                      <li>{highlight}</li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Other Projects -->
+    {otherProjects.length > 0 && (
+      <section class="other-projects" style="margin-top: 3em;">
+        <h3 
+          class="section-subtitle"
+          data-sal="slide-right" 
+          data-sal-delay="200"
+        >
+          Other Projects
+        </h3>
+        
+        <div class="row gtr-uniform">
+          {otherProjects.map((project, index) => (
+            <div class="col-4 col-6-medium col-12-small">
+              <div 
+                class="project-card compact"
+                data-sal="fade" 
+                data-sal-delay={300 + (index * 100)}
+              >
+                <header>
+                  <h5>{project.title}</h5>
+                  <span class="category">{project.category}</span>
+                </header>
+                
+                <p>{project.description}</p>
+                
+                <div class="technologies">
+                  {project.technologies.slice(0, 3).map(tech => (
+                    <span class="tech-tag small">{tech}</span>
+                  ))}
+                  {project.technologies.length > 3 && (
+                    <span class="tech-tag small more">+{project.technologies.length - 3}</span>
+                  )}
+                </div>
+                
+                <div class="project-links">
+                  {project.liveUrl && (
+                    <a href={project.liveUrl} class="link-icon" target="_blank" rel="noopener">
+                      <i class="icon solid fa-external-link-alt"></i>
+                    </a>
+                  )}
+                  {project.githubUrl && (
+                    <a href={project.githubUrl} class="link-icon" target="_blank" rel="noopener">
+                      <i class="icon brands fa-github"></i>
+                    </a>
+                  )}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Call to Action -->
+    <section class="cta-section" style="margin-top: 3em;">
+      <div 
+        class="cta-content"
+        data-sal="fade" 
+        data-sal-delay="200"
+      >
+        <h3>{portfolioData.callToAction.title}</h3>
+        <p>{portfolioData.callToAction.description}</p>
+        <a href={portfolioData.callToAction.buttonLink} class="button large">
+          {portfolioData.callToAction.buttonText}
+        </a>
+      </div>
+    </section>
+  </div>
+</article>
+
+<style>
+  @import '../styles/sections/projects.css';
+</style>

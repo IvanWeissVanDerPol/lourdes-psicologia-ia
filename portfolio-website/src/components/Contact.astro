@@ -1,0 +1,168 @@
+---
+// Modern Contact & Footer section - professional and branded
+import { contactData, socialLinks } from '../data/index.js';
+import Button from './ui/Button.astro';
+import Card from './ui/Card.astro';
+---
+
+<article id={contactData.sectionId} class="contact-section">
+  <div class="contact-container">
+    <!-- Background Elements -->
+    <div class="contact-background">
+      <div class="contact-pattern"></div>
+      <div class="contact-gradient"></div>
+    </div>
+
+    <!-- Contact Content -->
+    <div class="contact-content">
+      <!-- Contact Header -->
+      <div class="contact-header">
+        <h2 class="contact-title">Trabajemos Juntos</h2>
+        <p class="contact-subtitle">
+          ¿Lista para llevar tu proyecto al siguiente nivel? Estoy disponible para trabajo freelance y oportunidades emocionantes.
+        </p>
+      </div>
+
+      <!-- Contact Cards -->
+      <div class="contact-cards">
+        <!-- Email Card -->
+        <Card variant="feature" class="contact-card">
+          <div class="contact-card-icon">
+            <i class="fas fa-envelope"></i>
+          </div>
+          <div class="contact-card-content">
+            <h3>Envíame un email</h3>
+            <p>Típicamente respondo dentro de 24 horas</p>
+            <button class="contact-link-btn contact-modal-trigger">
+              {contactData.email}
+            </button>
+          </div>
+        </Card>
+
+        <!-- Calendar Card -->
+        <Card variant="feature" class="contact-card">
+          <div class="contact-card-icon">
+            <i class="fas fa-calendar-alt"></i>
+          </div>
+          <div class="contact-card-content">
+            <h3>Programa una llamada</h3>
+            <p>Hablemos sobre tu proyecto en detalle</p>
+            <button class="contact-link-btn contact-modal-trigger">
+              Reservar reunión
+            </button>
+          </div>
+        </Card>
+
+        <!-- Location Card -->
+        <Card variant="feature" class="contact-card">
+          <div class="contact-card-icon">
+            <i class="fas fa-map-marker-alt"></i>
+          </div>
+          <div class="contact-card-content">
+            <h3>Con base en Paraguay</h3>
+            <p>Disponible para trabajo remoto y presencial</p>
+            <span class="contact-info">UTC-3 timezone</span>
+          </div>
+        </Card>
+      </div>
+
+      <!-- Call to Action -->
+      <div class="contact-cta">
+        <h3>¿Lista para comenzar?</h3>
+        <p>Escríbeme y creemos algo increíble juntos.</p>
+        <div class="cta-buttons">
+          <button class="btn btn-primary btn-large contact-modal-trigger">
+            <span class="btn-icon">✉️</span>
+            Enviar Mensaje
+          </button>
+          <button class="btn btn-secondary btn-large contact-modal-trigger">
+            <span class="btn-icon">💼</span>
+            Discutir Proyecto
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+      <div class="footer-content">
+        <!-- Footer Main -->
+        <div class="footer-main">
+          <div class="footer-brand">
+            <h3 class="brand-name gradient-text">Lourdes Nathalia Rios Delvalle</h3>
+            <p class="brand-tagline">Construyendo soluciones con calidad humana y responsabilidad</p>
+          </div>
+
+          <div class="footer-links">
+            <div class="footer-section">
+              <h4>Navigation</h4>
+              <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#work">Experience</a></li>
+              </ul>
+            </div>
+
+            <div class="footer-section">
+              <h4>Competencias</h4>
+              <ul>
+                <li><a href="#skills">Reclutamiento</a></li>
+                <li><a href="#skills">Selección</a></li>
+                <li><a href="#skills">Procesos</a></li>
+                <li><a href="#skills">Calidad</a></li>
+              </ul>
+            </div>
+
+            <div class="footer-section">
+              <h4>Connect</h4>
+              <div class="footer-social">
+                {socialLinks.all.map(link => (
+                  <a href={link.url} class={`footer-social-link icon brands ${link.icon}`} target="_blank" rel="noopener">
+                    <span class="sr-only">{link.label}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Footer Bottom -->
+        <div class="footer-bottom">
+          <div class="footer-info">
+            <p>&copy; {new Date().getFullYear()} Lourdes Nathalia Rios Delvalle. Todos los derechos reservados.</p>
+            <p>Construido con <span class="heart">❤️</span> usando tecnologías web modernas.</p>
+          </div>
+          
+          <div class="footer-meta">
+            <span class="status-indicator">
+              <span class="status-dot"></span>
+              Disponible para trabajar
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Footer Pattern -->
+      <div class="footer-pattern"></div>
+    </footer>
+  </div>
+</article>
+
+<style>
+  @import '../styles/sections/contact.css';
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const contactModalTriggers = document.querySelectorAll('.contact-modal-trigger');
+    
+    contactModalTriggers.forEach(trigger => {
+      trigger.addEventListener('click', function() {
+        if (typeof window.openContactModal === 'function') {
+          window.openContactModal();
+        }
+      });
+    });
+  });
+</script>

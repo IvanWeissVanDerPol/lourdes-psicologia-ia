@@ -1,0 +1,257 @@
+---
+export interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Lourdes Nathalia Rios Delvalle - Comercio Internacional | Psicología | Analista de Procesos' } = Astro.props;
+
+// Import ContactModal component
+import ContactModal from '../components/ui/ContactModal.astro';
+---
+
+<!DOCTYPE html>
+<html lang="en" class="theme-midnight">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    
+    <!-- Essential Meta Tags -->
+    <title>{title}</title>
+    <meta name="author" content="Lourdes Nathalia Rios Delvalle" />
+    <meta name="robots" content="index, follow" />
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={Astro.url} />
+    <meta property="og:image" content="/images/logo.jpg" />
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content="/images/logo.jpg" />
+
+    <!-- Performance Hints -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+    
+    <!-- Immediate Theme Initialization - Prevent FOUC -->
+    <script is:inline>
+      // Immediate theme initialization to prevent flash of unstyled content
+      (function() {
+        // Get stored theme or default to midnight
+        const storedTheme = localStorage.getItem('preferred-theme') || 'midnight';
+        
+        // Set theme class immediately
+        document.documentElement.className = `theme-${storedTheme}`;
+        
+        // Set immediate background to prevent flash
+        document.documentElement.style.backgroundColor = '#000000';
+        document.documentElement.style.color = '#f8fafc';
+      })();
+    </script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css" />
+    
+    <!-- Critical Dark Theme Override - Load AFTER HTML5UP -->
+    <style>
+      /* CRITICAL: Override HTML5UP main.css with highest specificity */
+      html, body {
+        background: #000000 !important;
+        color: #f8fafc !important;
+      }
+      
+      #wrapper,
+      .wrapper,
+      main,
+      #main,
+      #main-content,
+      .main-content {
+        background: #000000 !important;
+        color: #f8fafc !important;
+      }
+      
+      .wrapper.style1,
+      .wrapper.style2,
+      .wrapper.style3,
+      .wrapper.style4,
+      .wrapper.style5,
+      article[id*="about"],
+      article[id*="projects"],
+      article[id*="skills"],
+      article[id*="work"],
+      article[id*="contact"],
+      section[id*="about"],
+      section[id*="projects"],
+      section[id*="skills"],
+      section[id*="work"],
+      section[id*="contact"] {
+        background: #000000 !important;
+        color: #f8fafc !important;
+      }
+      
+      .container,
+      .row,
+      [class*="col-"],
+      .content,
+      .inner {
+        background: transparent !important;
+        color: #f8fafc !important;
+      }
+      
+      h1, h2, h3, h4, h5, h6 {
+        color: #ffffff !important;
+      }
+      
+      p, div, span, li {
+        color: #f8fafc !important;
+      }
+      
+      a:not([class*="button"]) {
+        color: #60a5fa !important;
+      }
+      
+      /* Projects section specific overrides */
+      .featured-projects,
+      .other-projects,
+      .cta-section,
+      .project-card,
+      .project-content {
+        background: transparent !important;
+        color: #f8fafc !important;
+      }
+      
+      .project-card {
+        background: #111111 !important;
+        border: 1px solid #334155 !important;
+      }
+      
+      .project-card h4,
+      .project-card h5 {
+        color: #ffffff !important;
+      }
+      
+      .project-card p {
+        color: #e2e8f0 !important;
+      }
+      
+      .tech-tag {
+        background: #1e293b !important;
+        color: #60a5fa !important;
+        border: 1px solid #334155 !important;
+      }
+    </style>
+    
+    <!-- Custom Dark Theme Base -->
+    <style>
+      /* Critical CSS for theme system */
+      :root {
+        /* Default midnight theme variables */
+        --bg-primary: #000000;
+        --bg-secondary: #111111;
+        --bg-tertiary: #222222;
+        --bg-glass: rgba(0, 0, 0, 0.8);
+        --bg-card: rgba(17, 17, 17, 0.9);
+        --text-primary: #f8fafc;
+        --text-secondary: #cbd5e1;
+        --text-muted: #94a3b8;
+        --text-heading: #ffffff;
+        --text-accent: #60a5fa;
+        --color-primary: #3b82f6;
+        --color-secondary: #8b5cf6;
+        --color-accent: #06b6d4;
+        --border-primary: rgba(59, 130, 246, 0.3);
+        --border-light: rgba(248, 250, 252, 0.1);
+        --gradient-primary: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+        --gradient-hero: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 50%, #06b6d4 100%);
+        
+        /* Accessibility */
+        --focus-ring: 2px solid var(--color-primary);
+        --focus-offset: 2px;
+        
+        /* Animation preferences */
+        --transition-fast: 0.15s ease;
+        --transition-normal: 0.2s ease;
+        --transition-slow: 0.3s ease;
+      }
+
+      /* Ensure immediate dark theme */
+      html,
+      body {
+        background: var(--bg-primary) !important;
+        color: var(--text-primary) !important;
+        scroll-behavior: smooth;
+      }
+
+      /* Skip link for accessibility */
+      .skip-link {
+        position: absolute;
+        top: -40px;
+        left: 6px;
+        background: var(--color-primary);
+        color: white;
+        padding: 8px;
+        text-decoration: none;
+        border-radius: 4px;
+        z-index: 9999;
+        transition: top 0.2s ease;
+      }
+
+      .skip-link:focus {
+        top: 6px;
+      }
+
+      /* Focus management */
+      *:focus {
+        outline: var(--focus-ring);
+        outline-offset: var(--focus-offset);
+      }
+
+      /* Reduced motion support */
+      @media (prefers-reduced-motion: reduce) {
+        * {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+        }
+        
+        html {
+          scroll-behavior: auto;
+        }
+      }
+    </style>
+  </head>
+  
+  <body>
+    <!-- Main wrapper with semantic structure -->
+    <div id="wrapper">
+      <main id="main-content" class="main-content">
+        <slot />
+      </main>
+    </div>
+    
+    <!-- Contact Modal - Global component -->
+    <ContactModal />
+    
+    <!-- Modern UI Module - Replaces jQuery -->
+    <script>
+      import { initializeUI } from '../scripts/ui.ts';
+      
+      // Initialize all UI components when DOM is ready
+      initializeUI();
+    </script>
+
+    <!-- Legacy fallback for browsers without module support -->
+    <script nomodule is:inline>
+      console.warn('This browser does not support ES6 modules. Some features may not work correctly.');
+    </script>
+  </body>
+</html>

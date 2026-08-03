@@ -1,0 +1,97 @@
+<!-- ---
+// Work section component - modular and reusable
+import { workData, themeConfig } from '../data/index.js';
+import SectionHeader from './ui/SectionHeader.astro';
+import WorkExperience from './sections/WorkExperience.astro';
+import Card from './ui/Card.astro';
+import Button from './ui/Button.astro';
+---
+
+<article id={workData.sectionId} class={workData.layout.wrapperClass}>
+  <div 
+    class={workData.layout.containerClass}
+    data-sal="fade"
+    data-sal-duration="800"
+  >
+    <SectionHeader 
+      title={workData.title}
+      subtitle={workData.subtitle}
+    />
+
+    <section class="work-timeline">
+      <h3 
+        class="timeline-title"
+        data-sal="slide-right" 
+        data-sal-delay="200"
+      >
+        Professional Experience
+      </h3>
+      
+      <div class="timeline-container">
+        {workData.experiences.map((experience, index) => (
+          <div class="timeline-item">
+            <WorkExperience 
+              company={experience.company}
+              position={experience.position}
+              duration={experience.duration}
+              location={experience.location}
+              type={experience.type}
+              status={experience.status}
+              description={experience.description}
+              responsibilities={experience.responsibilities}
+              technologies={experience.technologies}
+              achievements={experience.achievements}
+              companyInfo={experience.companyInfo}
+              data-sal="fade-up"
+              data-sal-delay={300 + (index * 200)}
+            />
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="work-stats" style="margin-top: 3em;">
+      <div 
+        class="stats-container"
+        data-sal="slide-up" 
+        data-sal-delay="200"
+      >
+        <h3>Career Highlights</h3>
+        <div class="stats-grid">
+          <div class="stat-item" data-sal="zoom-in" data-sal-delay="300">
+            <span class="stat-number">{workData.statistics.totalProjects}</span>
+            <span class="stat-label">Total Projects</span>
+          </div>
+          <div class="stat-item" data-sal="zoom-in" data-sal-delay="400">
+            <span class="stat-number">{workData.statistics.clientProjects}</span>
+            <span class="stat-label">Client Projects</span>
+          </div>
+          <div class="stat-item" data-sal="zoom-in" data-sal-delay="500">
+            <span class="stat-number">{workData.statistics.technologiesUsed}</span>
+            <span class="stat-label">Technologies Used</span>
+          </div>
+          <div class="stat-item" data-sal="zoom-in" data-sal-delay="600">
+            <span class="stat-number">{workData.statistics.yearsOfExperience}</span>
+            <span class="stat-label">Years Experience</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="work-cta" style="margin-top: 3em;">
+      <Card variant="feature" data-sal="fade" data-sal-delay="200">
+        <div class="cta-content">
+          <h3>{workData.callToAction.title}</h3>
+          <p>{workData.callToAction.description}</p>
+          <Button variant="primary" size="large" href={workData.callToAction.buttonLink}>
+            {workData.callToAction.buttonText}
+          </Button>
+        </div>
+      </Card>
+    </section>
+  </div>
+</article>
+
+<style>
+  @import '../styles/sections/work.css';
+</style> -->

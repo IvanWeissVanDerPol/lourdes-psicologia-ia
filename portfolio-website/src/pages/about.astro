@@ -1,0 +1,15 @@
+---
+// About Me page - unified single-page layout with side navigation
+import Layout from '../layouts/Layout.astro';
+import Navigation from '../components/Navigation.astro';
+import AboutUnified from '../components/AboutUnified.astro';
+import { siteConfig } from '../data/index.js';
+---
+
+<Layout 
+  title={`About Me - ${siteConfig.title}`}
+  description="Conoce más sobre Lourdes Nathalia Rios Delvalle - Comercio Internacional, Psicología, habilidades, proyectos y experiencia profesional"
+>
+  <Navigation />
+  <AboutUnified />
+</Layout> 
