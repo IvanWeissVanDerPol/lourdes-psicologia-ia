@@ -1,0 +1,15 @@
+---
+// Home page - minimal landing page with hero section only
+import Layout from '../layouts/Layout.astro';
+import Navigation from '../components/Navigation.astro';
+import Hero from '../components/Hero.astro';
+import { siteConfig } from '../data/index.js';
+---
+
+<Layout 
+  title={siteConfig.title}
+  description={siteConfig.description}
+>
+  <Navigation />
+  <Hero />
+</Layout>

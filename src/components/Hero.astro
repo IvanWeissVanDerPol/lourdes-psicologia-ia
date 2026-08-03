@@ -1,0 +1,299 @@
+v---
+// Modern Hero section - unified design with the rest of the site
+import { heroData, themeConfig, socialLinks } from '../data/index.js';
+import Button from './ui/Button.astro';
+
+// Prepare description with university link
+const description = `${heroData.rolePrefix} <strong>${heroData.role}</strong>${heroData.roleIntroduction} <a href="${heroData.university.url}" class="university-link">${heroData.university.name}</a>.`;
+---
+
+<article class="hero-section">
+  <div class="hero-container">
+    <!-- Background Elements -->
+    <div class="hero-background">
+      <div class="hero-mesh"></div>
+      <div class="hero-particles"></div>
+    </div>
+
+    <!-- Main Hero Content -->
+    <div class="hero-main">
+      <div class="hero-content">
+        <!-- Status Badge -->
+        <div class="status-badge">
+          <div class="status-dot"></div>
+          <span>Available for projects</span>
+        </div>
+
+        <!-- Main Title -->
+        <h1 class="hero-title">
+          <span class="greeting">{heroData.greeting}</span>
+          <span class="name gradient-text">{heroData.name}</span>
+          <span class="role-text">{heroData.subtitle}</span>
+        </h1>
+
+        <!-- Description -->
+        <div class="hero-description">
+          <p class="description-main" set:html={description}></p>
+          
+          <!-- Social Links -->
+          <div class="hero-social">
+            <span class="social-intro">Connect with me</span>
+            <div class="social-links">
+              <!-- Copy Email Button -->
+              <button id="copyEmailBtn" class="social-link-button email-copy-btn" aria-label="Copy email to clipboard">
+                <i class="fas fa-copy"></i>
+                <span class="link-text">nathalia.rios@15@gmail.com</span>
+              </button>
+              
+              <!-- Social Media Links -->
+              <div class="social-platforms">
+                {socialLinks.primary.filter(link => link.icon !== 'fa-envelope').map(link => (
+                  <a href={link.url} class="social-link-button" target="_blank" rel="noopener">
+                    <i class={`fab ${link.icon}`}></i>
+                    <span class="link-text">{link.name}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Action Buttons - Unified -->
+        <div class="hero-actions">
+          <div class="primary-cta">
+            <Button variant="primary" size="large" href="/about#projects">
+              <span class="btn-icon">🚀</span>
+              View My Work
+            </Button>
+            <span class="cta-divider">or</span>
+            <button class="btn btn-secondary btn-large contact-modal-trigger">
+              <span class="btn-icon">💼</span>
+              Get In Touch
+            </button>
+          </div>
+          
+          <div class="quick-links">
+            <span class="quick-links-intro">Quick Links:</span>
+            <div class="quick-link-group">
+              <a href="/about#experience" class="quick-link">
+                <i class="fas fa-briefcase"></i>
+                Experience
+              </a>
+              <a href="/about#skills" class="quick-link">
+                <i class="fas fa-code"></i>
+                Skills
+              </a>
+              <a href="/about#certifications" class="quick-link">
+                <i class="fas fa-certificate"></i>
+                Certifications
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Stats Cards - Now prioritized -->
+      <div class="hero-stats">
+        <div class="stats-cards">
+          <div class="stat-card">
+            <span class="stat-number">Software</span>
+            <span class="stat-label">Development</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number">Data</span>
+            <span class="stat-label">Engineering</span>
+          </div>
+          <div class="stat-card time-card">
+            <div class="hero-time-display" id="heroParaguayTime">
+              <span class="time-stat">--:--</span>
+              <span class="time-label">Paraguay</span>
+            </div>
+          </div>
+          <div class="stat-card remote-card">
+            <span class="stat-number">🌍</span>
+            <span class="stat-label">Remote Ready</span>
+          </div>
+        </div>
+        
+        <!-- Collapsible Terminal Visual -->
+        <div class="terminal-container">
+          <button class="terminal-toggle" id="terminalToggle" aria-expanded="false" aria-controls="terminal-content">
+            <span class="toggle-icon">💻</span>
+            <span class="toggle-text">Show Code</span>
+          </button>
+          <div class="visual-card windows-terminal" id="terminal-content" aria-hidden="true">
+            <div class="card-header">
+              <div class="window-controls windows-style">
+                <span class="control minimize">−</span>
+                <span class="control maximize">□</span>
+                <span class="control close">×</span>
+              </div>
+              <span class="card-title">Command Prompt - C:\Users\Nathalia</span>
+            </div>
+            <div class="card-content terminal-content">
+              <div class="terminal-prompt">
+                <span class="prompt-path">C:\Users\Nathalia></span>
+                <span class="prompt-command">personal_page.py</span>
+              </div>
+              <div class="code-block">
+                <div class="code-line">
+                  <span class="code-keyword">const</span>
+                  <span class="code-variable">professional</span> = {`{`}
+                </div>
+                <div class="code-line indent">
+                  <span class="code-property">  name:</span>
+                  <span class="code-string">"Lourdes Nathalia Rios Delvalle"</span>,
+                </div>
+                <div class="code-line indent">
+                  <span class="code-property">  skills:</span>
+                  <span class="code-array">["Reclutamiento", "Procesos", "Calidad"]</span>,
+                </div>
+                <div class="code-line indent">
+                  <span class="code-property">  what:</span>
+                  <span class="code-string">"Creando soluciones humanas"</span>,
+                </div>
+                <div class="code-line indent">
+                  <span class="code-property">  available:</span>
+                  <span class="code-boolean">true</span>
+                </div>
+                <div class="code-line">{`}`};</div>
+                <div class="code-line">
+                  <span class="code-comment">// ¡Construyendo proyectos increíbles!</span>
+                </div>
+              </div>
+              <div class="terminal-cursor"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</article>
+
+<style>
+  @import '../styles/sections/hero.css';
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const copyEmailBtn = document.getElementById('copyEmailBtn');
+    const contactModalTrigger = document.querySelector('.contact-modal-trigger');
+    
+    // Copy email functionality
+    if (copyEmailBtn) {
+      copyEmailBtn.addEventListener('click', async function() {
+        const email = 'nathalia.rios@15@gmail.com';
+        
+        try {
+          await navigator.clipboard.writeText(email);
+          
+          // Visual feedback
+          const icon = this.querySelector('i');
+          const originalIcon = icon.className;
+          const originalText = this.querySelector('.link-text').textContent;
+          
+          icon.className = 'fas fa-check';
+          this.querySelector('.link-text').textContent = 'Email copied!';
+          this.style.background = 'var(--color-success)';
+          this.style.borderColor = 'var(--color-success)';
+          this.style.color = 'white';
+          
+          setTimeout(() => {
+            icon.className = originalIcon;
+            this.querySelector('.link-text').textContent = originalText;
+            this.style.background = '';
+            this.style.borderColor = '';
+            this.style.color = '';
+          }, 2000);
+        } catch (err) {
+          // Fallback for older browsers
+          const textArea = document.createElement('textarea');
+          textArea.value = email;
+          document.body.appendChild(textArea);
+          textArea.select();
+          document.execCommand('copy');
+          document.body.removeChild(textArea);
+          
+          // Visual feedback
+          const icon = this.querySelector('i');
+          const originalIcon = icon.className;
+          const originalText = this.querySelector('.link-text').textContent;
+          
+          icon.className = 'fas fa-check';
+          this.querySelector('.link-text').textContent = 'Email copied!';
+          
+          setTimeout(() => {
+            icon.className = originalIcon;
+            this.querySelector('.link-text').textContent = originalText;
+          }, 2000);
+        }
+      });
+    }
+    
+    // Contact modal trigger
+    if (contactModalTrigger && typeof window.openContactModal === 'function') {
+      contactModalTrigger.addEventListener('click', function() {
+        window.openContactModal();
+      });
+    }
+
+    // Terminal toggle functionality
+    const terminalToggle = document.getElementById('terminalToggle');
+    const terminalContent = document.getElementById('terminal-content');
+    
+    if (terminalToggle && terminalContent) {
+      terminalToggle.addEventListener('click', function() {
+        const isExpanded = this.getAttribute('aria-expanded') === 'true';
+        const newState = !isExpanded;
+        
+        this.setAttribute('aria-expanded', newState.toString());
+        terminalContent.setAttribute('aria-hidden', (!newState).toString());
+        
+        if (newState) {
+          terminalContent.classList.add('show');
+          this.querySelector('.toggle-text').textContent = 'Hide Code';
+          this.querySelector('.toggle-icon').textContent = '📟';
+        } else {
+          terminalContent.classList.remove('show');
+          this.querySelector('.toggle-text').textContent = 'Show Code';
+          this.querySelector('.toggle-icon').textContent = '💻';
+        }
+      });
+    }
+
+    // Hero Paraguay time display
+    function updateHeroParaguayTime() {
+      const heroTime = document.getElementById('heroParaguayTime');
+      if (heroTime) {
+        const timeDisplay = heroTime.querySelector('.time-stat');
+        
+        if (timeDisplay) {
+          const now = new Date();
+          
+          // Paraguay timezone - America/Asuncion (simplified for hero display)
+          const paraguayTime = new Intl.DateTimeFormat('en-US', {
+            timeZone: 'America/Asuncion',
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: false
+          }).format(now);
+          
+          timeDisplay.textContent = paraguayTime;
+        }
+      }
+    }
+
+    // Update hero time immediately and then every minute (less frequent for hero)
+    updateHeroParaguayTime();
+    const heroTimeInterval = setInterval(updateHeroParaguayTime, 60000); // Update every minute
+
+    // Store cleanup function
+    window.heroTimeCleanup = () => {
+      if (heroTimeInterval) {
+        clearInterval(heroTimeInterval);
+      }
+    };
+  });
+</script>

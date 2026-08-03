@@ -1,0 +1,69 @@
+---
+// Modern Skill Item Component - Icon + Tag based
+import Card from '../ui/Card.astro';
+
+export interface Props {
+  name: string;
+  proficiency: string;
+  yearsExperience: string;
+  description: string;
+  icon: string;
+  techColor: string;
+  specialties: string[];
+  'data-sal'?: string;
+  'data-sal-delay'?: string | number;
+  'data-sal-duration'?: string | number;
+}
+
+const { 
+  name,
+  proficiency,
+  yearsExperience,
+  description,
+  icon,
+  techColor,
+  specialties,
+  ...props
+} = Astro.props;
+
+const proficiencyColors = {
+  'Expert': 'var(--color-success)',
+  'Advanced': 'var(--color-primary)',
+  'Intermediate': 'var(--color-warning)',
+  'Beginner': 'var(--color-info)'
+};
+---
+
+<Card variant="skill" {...props}>
+  <div class="skill-header">
+    <div class="skill-icon">
+      <i class={icon} style={`color: ${techColor};`}></i>
+    </div>
+    <div class="skill-meta">
+      <h4 class="skill-name">{name}</h4>
+      <div class="skill-badges">
+        <span 
+          class="proficiency-badge" 
+          style={`background: ${proficiencyColors[proficiency]}20; color: ${proficiencyColors[proficiency]}; border-color: ${proficiencyColors[proficiency]};`}
+        >
+          {proficiency}
+        </span>
+        <span class="experience-badge">
+          {yearsExperience} exp
+        </span>
+      </div>
+    </div>
+  </div>
+  
+  <p class="skill-description">{description}</p>
+  
+  <div class="skill-specialties">
+    {specialties.map(specialty => (
+      <span class="specialty-tag">{specialty}</span>
+    ))}
+  </div>
+</Card>
+
+<style>
+  @import '../../styles/sections/skill-item.css';
+</style>
