@@ -1,0 +1,192 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                   PRÓXIMOS PASOS - PROYECTO DE INVESTIGACIÓN              ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+📁 ARCHIVOS GENERADOS:
+═══════════════════════════════════════════════════════════════════════════
+
+✅ PROYECTO_FINAL_INVESTIGACION.md
+   └─ Documento principal corregido (7,481 líneas)
+   └─ Listo para conversión a APA 7
+
+✅ PROYECTO_METADATA.txt
+   └─ Metadatos extraídos del documento
+   └─ Usar para portadas y documentación
+
+✅ INFORME_CORRECCION_FORMATO.md
+   └─ Reporte detallado de todos los cambios realizados
+   └─ Incluye ejemplos de antes/después
+
+
+📋 TAREAS PENDIENTES ANTES DE CONVERSIÓN:
+═══════════════════════════════════════════════════════════════════════════
+
+[ ] 1. COMPLETAR INFORMACIÓN FALTANTE:
+    - Apellidos completos de los investigadores (Ayelen, Vivian, Miranda, Lourdes)
+    - Nombre del supervisor/tutor
+    - Nombre completo de la Universidad/Institución
+    - Fechas específicas de recolección de datos
+    - Nombre específico de la escuela participante
+
+[ ] 2. REVISAR CONTENIDO ACADÉMICO:
+    - Verificar coherencia de la redacción
+    - Confirmar que todas las citas tienen referencias
+    - Confirmar que todas las referencias están citadas
+    - Revisar tablas con datos "___" pendientes
+
+[ ] 3. VERIFICAR ANEXOS:
+    - Asegurar que todos los formularios estén completos
+    - Verificar que las plantillas tengan la información necesaria
+
+
+🔄 CONVERSIÓN A FORMATO APA 7 (WORD):
+═══════════════════════════════════════════════════════════════════════════
+
+OPCIÓN 1: Usando Pandoc (Recomendado)
+
+    pandoc PROYECTO_FINAL_INVESTIGACION.md -o Proyecto_APA7.docx
+
+    O con plantilla personalizada:
+
+    pandoc PROYECTO_FINAL_INVESTIGACION.md -o Proyecto_APA7.docx \
+           --reference-doc=plantilla_apa7.docx
+
+
+OPCIÓN 2: Usando Typora
+    - Abrir PROYECTO_FINAL_INVESTIGACION.md en Typora
+    - File → Export → Word (.docx)
+    - Aplicar estilos APA 7 manualmente
+
+
+OPCIÓN 3: Conversión Online
+    - https://cloudconvert.com/md-to-docx
+    - https://www.onlineconvert.com/md-to-docx
+
+
+⚙️ CONFIGURACIÓN APA 7 EN WORD:
+═══════════════════════════════════════════════════════════════════════════
+
+Después de convertir a Word, configurar:
+
+[ ] MÁRGENES:
+    - Superior: 2.54 cm (1 pulgada)
+    - Inferior: 2.54 cm (1 pulgada)
+    - Izquierdo: 2.54 cm (1 pulgada)
+    - Derecho: 2.54 cm (1 pulgada)
+
+[ ] TIPOGRAFÍA:
+    - Fuente: Times New Roman 12pt O Arial 11pt
+    - Espaciado: Doble espacio en TODO el documento
+    - Alineación: Izquierda (NO justificado)
+    - Sangría: 0.5" (1.27 cm) en primera línea de párrafos
+
+[ ] ENCABEZADO Y PIE DE PÁGINA:
+    - Número de página: Esquina superior derecha
+    - Título corto: Esquina superior izquierda (primeras 50 caracteres)
+
+[ ] PÁGINA DE TÍTULO (Primera página):
+    - Título completo del proyecto (centrado, negrita)
+    - Nombre de autores (centrado)
+    - Afiliación institucional (centrado)
+    - Nombre de la asignatura
+    - Nombre del profesor
+    - Fecha de entrega
+
+[ ] ESTILOS DE ENCABEZADOS:
+    - Nivel 1: Centrado, Negrita, Title Case
+    - Nivel 2: Alineado a la izquierda, Negrita, Title Case
+    - Nivel 3: Alineado a la izquierda, Negrita, Cursiva, Title Case
+    - Nivel 4: Sangría, Negrita, Title Case, termina con punto
+    - Nivel 5: Sangría, Negrita, Cursiva, Title Case, termina con punto
+
+[ ] REFERENCIAS BIBLIOGRÁFICAS:
+    - Aplicar sangría francesa (hanging indent) de 0.5"
+    - Verificar orden alfabético
+    - Verificar formato de DOIs
+
+
+📊 RESUMEN DE CORRECCIONES REALIZADAS:
+═══════════════════════════════════════════════════════════════════════════
+
+✓ Removidos: Bloque de metadatos inicial (36 líneas)
+✓ Removida: Tabla de contenidos (ÍNDICE)
+✓ Removidos: 296 separadores horizontales (---)
+✓ Corregidos: ~200 encabezados (numeración + capitalización)
+✓ Removidos: Placeholders de información ([Nombre...])
+✓ Removido: Contador de palabras del resumen
+✓ Estandarizado: Espaciado entre secciones
+✓ Resultado: Reducción de 7,759 → 7,481 líneas (3.6% más compacto)
+
+
+❗ PROBLEMAS IDENTIFICADOS Y RESUELTOS:
+═══════════════════════════════════════════════════════════════════════════
+
+1. ❌ Encabezados numerados (# 1. RESUMEN)
+   ✅ CORREGIDO → (# Resumen)
+
+2. ❌ Encabezados en MAYÚSCULAS
+   ✅ CORREGIDO → Title Case (Capitalización de Título)
+
+3. ❌ 296 separadores --- innecesarios
+   ✅ CORREGIDO → Todos removidos
+
+4. ❌ Metadatos en el cuerpo del documento
+   ✅ CORREGIDO → Extraídos a PROYECTO_METADATA.txt
+
+5. ❌ Tabla de contenidos con [#] placeholders
+   ✅ CORREGIDO → Completamente removida
+
+6. ❌ Placeholders [Nombre del investigador]
+   ✅ CORREGIDO → Removidos (completar manualmente)
+
+7. ❌ Contador "Palabras: 247" en resumen
+   ✅ CORREGIDO → Removido
+
+
+📚 DOCUMENTACIÓN ADICIONAL:
+═══════════════════════════════════════════════════════════════════════════
+
+Para más detalles sobre las correcciones, consultar:
+
+► INFORME_CORRECCION_FORMATO.md
+  - Análisis completo de problemas encontrados
+  - Ejemplos de antes/después
+  - Justificación de cada corrección
+  - Estadísticas del proceso
+
+► PROYECTO_METADATA.txt
+  - Información del proyecto
+  - Investigadores, institución, fechas
+  - Palabras clave
+  - Datos del participante
+
+
+✨ VENTAJAS DEL DOCUMENTO CORREGIDO:
+═══════════════════════════════════════════════════════════════════════════
+
+1. ✓ Estructura limpia y profesional
+2. ✓ Compatible con conversores markdown → DOCX
+3. ✓ Cumple estándares APA 7 de estructura
+4. ✓ Sin elementos redundantes o innecesarios
+5. ✓ Jerarquía de encabezados consistente
+6. ✓ Referencias bibliográficas en formato APA 7
+7. ✓ Listo para aplicar estilos finales en Word
+
+
+🎓 PARA LA ENTREGA FINAL:
+═══════════════════════════════════════════════════════════════════════════
+
+1. Convertir a DOCX usando método preferido
+2. Aplicar configuración APA 7 (márgenes, fuente, espaciado)
+3. Crear página de título con información completa
+4. Completar información faltante (nombres, fechas, datos)
+5. Agregar números de página
+6. Revisar ortografía y gramática
+7. Verificar formato de tablas y figuras
+8. Exportar a PDF si es requerido
+
+
+═══════════════════════════════════════════════════════════════════════════
+Fecha: 31 de Octubre de 2025
+Procesado por: Claude (Anthropic)
+═══════════════════════════════════════════════════════════════════════════
