@@ -78,7 +78,7 @@ El sistema de IA mejora con cada sesión. Feedback constante de clientes y resul
 │   Sesión → [Análisis continuo] → Insights → Sesión → ...   │
 │                                                             │
 │   • Transcripción automática de sesiones                    │
-│   • Análisis de WhatsApp entre sesiones                    │
+│   • Análisis de Messaging entre sesiones                    │
 │   • Perfil psicológico actualizado constantemente          │
 │   • Patrones detectados por IA                             │
 │   • Progreso medible y documentado                         │
@@ -108,7 +108,7 @@ El sistema de IA mejora con cada sesión. Feedback constante de clientes y resul
 
 **Incluye:**
 - Todo lo de Nivel 1 +
-- Cliente comparte chats de WhatsApp relevantes
+- Cliente comparte chats de Messaging relevantes
 - Análisis mensual de patrones de comunicación
 - Informe de insights para discutir en sesión
 
@@ -144,11 +144,11 @@ El sistema de IA mejora con cada sesión. Feedback constante de clientes y resul
 │                   ├──→ Whisper ──→ Transcripción           │
 │   Voice notes ────┘                                         │
 │                                                             │
-│   WhatsApp ────────────→ Parser ──→ Texto limpio           │
+│   Messaging ────────────→ Parser ──→ Texto limpio           │
 │                                                             │
 │   Transcripciones ─┐                                        │
 │                    ├──→ Claude/GPT ──→ Análisis            │
-│   Texto WhatsApp ──┘                                        │
+│   Texto Messaging ──┘                                        │
 │                                                             │
 │   Análisis ────────────→ Templates ──→ Documentación       │
 │                                                             │
@@ -225,7 +225,7 @@ Lourdes (Directora)
 | Aspecto | Tradicional | Lourdes |
 |---------|-------------|---------|
 | Documentación | Notas manuales | Transcripción + IA |
-| Entre sesiones | Sin seguimiento | Análisis de WhatsApp |
+| Entre sesiones | Sin seguimiento | Análisis de Messaging |
 | Detección de patrones | Depende de memoria | Automatizado |
 | Medición de progreso | Subjetiva | Basada en datos |
 | Perfil del cliente | Fragmentado | MASTER_PROFILE completo |
@@ -236,7 +236,7 @@ Lourdes (Directora)
 |---------|------------------------|---------|
 | Interacción humana | Ninguna | Terapeuta real |
 | Personalización | Genérica | Individual profunda |
-| Análisis de comunicación | No | Sí (WhatsApp) |
+| Análisis de comunicación | No | Sí (Messaging) |
 | Tratamiento clínico | No | Sí |
 | Seguimiento real | Limitado | Completo |
 

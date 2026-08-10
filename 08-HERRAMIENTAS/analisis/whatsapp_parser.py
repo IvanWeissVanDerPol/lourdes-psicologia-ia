@@ -1,13 +1,13 @@
 """
-Parser de Conversaciones de WhatsApp
+Parser de Conversaciones de Messaging
 
-Este modulo procesa exports de WhatsApp y los estructura
+Este modulo procesa exports de Messaging y los estructura
 para analisis posterior con IA.
 
 Uso:
-    from analysis.whatsapp_parser import parse_whatsapp_export
+    from analysis.messaging_parser import parse_messaging_export
 
-    mensajes = parse_whatsapp_export("chat.txt")
+    mensajes = parse_messaging_export("chat.txt")
     for msg in mensajes:
         print(f"{msg['sender']}: {msg['content']}")
 """
@@ -20,8 +20,8 @@ from dataclasses import dataclass
 
 
 @dataclass
-class WhatsAppMessage:
-    """Representa un mensaje individual de WhatsApp"""
+class MessagingMessage:
+    """Representa un mensaje individual de Messaging"""
     timestamp: datetime
     sender: str
     content: str
@@ -29,16 +29,16 @@ class WhatsAppMessage:
     is_system: bool = False
 
 
-def parse_whatsapp_export(
+def parse_messaging_export(
     file_path: str,
     client_name: Optional[str] = None,
     therapist_name: Optional[str] = None,
 ) -> List[Dict]:
     """
-    Parsea un archivo de export de WhatsApp.
+    Parsea un archivo de export de Messaging.
 
     Args:
-        file_path: Ruta al archivo .txt exportado de WhatsApp
+        file_path: Ruta al archivo .txt exportado de Messaging
         client_name: Nombre del cliente (para identificar mensajes)
         therapist_name: Nombre del terapeuta (para identificar mensajes)
 
@@ -46,7 +46,7 @@ def parse_whatsapp_export(
         Lista de diccionarios con los mensajes parseados
 
     Ejemplo:
-        >>> mensajes = parse_whatsapp_export("chat.txt", client_name="Juan")
+        >>> mensajes = parse_messaging_export("chat.txt", client_name="Juan")
         >>> print(len(mensajes))
         150
     """
@@ -60,7 +60,7 @@ def parse_whatsapp_export(
 
     messages = []
 
-    # Patrones de WhatsApp (varian segun idioma/region)
+    # Patrones de Messaging (varian segun idioma/region)
     # Formato comun: "DD/MM/YYYY, HH:MM - Nombre: Mensaje"
     # o: "DD/MM/YY, HH:MM - Nombre: Mensaje"
     # o: "[YYYY-MM-DD, HH:MM:SS] Nombre: Mensaje" (formato con corchetes)
@@ -357,8 +357,8 @@ if __name__ == "__main__":
     import json
 
     if len(sys.argv) < 2:
-        print("Uso: python whatsapp_parser.py <archivo_export.txt> [nombre_cliente]")
-        print("Ejemplo: python whatsapp_parser.py chat.txt 'Juan Perez'")
+        print("Uso: python messaging_parser.py <archivo_export.txt> [nombre_cliente]")
+        print("Ejemplo: python messaging_parser.py chat.txt 'Juan Perez'")
         sys.exit(1)
 
     file_path = sys.argv[1]
@@ -369,7 +369,7 @@ if __name__ == "__main__":
         if client_name:
             print(f"Cliente: {client_name}")
 
-        messages = parse_whatsapp_export(file_path, client_name=client_name)
+        messages = parse_messaging_export(file_path, client_name=client_name)
 
         print(f"\nMensajes encontrados: {len(messages)}")
 

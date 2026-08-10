@@ -49,7 +49,7 @@
 
 ### **6. Marketing Material Creation**
 - Develop Instagram content based on researched preferences
-- Create WhatsApp templates for client communication
+- Create Messaging templates for client communication
 - Design simple branding elements (logo, colors)
 - Build professional online presence
 

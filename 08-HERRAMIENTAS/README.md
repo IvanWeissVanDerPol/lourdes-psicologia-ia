@@ -51,7 +51,7 @@ python -m analisis.analyzer transcripcion.txt
 │                            └──────────────┘              │          │
 │                                                          │          │
 │   ┌──────────────┐                                       │          │
-│   │  WhatsApp    │─────────────────────────────────────→│          │
+│   │  Messaging    │─────────────────────────────────────→│          │
 │   │  Export      │                                       │          │
 │   └──────────────┘                                       ↓          │
 │                            ┌──────────────┐        ┌─────────────┐ │
@@ -100,9 +100,9 @@ python -m analisis.analyzer transcripcion.txt
 
 **Script base:** `analisis/session_transcriber.py`
 
-### 2. Parser de WhatsApp
+### 2. Parser de Messaging
 
-**Propósito:** Extraer y estructurar conversaciones de WhatsApp exportadas.
+**Propósito:** Extraer y estructurar conversaciones de Messaging exportadas.
 
 **Proceso:**
 
@@ -111,7 +111,7 @@ python -m analisis.analyzer transcripcion.txt
 3. Filtra y limpia datos
 4. Estructura para análisis
 
-**Script base:** `analisis/whatsapp_parser.py`
+**Script base:** `analisis/messaging_parser.py`
 
 ### 3. Motor de Análisis (Claude/GPT)
 
@@ -171,14 +171,14 @@ SESSION_NOTES.md
 Terapeuta revisa y usa en siguiente sesión
 ```
 
-### Nivel 2: Terapia + Análisis WhatsApp
+### Nivel 2: Terapia + Análisis Messaging
 
 ```
-Sesión + Export WhatsApp del cliente
+Sesión + Export Messaging del cliente
       │
       ├──→ [Whisper transcribe sesión]
       │
-      └──→ [Parser procesa WhatsApp]
+      └──→ [Parser procesa Messaging]
                │
                ↓
       [Ambos textos → Claude analiza]
@@ -193,7 +193,7 @@ Sesión + Export WhatsApp del cliente
 ### Nivel 3: Programa Intensivo
 
 ```
-Múltiples sesiones + WhatsApp + Historial
+Múltiples sesiones + Messaging + Historial
       │
       ↓
 [Acumulación de datos]
@@ -223,7 +223,7 @@ clients/
 │   │   ├── 2026-01-22_session.md
 │   │   └── ...
 │   │
-│   ├── whatsapp/
+│   ├── messaging/
 │   │   ├── raw/                       # Exports originales (cifrados)
 │   │   │   └── export_2026-01.txt
 │   │   └── analysis/                  # Análisis procesados
@@ -286,7 +286,7 @@ clients/
 
 ### Patrones de Comunicación
 
-- [Descripción de patrones observados en WhatsApp y sesiones]
+- [Descripción de patrones observados en Messaging y sesiones]
 
 ---
 
@@ -436,7 +436,7 @@ clients/
 ### Consentimiento Requerido
 
 1. **Consentimiento de grabacion** - Para transcribir sesiones
-2. **Consentimiento de analisis WhatsApp** - Para procesar conversaciones
+2. **Consentimiento de analisis Messaging** - Para procesar conversaciones
 3. **Consentimiento de almacenamiento** - Para guardar datos localmente
 4. **Consentimiento de uso de IA** - Para procesar con OpenAI y Anthropic
 
@@ -492,7 +492,7 @@ clients/
 ### Fase 1: MVP (Durante estudios) - EN PROGRESO
 
 - [x] Script de transcripcion funcionando (`analisis/transcriber.py`)
-- [ ] Parser de WhatsApp basico (pendiente)
+- [ ] Parser de Messaging basico (pendiente)
 - [x] Prompts de analisis definidos (`analisis/config.py`)
 - [x] Templates de documentacion (`plantillas/`)
 - [ ] Pruebas con casos de practica (SIGUIENTE PASO)

@@ -71,7 +71,7 @@ Muchos psicologos no entienden este contexto. Yo si.
 100% online. Podes elegir:
 - Videollamada (Google Meet, Zoom)
 - Llamada de audio
-- Chat (WhatsApp, Discord)
+- Chat (Messaging, Discord)
 
 No tenes que prender la camara si no tenes energia para eso.
 
@@ -110,7 +110,7 @@ Hay planes mensuales con descuento. Escribime para detalles.
 
 ### ¿Como agendo?
 
-1. Escribime por WhatsApp
+1. Escribime por Messaging
 2. Charlamos brevemente para ver si puedo ayudarte
 3. Te mando link de Calendly para que elijas horario
 4. Confirmas y listo
@@ -172,7 +172,7 @@ Opcionalmente, puedo usar herramientas de IA para:
 ### ¿Donde se guardan mis datos?
 
 - Notas: en mi computadora, con encriptacion
-- Comunicaciones: en WhatsApp/Discord (sus servidores)
+- Comunicaciones: en Messaging/Discord (sus servidores)
 - Si usamos IA: los datos pasan por OpenAI/Anthropic durante el procesamiento
 
 Tengo una politica de privacidad completa si queres verla.
@@ -238,7 +238,7 @@ Por ahora solo sesiones individuales. Puedo referirte si necesitas terapia de pa
 - Notion para notas y CRM
 - Calendly para agendamiento
 - Google Meet para videollamadas
-- WhatsApp Business para comunicacion
+- Messaging Business para comunicacion
 - Python + APIs de OpenAI/Anthropic para analisis (opcional)
 
 Si, es un setup nerd. Es parte del punto.
@@ -259,7 +259,7 @@ No por ahora, pero podria considerarlo en el futuro. Por ahora transferencia o b
 
 ## ¿Otra pregunta?
 
-Escribime por WhatsApp y te respondo: [link/numero]
+Escribime por Messaging y te respondo: [link/numero]
 
 ---
 

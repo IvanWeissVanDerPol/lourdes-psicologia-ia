@@ -15,13 +15,13 @@ Este directorio contiene datos de ejemplo para el sistema de analisis.
     └── 001-LOURDES/           # Ejemplo completo con datos reales
         │
         ├── RAW/               # Datos originales
-        │   └── WhatsApp Chat.../
+        │   └── Messaging Chat.../
         │       ├── _chat.txt  # Historial de chat exportado
         │       └── *.opus     # Notas de voz (~1900 archivos)
         │
         ├── CLINICA/           # Datos procesados
         │   └── TRANSCRIPTS/   # Transcripciones generadas
-        │       └── WhatsApp Chat.../
+        │       └── Messaging Chat.../
         │           ├── transcripts.json
         │           └── transcripts.md
         │
@@ -71,7 +71,7 @@ Para agregar un nuevo paciente/cliente:
 ```
 
 1. Crear carpeta con ID secuencial
-2. Exportar chat de WhatsApp a `RAW/`
+2. Exportar chat de Messaging a `RAW/`
 3. Ejecutar transcripcion
 4. Revisar resultados en `CLINICA/`
 
@@ -81,8 +81,8 @@ Para agregar un nuevo paciente/cliente:
 
 | Extension | Tipo | Contenido |
 |-----------|------|-----------|
-| `.opus` | Audio | Notas de voz WhatsApp |
-| `.webp` | Imagen | Stickers WhatsApp |
+| `.opus` | Audio | Notas de voz Messaging |
+| `.webp` | Imagen | Stickers Messaging |
 | `_chat.txt` | Texto | Historial de chat |
 | `.json` | Datos | Transcripciones/analisis |
 | `.md` | Documento | Transcripciones legibles |

@@ -26,7 +26,7 @@
   - Bio completa con CTA
   - Link en bio (Linktree o similar)
 
-- [ ] **WhatsApp Business**
+- [ ] **Messaging Business**
   - Numero separado del personal
   - Perfil de negocio configurado
   - Catalogo de servicios
@@ -69,7 +69,7 @@
   - Testimonios (cuando los tengas)
   - FAQ
 
-### WhatsApp
+### Messaging
 
 - [ ] **Mensaje de bienvenida**
   ```
@@ -241,7 +241,7 @@
 | Item | Listo | Bloqueante |
 |------|-------|------------|
 | Instagram activo | [ ] | Si |
-| WhatsApp configurado | [ ] | Si |
+| Messaging configurado | [ ] | Si |
 | Consentimiento listo | [ ] | Si |
 | Metodo de pago | [ ] | Si |
 | Al menos 1 beta test | [ ] | Si |

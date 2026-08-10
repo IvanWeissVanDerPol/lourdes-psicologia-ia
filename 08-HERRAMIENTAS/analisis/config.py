@@ -84,7 +84,7 @@ Formato de salida:
 5. Notas adicionales relevantes
 """,
 
-    "whatsapp_analysis": """Eres un asistente que analiza conversaciones de WhatsApp
+    "messaging_analysis": """Eres un asistente que analiza conversaciones de Messaging
 entre una psicologa y su paciente.
 
 Tu rol es identificar:

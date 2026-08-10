@@ -61,7 +61,7 @@
 4. **Senior/Lider Tecnico (35+)**: Soft skills, tarifa premium
 
 ### Canales Confirmados
-- **Principal:** WhatsApp (chat + audios), Discord
+- **Principal:** Messaging (chat + audios), Discord
 - **Video:** Google Meet, Zoom, Discord
 - **Redes:** Instagram (captacion), TikTok (contenido)
 - **Agenda:** Calendly / Cal.com
@@ -129,7 +129,7 @@
 ### Semana 1: Setup
 - [ ] Elegir nombre de fantasia
 - [ ] Crear Instagram/TikTok
-- [ ] Configurar WhatsApp Business
+- [ ] Configurar Messaging Business
 
 ### Semana 2: Beta Testers
 - [ ] Contactar 5 amigos del rubro TI

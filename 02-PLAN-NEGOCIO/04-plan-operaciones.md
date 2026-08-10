@@ -73,7 +73,7 @@
 
 3. **Verificar consentimientos**
    - Grabación autorizada
-   - Análisis WhatsApp (si aplica)
+   - Análisis Messaging (si aplica)
 
 ### **Durante la Sesión (50 minutos)**
 
@@ -118,7 +118,7 @@
 PROSPECTO → PRIMERA CONSULTA → CLIENTE ACTIVO → MANTENIMIENTO → ALTA
     ↓              ↓                  ↓              ↓           ↓
  Marketing    Evaluación         Tratamiento    Seguimiento  Cierre
- WhatsApp     Consentimientos    Sesiones       Mensual      Documentar
+ Messaging     Consentimientos    Sesiones       Mensual      Documentar
              Perfil inicial     Análisis IA    Check-ins    Referir si
                                                             necesario
 ```
@@ -139,7 +139,7 @@ PROSPECTO → PRIMERA CONSULTA → CLIENTE ACTIVO → MANTENIMIENTO → ALTA
 |-------|-------------|
 | **Básico** | Ninguno (solo en sesión) |
 | **Premium** | Mensaje de check-in semanal (opcional) |
-| **Intensivo** | Análisis WhatsApp continuo, alertas si necesario |
+| **Intensivo** | Análisis Messaging continuo, alertas si necesario |
 
 ---
 
@@ -149,7 +149,7 @@ PROSPECTO → PRIMERA CONSULTA → CLIENTE ACTIVO → MANTENIMIENTO → ALTA
 
 | Canal | Uso |
 |-------|-----|
-| **WhatsApp Business** | Principal - mensajes directos |
+| **Messaging Business** | Principal - mensajes directos |
 | **Google Calendar** | Gestión interna |
 | **[Futuro] Calendly/Similar** | Auto-agendamiento |
 
@@ -162,7 +162,7 @@ PROSPECTO → PRIMERA CONSULTA → CLIENTE ACTIVO → MANTENIMIENTO → ALTA
 | **Reagendamiento** | Máximo 2 por mes sin cargo |
 | **Lista de espera** | Contactar si hay cancelación |
 
-### **Template de Confirmación (WhatsApp)**
+### **Template de Confirmación (Messaging)**
 
 ```
 Hola [Nombre]! 👋
@@ -201,7 +201,7 @@ GRABACIÓN          TRANSCRIPCIÓN        ANÁLISIS           DOCUMENTACIÓN
 |-------|-----------------|
 | Transcripción (50 min audio) | 2-3 minutos |
 | Análisis de sesión | 30-60 segundos |
-| Análisis WhatsApp (1 mes) | 1-2 minutos |
+| Análisis Messaging (1 mes) | 1-2 minutos |
 | Generación de perfil completo | 3-5 minutos |
 
 ### **Mantenimiento del Sistema**
@@ -349,7 +349,7 @@ Costo APIs:              Gs. [X]K
 | Función | Herramienta |
 |---------|-------------|
 | **Agenda** | Google Calendar |
-| **Comunicación** | WhatsApp Business |
+| **Comunicación** | Messaging Business |
 | **Documentación** | Markdown (local) / Notion |
 | **Facturación** | Excel / Software contable |
 | **Transcripción** | OpenAI Whisper API |

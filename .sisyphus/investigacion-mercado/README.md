@@ -48,14 +48,14 @@ Hola, soy [Nombre Falso] y me gustaría consultarme por favor.
 ### 3. **Investigación de Demographics del Target**
 
 **Para validar supuestos:**
-- Millennials/Gen-Z realmente usan WhatsApp para comunicación importante
+- Millennials/Gen-Z realmente usan Messaging para comunicación importante
 - Actitud hacia servicios de salud mental
 - Disponibilidad de pago para servicios premium
 - Preferencias (online vs presencial)
 
 **Métodos:**
 - Encuestas informales a amigos/contactos
-- Análisis de grupos de Facebook/WhatsApp
+- Análisis de grupos de Facebook/Messaging
 - Observación de conversaciones
 
 ### 4. **Investigación de Tendencias**
@@ -110,9 +110,9 @@ Hola, soy [Nombre Falso] y me gustaría consultarme por favor.
 | [Nombre 1] | [Teléfono] | Gs. XXX | Gs. YYY | [Descripción] | [Área] |
 | [Nombre 2] | [Contacto] | Gs. XXX | Gs. YYY | [Descripción] | [Área] |
 
-### **Análisis de WhatsApp en Target**
+### **Análisis de Messaging en Target**
 
-| Persona | Edad | Usa WhatsApp para | Frecuencia | Tipos de conversaciones |
+| Persona | Edad | Usa Messaging para | Frecuencia | Tipos de conversaciones |
 |---------|-------|-------------------|------------|------------------------|
 | [Amigo 1] | 28 | Salud mental profunda | Diario | Grupos de apoyo |
 | [Amigo 2] | 32 | Problemas diarios | Varias | Expresión emocional |
@@ -191,7 +191,7 @@ Hola, soy [Nombre Falso] y me gustaría consultarme por favor.
 4. ¿Hay espacio para nuevo entrante?
 
 ### **Sobre Target:**
-1. ¿Los Millennials realmente prefieren WhatsApp?
+1. ¿Los Millennials realmente prefieren Messaging?
 2. ¿Cuánto están dispuestos a pagar por salud mental?
 3. ¿Qué valoran más: conveniencia o profundidad?
 4. ¿Cómo se enteran de servicios de psicología?

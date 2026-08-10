@@ -121,7 +121,7 @@ Este plan de negocio documenta la estrategia completa para lanzar y operar una p
 
 ### 1. **Diferenciación por IA (Único en Paraguay)**
 
-- Ningún otro psicólogo ofrece análisis de WhatsApp
+- Ningún otro psicólogo ofrece análisis de Messaging
 - Transcripción automática = documentación superior
 - Insights basados en datos = terapia más efectiva
 
@@ -141,7 +141,7 @@ Este plan de negocio documenta la estrategia completa para lanzar y operar una p
 
 - Generación cómoda con tecnología
 - Valoran datos y personalización
-- WhatsApp como medio natural de comunicación
+- Messaging como medio natural de comunicación
 
 ---
 
@@ -150,7 +150,7 @@ Este plan de negocio documenta la estrategia completa para lanzar y operar una p
 | Nivel | Incluye | Precio |
 |-------|---------|--------|
 | **Básico** | Sesión + Notas IA | Gs. 180K |
-| **Premium** | + Análisis WhatsApp mensual | Gs. 250K |
+| **Premium** | + Análisis Messaging mensual | Gs. 250K |
 | **Intensivo** | + Perfil completo + Plan basado en datos | Gs. 350K/mes |
 
 ---
@@ -177,7 +177,7 @@ Este plan de negocio documenta la estrategia completa para lanzar y operar una p
 
 | Riesgo | Probabilidad | Impacto | Mitigación |
 |--------|--------------|---------|------------|
-| Resistencia a compartir WhatsApp | Alta | Medio | Ofrecer nivel sin análisis, educar sobre privacidad |
+| Resistencia a compartir Messaging | Alta | Medio | Ofrecer nivel sin análisis, educar sobre privacidad |
 | Problemas éticos/legales IA | Media | Alto | Consentimientos robustos, consulta legal |
 | Competencia adopta IA | Media | Medio | Ventaja de first-mover, mejora continua |
 | Costos API más altos | Media | Medio | Presupuesto de contingencia, optimización |

@@ -64,7 +64,7 @@
 | **Edad** | 20-35 años |
 | **Tamaño estimado** | 8,000-10,000 personas |
 | **Perfil** | Profesionales jóvenes, universitarios, emprendedores |
-| **Relación con tecnología** | Nativos digitales, WhatsApp principal medio de comunicación |
+| **Relación con tecnología** | Nativos digitales, Messaging principal medio de comunicación |
 | **Actitud hacia salud mental** | Abiertos, sin estigma, buscan autoconocimiento |
 | **Precio aceptable** | Gs. 180,000-250,000 |
 | **Frecuencia esperada** | 2-4 sesiones/mes |
@@ -169,7 +169,7 @@
 | Nivel | Precio | Posicionamiento |
 |-------|--------|-----------------|
 | **Básico** | Gs. 180,000 | = Precio clínica estándar + valor IA |
-| **Premium** | Gs. 250,000 | = Premium tradicional + análisis WhatsApp |
+| **Premium** | Gs. 250,000 | = Premium tradicional + análisis Messaging |
 | **Intensivo** | Gs. 350,000/mes | > Premium + perfil completo + plan |
 
 **Justificación del precio:**
@@ -223,8 +223,8 @@
 - First-mover puede establecer estándar
 - Barrera de entrada alta para seguidores
 
-### **Oportunidad 2: Generación WhatsApp**
-- Millennials/Gen-Z viven en WhatsApp
+### **Oportunidad 2: Generación Messaging**
+- Millennials/Gen-Z viven en Messaging
 - Análisis de comunicación = propuesta única
 - Natural para target principal
 
@@ -243,7 +243,7 @@
 ## Amenazas Identificadas
 
 ### **Amenaza 1: Resistencia al Análisis de Datos**
-- Algunos clientes pueden resistirse a compartir WhatsApp
+- Algunos clientes pueden resistirse a compartir Messaging
 - **Mitigación:** Ofrecer nivel sin análisis, educación sobre privacidad
 
 ### **Amenaza 2: Problemas Éticos/Legales**

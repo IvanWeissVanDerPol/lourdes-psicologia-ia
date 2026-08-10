@@ -8,7 +8,7 @@
 |---------|------------|
 | **Posicionamiento** | Primera psicóloga con IA en Paraguay |
 | **Target principal** | Millennials/Gen-Z tech-savvy |
-| **Canal principal** | Instagram + WhatsApp |
+| **Canal principal** | Instagram + Messaging |
 | **Inversión inicial** | Gs. 1-2M |
 | **Inversión mensual** | Gs. 200-400K |
 
@@ -37,7 +37,7 @@
 ### **Diferenciadores a Comunicar**
 
 1. **IA integrada** - La única en Paraguay
-2. **Análisis de WhatsApp** - Entendemos cómo te comunicás
+2. **Análisis de Messaging** - Entendemos cómo te comunicás
 3. **Documentación completa** - Nada se pierde
 4. **Progreso medible** - Sabés que está funcionando
 
@@ -52,7 +52,7 @@
 | Canal | Estrategia | Inversión |
 |-------|------------|-----------|
 | **Boca a boca** | Amigos, familia, conocidos | Gs. 0 |
-| **WhatsApp** | Mensajes personalizados | Gs. 0 |
+| **Messaging** | Mensajes personalizados | Gs. 0 |
 | **Instagram personal** | Posts sobre bienestar (sin publicidad) | Gs. 0 |
 
 **Reglas Fase 1:**
@@ -69,7 +69,7 @@
 |-------|------------|-----------|
 | **Instagram** | Contenido educativo + Ads | Gs. 100-200K/mes |
 | **Google** | SEO + Google My Business | Gs. 50-100K/mes |
-| **WhatsApp Business** | Comunicación directa | Gs. 0 |
+| **Messaging Business** | Comunicación directa | Gs. 0 |
 | **Referidos** | Programa de incentivos | Variable |
 | **Alianzas** | Empresas, gimnasios, médicos | Tiempo |
 
@@ -198,7 +198,7 @@ Terapia que te entiende de verdad
 3. Ambos reciben descuento
 4. Registrar en sistema para tracking
 
-### **Template de Referido (WhatsApp)**
+### **Template de Referido (Messaging)**
 
 ```
 ¡Hola! 👋
@@ -306,7 +306,7 @@ Hoy respondo dudas sobre:
 [Sticker de pregunta]
 ```
 
-### **Templates para WhatsApp**
+### **Templates para Messaging**
 
 #### **Primera Respuesta a Consulta**
 
@@ -410,7 +410,7 @@ En la primera sesión vamos a:
 | **Instagram** | Insights de la app |
 | **Google** | Google Analytics |
 | **Referidos** | Preguntar "¿cómo me conociste?" |
-| **WhatsApp** | Etiquetas por fuente |
+| **Messaging** | Etiquetas por fuente |
 
 ---
 
@@ -421,7 +421,7 @@ En la primera sesión vamos a:
 - [ ] Setup Instagram Business
 - [ ] Crear primeros 10 posts
 - [ ] Diseñar sitio web básico
-- [ ] Preparar templates de WhatsApp
+- [ ] Preparar templates de Messaging
 
 ### **Mes 3-4: Lanzamiento**
 - [ ] Lanzar Instagram público

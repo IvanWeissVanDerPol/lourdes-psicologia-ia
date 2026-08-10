@@ -9,11 +9,11 @@
 
 | Chat | Total Files | Quality Files | Key Categories |
 |------|-------------|---------------|----------------|
-| WhatsApp Chat - Stop Hurting Me I Truly Love You | 962 | 780 | sadness_depression, relationship_positive, family_references |
+| Messaging Chat - Stop Hurting Me I Truly Love You | 962 | 780 | sadness_depression, relationship_positive, family_references |
 
 ---
 
-## WhatsApp Chat - Stop Hurting Me I Truly Love You
+## Messaging Chat - Stop Hurting Me I Truly Love You
 
 ### Anger Frustration (21 occurrences)
 

@@ -58,10 +58,10 @@ TRANSCRIPCIÓN:
 [insertar transcripción]
 ```
 
-### **Prompt Base - Análisis de WhatsApp**
+### **Prompt Base - Análisis de Messaging**
 
 ```
-Analiza esta conversación de WhatsApp buscando patrones psicológicos:
+Analiza esta conversación de Messaging buscando patrones psicológicos:
 
 1. PATRONES DE COMUNICACIÓN
    - Longitud de mensajes
@@ -131,7 +131,7 @@ Crear `templates/MASTER_PROFILE.md` basado en el ejemplo del repositorio `psycol
   - Cómo se almacena
   - Derecho a solicitar eliminación
 
-- [ ] **Consentimiento de análisis WhatsApp**
+- [ ] **Consentimiento de análisis Messaging**
   - Qué conversaciones
   - Qué se analiza
   - Qué NO se analiza (media, terceros)

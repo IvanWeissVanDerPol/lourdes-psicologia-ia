@@ -11,7 +11,7 @@
 
 **Nombre:** Lourdes [Apellido]
 **Servicio:** [Nombre del servicio]
-**Contacto:** [Email / WhatsApp]
+**Contacto:** [Email / Messaging]
 **Ubicacion:** Asuncion, Paraguay
 
 ---
@@ -27,7 +27,7 @@
 ### 2.2 Datos del Servicio
 - Registros de sesiones (notas escritas)
 - Grabaciones de audio/video (solo con consentimiento)
-- Historial de comunicaciones (WhatsApp, email)
+- Historial de comunicaciones (Messaging, email)
 - Informacion sobre tu bienestar compartida voluntariamente
 
 ### 2.3 Datos Tecnicos
@@ -54,7 +54,7 @@
 
 | Proveedor | Servicio | Datos Compartidos |
 |-----------|----------|-------------------|
-| WhatsApp (Meta) | Comunicacion | Mensajes, audios |
+| Messaging (Meta) | Comunicacion | Mensajes, audios |
 | Google | Videollamadas | Video, audio sesion |
 | Calendly | Agendamiento | Nombre, email, horario |
 
@@ -78,7 +78,7 @@ Estos proveedores tienen sus propias politicas de privacidad:
 | Tipo de Dato | Ubicacion | Seguridad |
 |--------------|-----------|-----------|
 | Notas de sesion | Almacenamiento local encriptado | Password + encriptacion |
-| Comunicaciones | Servidores de WhatsApp/Google | Encriptacion E2E |
+| Comunicaciones | Servidores de Messaging/Google | Encriptacion E2E |
 | Backups | Almacenamiento en nube encriptado | Encriptacion AES-256 |
 
 **Nota:** Los datos procesados por APIs de IA viajan a servidores en Estados Unidos durante el procesamiento.
@@ -133,7 +133,7 @@ Implemento las siguientes medidas:
 
 ## 9. Transferencias Internacionales
 
-Al usar servicios como WhatsApp, Google, OpenAI o Anthropic, tus datos pueden ser transferidos a servidores fuera de Paraguay, principalmente en Estados Unidos.
+Al usar servicios como Messaging, Google, OpenAI o Anthropic, tus datos pueden ser transferidos a servidores fuera de Paraguay, principalmente en Estados Unidos.
 
 Estas transferencias se realizan con proveedores que cumplen con estandares de proteccion de datos reconocidos internacionalmente.
 
@@ -150,7 +150,7 @@ Si tienes menos de 18 anos:
 
 ## 11. Cambios a Esta Politica
 
-Me reservo el derecho de actualizar esta politica. Te notificare de cambios significativos por WhatsApp o email antes de que entren en vigor.
+Me reservo el derecho de actualizar esta politica. Te notificare de cambios significativos por Messaging o email antes de que entren en vigor.
 
 **Ultima actualizacion:** Enero 2026
 
@@ -161,7 +161,7 @@ Me reservo el derecho de actualizar esta politica. Te notificare de cambios sign
 Para preguntas sobre privacidad:
 
 **Email:** [Por definir]
-**WhatsApp:** [Por definir]
+**Messaging:** [Por definir]
 
 ---
 
@@ -171,7 +171,7 @@ Para preguntas sobre privacidad:
 > 1. Consultar con abogado sobre cumplimiento Ley 1682
 > 2. Verificar si necesitas registrarte como responsable de datos
 > 3. Definir procedimiento concreto para solicitudes ARCO
-> 4. Confirmar politicas de WhatsApp Business para uso profesional
+> 4. Confirmar politicas de Messaging Business para uso profesional
 > 5. Crear version resumida "Aviso de Privacidad" para uso rapido
 
 ---

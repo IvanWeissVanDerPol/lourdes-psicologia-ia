@@ -17,14 +17,14 @@
 |-------|-----------|
 | Nombre completo | |
 | Edad | |
-| WhatsApp | |
+| Messaging | |
 | Email (opcional) | |
 | Discord (opcional) | |
 
 ### Preferencias de Comunicacion
 
 **Canal preferido:**
-- [ ] WhatsApp
+- [ ] Messaging
 - [ ] Discord
 - [ ] Email
 - [ ] Otro: _______________
