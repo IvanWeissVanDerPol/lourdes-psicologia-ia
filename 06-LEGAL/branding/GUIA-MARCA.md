@@ -198,7 +198,7 @@ Usar iconos de:
 ### Mockups
 
 Para presentar el servicio, considerar:
-- Screenshots de WhatsApp (mockup)
+- Screenshots de Messaging (mockup)
 - Laptop con videollamada
 - Calendario/agenda
 
@@ -222,7 +222,7 @@ Disponible 24/7 | DM abiertos
 [Link]
 ```
 
-### WhatsApp Business
+### Messaging Business
 
 **Foto de perfil:** Logo o foto profesional tuya
 **Nombre:** [NOMBRE DE MARCA]
@@ -249,7 +249,7 @@ Respondo en menos de 24h
 - [ ] Logo para dark/light backgrounds
 - [ ] Foto de perfil para redes
 - [ ] 3 templates de post para Instagram
-- [ ] Banner para WhatsApp Business
+- [ ] Banner para Messaging Business
 - [ ] Paleta de colores definida en Canva
 
 ### Secundarios (Cuando haya tiempo)

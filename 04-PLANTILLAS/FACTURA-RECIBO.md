@@ -1,11 +1,11 @@
 # Recibo de Pago
 
 > **Uso:** Entregar despues de recibir pago
-> **Formato:** Copiar y completar, enviar por WhatsApp o email
+> **Formato:** Copiar y completar, enviar por Messaging o email
 
 ---
 
-## Version Simple (WhatsApp)
+## Version Simple (Messaging)
 
 ```
 RECIBO DE PAGO

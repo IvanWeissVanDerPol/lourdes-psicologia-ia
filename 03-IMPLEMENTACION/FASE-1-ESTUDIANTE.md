@@ -53,7 +53,7 @@ Durante esta fase, Lourdes opera como **coach de bienestar**, NO como psicologa 
 | Aspecto | Detalle |
 |---------|---------|
 | **Duracion** | 45-60 minutos |
-| **Modalidad** | Online (WhatsApp/Discord/Meet) |
+| **Modalidad** | Online (Messaging/Discord/Meet) |
 | **Frecuencia** | Semanal o quincenal |
 | **Enfoque** | Manejo de estres, productividad, bienestar |
 
@@ -92,7 +92,7 @@ Basado en tu patron de sueno (1am - 5:30am dormida):
 
 | Canal | Uso | Configuracion |
 |-------|-----|---------------|
-| **WhatsApp Business** | Principal | Respuestas automaticas, catalogo |
+| **Messaging Business** | Principal | Respuestas automaticas, catalogo |
 | **Discord** | Comunidad beta | Servidor privado para clientes |
 | **Google Meet** | Videollamadas | Cuenta profesional |
 
@@ -119,7 +119,7 @@ Basado en tu patron de sueno (1am - 5:30am dormida):
 **Como llegar:**
 - Contactar lideres de centros de estudiantes de Ingenieria
 - Ofrecer sesiones de prueba a amigos de la carrera
-- Presencia en grupos de WhatsApp/Discord de facultades
+- Presencia en grupos de Messaging/Discord de facultades
 
 ### Perfil Secundario: Young Professionals Tech (25-35)
 
@@ -147,7 +147,7 @@ CAPTACION
 CONTACTO INICIAL
     |
     v
-[WhatsApp] → Respuesta automatica → Conversacion
+[Messaging] → Respuesta automatica → Conversacion
     |
     v
 CALIFICACION
@@ -188,7 +188,7 @@ AGENDA
 SESION
     |
     v
-[WhatsApp/Discord/Meet segun preferencia]
+[Messaging/Discord/Meet segun preferencia]
     |
     v
 SEGUIMIENTO
@@ -231,7 +231,7 @@ SEGUIMIENTO
 
 | Herramienta | Uso | Costo |
 |-------------|-----|-------|
-| WhatsApp Business | Comunicacion | Gratis |
+| Messaging Business | Comunicacion | Gratis |
 | Google Calendar | Agenda | Gratis |
 | Notion/Obsidian | Notas de clientes | Gratis |
 | Canva | Contenido visual | Gratis |
@@ -300,7 +300,7 @@ SEGUIMIENTO
 
 - [ ] Elegir nombre de fantasia (ver opciones en branding)
 - [ ] Crear Instagram profesional
-- [ ] Configurar WhatsApp Business
+- [ ] Configurar Messaging Business
 - [ ] Crear servidor Discord (privado)
 - [ ] Configurar Calendly/Cal.com
 
@@ -308,7 +308,7 @@ SEGUIMIENTO
 
 - [ ] Bio de Instagram lista
 - [ ] 5 posts programados
-- [ ] Respuestas automaticas WhatsApp
+- [ ] Respuestas automaticas Messaging
 - [ ] Mensaje de bienvenida Discord
 
 ### Semana 3: Legal

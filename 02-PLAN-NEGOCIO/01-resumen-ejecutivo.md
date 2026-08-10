@@ -29,7 +29,7 @@ Lourdes Psicología es una práctica de psicoterapia que se diferenciará como *
 
 Práctica de psicoterapia que integra:
 
-1. **Análisis de WhatsApp** - Detección de patrones de comunicación
+1. **Análisis de Messaging** - Detección de patrones de comunicación
 2. **Transcripción de sesiones** - Documentación automática completa
 3. **Perfil psicológico vivo** - Actualización continua basada en datos
 4. **Insights automatizados** - IA extrae patrones que humanos podrían perder
@@ -59,7 +59,7 @@ Práctica de psicoterapia que integra:
 | Nivel | Incluye | Precio |
 |-------|---------|--------|
 | **Terapia Básica** | Sesión + Notas IA del terapeuta | Gs. 180,000 |
-| **Terapia Premium** | + Análisis mensual de WhatsApp | Gs. 250,000 |
+| **Terapia Premium** | + Análisis mensual de Messaging | Gs. 250,000 |
 | **Programa Intensivo** | + Perfil completo + Plan basado en datos | Gs. 350,000/mes |
 
 ---
@@ -78,7 +78,7 @@ Práctica de psicoterapia que integra:
 1. **Millennials/Gen-Z (20-35 años)**
    - Nativos digitales, cómodos con tecnología
    - Mayor apertura a salud mental
-   - WhatsApp como medio principal de comunicación
+   - Messaging como medio principal de comunicación
    - **Precio aceptable:** Gs. 180-250K
 
 2. **Profesionales con estrés laboral (25-45 años)**
@@ -98,7 +98,7 @@ Práctica de psicoterapia que integra:
 ## Ventajas Competitivas
 
 ### 1. **First-Mover en IA (Único en Paraguay)**
-- Ningún competidor ofrece análisis de WhatsApp
+- Ningún competidor ofrece análisis de Messaging
 - Transcripción automática = documentación superior
 - Barrera de entrada alta para competidores (requiere expertise técnico)
 

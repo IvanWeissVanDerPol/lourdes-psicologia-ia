@@ -155,7 +155,7 @@ The repository has excellent business planning (8/10) but critical gaps in:
 | File | Content |
 |------|---------|
 | `INSTAGRAM-TEMPLATES/` | 5 post templates (Canva links) |
-| `WHATSAPP-SCRIPTS.md` | Response templates for inquiries |
+| `MESSAGING-SCRIPTS.md` | Response templates for inquiries |
 | `ELEVATOR-PITCH.md` | 30-second, 2-minute, 5-minute versions |
 | `FAQ-CLIENTES.md` | Common questions and answers |
 

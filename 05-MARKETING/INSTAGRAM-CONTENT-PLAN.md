@@ -223,7 +223,7 @@ Incluso a las 3 AM.
 ```
 ¿Como funciona?
 
-1. Me escribis por WhatsApp/Discord
+1. Me escribis por Messaging/Discord
 2. Charlamos para ver si hago match
 3. Agendas cuando te sirva (si, hay horario nocturno)
 4. Sesion por video/audio/chat - lo que prefieras

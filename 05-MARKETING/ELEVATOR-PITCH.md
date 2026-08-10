@@ -38,7 +38,7 @@ pero los servicios de salud mental tradicionales no entienden ese mundo.
 Entonces cree un servicio diferente:
 
 - Disponibilidad 24/7, incluyendo madrugada
-- 100% online, podes escribirme por WhatsApp o Discord
+- 100% online, podes escribirme por Messaging o Discord
 - Enfoque practico, sin el estereotipo del psicologo de divan
 
 Trabajo con developers, ingenieros, y basicamente cualquiera
@@ -77,7 +77,7 @@ Primero, horarios flexibles de verdad. Podes escribirme a las 3 AM
 si es cuando te agarra la ansiedad. Atiendo de noche porque
 se que muchos en tech funcionan mejor de noche.
 
-Segundo, sin friccion. Todo online. WhatsApp, Discord, videollamada,
+Segundo, sin friccion. Todo online. Messaging, Discord, videollamada,
 lo que te sea mas comodo. No te voy a obligar a prender la camara
 si no tenes energia social.
 
@@ -125,7 +125,7 @@ Y vi que los servicios de salud mental tradicionales no estan disenados para est
 Entonces cree algo diferente:
 
 - Disponibilidad 24/7 (si, incluyendo madrugada)
-- 100% online (WhatsApp, Discord, videollamada)
+- 100% online (Messaging, Discord, videollamada)
 - Enfoque practico, sin el estereotipo del divan
 - Alguien que habla tu idioma
 

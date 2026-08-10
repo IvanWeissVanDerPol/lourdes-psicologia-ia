@@ -188,7 +188,7 @@ _(INSTRUCCIÓN: Deja solo los perfiles que vas a atacar en esta etapa)_
 _(INSTRUCCIÓN: Confirma tu ecosistema digital)_
 **[ECOSISTEMA OMNICANAL]**
 
-- **Canal Principal:** WhatsApp (Chat y Audios) y Discord (DMs y canales de voz).
+- **Canal Principal:** Messaging (Chat y Audios) y Discord (DMs y canales de voz).
 - **Videollamadas:** Google Meet, Zoom o Discord.
 - **Redes Sociales:** Instagram (DM) y TikTok (Contenido y respuestas).
 - **Estilo:** Comunicación flexible, priorizando el texto/audio pero con soporte de video de alta calidad, adaptándose al entorno natural del paciente tech.
@@ -332,7 +332,7 @@ _(INSTRUCCIÓN: Borra los riesgos que NO te preocupan)_
 
 **[SUPUESTO: PAGO POR CHAT]**
 
-- **Hipótesis:** La gente valorará (y pagará por) seguimiento vía WhatsApp/Audio.
+- **Hipótesis:** La gente valorará (y pagará por) seguimiento vía Messaging/Audio.
 - **Riesgo:** Que asuman que el chat es "gratis" y solo quieran pagar la videollamada.
 
 **[SUPUESTO: NICHO NOCTURNO]**
@@ -353,7 +353,7 @@ _(INSTRUCCIÓN: Este es tu to-do list)_
 
 - Elegir Nombre de Fantasía.
 - Crear Instagram/TikTok nuevo ("Mental Debugging").
-- Configurar WhatsApp Business con respuestas automáticas.
+- Configurar Messaging Business con respuestas automáticas.
 
 **[SEMANA 2: BETA TESTERS]**
 

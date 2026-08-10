@@ -130,7 +130,7 @@ Esto crea archivos de plantilla para las secciones que aún no existen.
    - Guardar frecuentemente
 
 2. **Comunicación en grupo**
-   - WhatsApp/email para coordinación
+   - Messaging/email para coordinación
    - Revisar que no haya contradicciones entre secciones
 
 3. **Consolidación periódica**

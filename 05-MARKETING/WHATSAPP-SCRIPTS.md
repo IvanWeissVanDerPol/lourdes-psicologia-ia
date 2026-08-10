@@ -1,4 +1,4 @@
-# Scripts de WhatsApp Business
+# Scripts de Messaging Business
 
 > **Objetivo:** Respuestas consistentes, profesionales y personales
 > **Tono:** Cercano pero profesional, tech-friendly

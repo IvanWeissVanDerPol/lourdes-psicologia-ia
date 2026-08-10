@@ -59,18 +59,18 @@ Sesion → Grabacion (con consentimiento) → Whisper transcribe →
 Claude genera notas → Terapeuta revisa → Usa en proxima sesion
 ```
 
-### Nivel 2: Terapia + Analisis WhatsApp
+### Nivel 2: Terapia + Analisis Messaging
 
 | Aspecto | Detalle |
 |---------|---------|
 | **Precio** | Gs. 250,000 / sesion |
 | **Duracion** | 50 minutos + analisis |
-| **Incluye** | Sesion + Analisis de comunicacion WhatsApp |
+| **Incluye** | Sesion + Analisis de comunicacion Messaging |
 | **Target** | Profesionales que quieren insights profundos |
 
 **Flujo:**
 ```
-Cliente exporta WhatsApp relevante → Parser procesa →
+Cliente exporta Messaging relevante → Parser procesa →
 Claude analiza patrones → Discutir insights en sesion
 ```
 
@@ -137,7 +137,7 @@ CAPTACION
 CONTACTO INICIAL
     |
     v
-[WhatsApp] → Calificacion automatica
+[Messaging] → Calificacion automatica
     |
     v
 SESION INICIAL (Evaluacion)

@@ -12,7 +12,7 @@
 **Nombre del Servicio:** [Nombre por definir]
 **Profesional:** Lourdes [Apellido]
 **Estado:** Estudiante de Psicologia (5to ano - Universidad [X])
-**Contacto:** [WhatsApp / Email]
+**Contacto:** [Messaging / Email]
 
 ---
 
@@ -93,7 +93,7 @@ Estoy obligada a romper confidencialidad si:
 ### 6.1 Plataformas de Comunicacion
 
 Nuestras sesiones pueden realizarse por:
-- WhatsApp (chat y audio)
+- Messaging (chat y audio)
 - Discord
 - Google Meet / Zoom
 

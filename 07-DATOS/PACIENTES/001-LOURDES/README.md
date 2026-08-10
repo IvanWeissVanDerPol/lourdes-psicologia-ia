@@ -8,7 +8,7 @@ Este directorio contiene un ejemplo completo de datos para el sistema de analisi
 
 ### RAW/ - Datos Originales
 
-Export de WhatsApp con:
+Export de Messaging con:
 - `_chat.txt` - Historial completo del chat
 - `*.opus` - ~1900 notas de voz
 - `*.webp` - Stickers e imagenes
@@ -47,12 +47,12 @@ python -m transcription check-quality --input ../07-DATOS/PACIENTES/001-LOURDES/
 001-LOURDES/
 ├── README.md           # Este archivo
 ├── RAW/
-│   └── WhatsApp Chat - .../
+│   └── Messaging Chat - .../
 │       ├── _chat.txt
 │       └── *.opus (1900+ archivos)
 ├── CLINICA/
 │   └── TRANSCRIPTS/
-│       └── WhatsApp Chat - .../
+│       └── Messaging Chat - .../
 │           ├── transcripts.json
 │           └── transcripts.md
 └── METADATA/

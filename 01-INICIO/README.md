@@ -80,7 +80,7 @@ Fase profesional: Gs. 20-33M (ver plan financiero).
 ### **¿Es legal usar IA en psicología?**
 Sí, con los consentimientos apropiados. La IA es una herramienta de documentación, no reemplaza el juicio clínico.
 
-### **¿Qué pasa si los clientes no quieren compartir WhatsApp?**
+### **¿Qué pasa si los clientes no quieren compartir Messaging?**
 Ofrecés el nivel básico (solo sesiones). No todos necesitan el análisis completo.
 
 ---

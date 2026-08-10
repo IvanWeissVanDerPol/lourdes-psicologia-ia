@@ -69,7 +69,7 @@
 
 #### **Sistema de Citas**
 - Calendario compartido (Google Calendar)
-- Recordatorios automáticos (WhatsApp)
+- Recordatorios automáticos (Messaging)
 - Confirmaciones con 24 horas de anticipación
 - Política de cancelación (50% si no avisa)
 
@@ -126,7 +126,7 @@
 
 ---
 
-## 💬 Comunicación con WhatsApp
+## 💬 Comunicación con Messaging
 
 ### **Plantillas para Clientes**
 
@@ -217,7 +217,7 @@ clientes/[ID_CLIENTE]/
 │   │   ├── [fecha]_sesion.md
 │   │   ├── insights.json
 │   │   └── evolucion.md
-│   ├── whatsapp/
+│   ├── messaging/
 │   │   └── analisis_semanal/
 │   └── perfil_completo.md
 └── reports/
@@ -278,7 +278,7 @@ clientes/[ID_CLIENTE]/
 
 ### **Límites Profesionales**
 - **Tiempo de sesiones:** 50 minutos máximo
-- **Comunicación fuera de sesión:** Solo mensajes grupales o individuales por WhatsApp
+- **Comunicación fuera de sesión:** Solo mensajes grupales o individuales por Messaging
 - **Emergencias:** Protocolo de derivación profesional
 - **Autocuidado:** No offrir terapia personal al terapeuta
 
@@ -300,7 +300,7 @@ clientes/[ID_CLIENTE]/
 
 ### **Herramientas de Gestión**
 - Google Sheets para base de clientes
-- Calendario integrado con WhatsApp
+- Calendario integrado con Messaging
 - Sistema de facturación simple
 
 ### **Revisión Mensual**
@@ -357,7 +357,7 @@ clientes/[ID_CLIENTE]/
 - [ ] Mantener registro de tiempo
 - [ ] Seguir estructura de sesión (50/35/10)
 - [ ] Tomar notas mentales clave
-- [ ] No revisar WhatsApp durante sesión
+- [ ] No revisar Messaging durante sesión
 
 ### **Después de Cada Sesión**
 - [ ] Subir grabación a transcripción

@@ -121,16 +121,16 @@ Recuerda: NO hagas diagnosticos clinicos, solo identifica patrones y temas."""
         raise RuntimeError(f"Error en analisis: {e}") from e
 
 
-def analyze_whatsapp_conversation(
+def analyze_messaging_conversation(
     messages: str,
     patient_id: str = "ANONIMO",
     api_key: Optional[str] = None,
 ) -> str:
     """
-    Analiza una conversacion de WhatsApp para identificar patrones.
+    Analiza una conversacion de Messaging para identificar patrones.
 
     Args:
-        messages: Texto exportado de WhatsApp
+        messages: Texto exportado de Messaging
         patient_id: Identificador del paciente
         api_key: API key de Anthropic (opcional)
 
@@ -151,7 +151,7 @@ def analyze_whatsapp_conversation(
 
     client = anthropic.Anthropic(api_key=key)
 
-    user_prompt = f"""Analiza la siguiente conversacion de WhatsApp entre una profesional
+    user_prompt = f"""Analiza la siguiente conversacion de Messaging entre una profesional
 de coaching/bienestar y su paciente.
 
 PACIENTE ID: {patient_id}
@@ -173,14 +173,14 @@ Recuerda: NO diagnostiques, solo observa patrones."""
         response = client.messages.create(
             model=config.claude_model,
             max_tokens=2048,
-            system=SYSTEM_PROMPTS["whatsapp_analysis"],
+            system=SYSTEM_PROMPTS["messaging_analysis"],
             messages=[{"role": "user", "content": user_prompt}],
         )
 
         return response.content[0].text
 
     except Exception as e:
-        raise RuntimeError(f"Error en analisis de WhatsApp: {e}") from e
+        raise RuntimeError(f"Error en analisis de Messaging: {e}") from e
 
 
 def estimate_cost(text: str) -> float:

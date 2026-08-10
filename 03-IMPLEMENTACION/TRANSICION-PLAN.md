@@ -92,7 +92,7 @@ MES +1 (Operacion Fase 2)
 | Consentimiento informado | Agregar seccion de psicoterapia clinica |
 | Politica de privacidad | Actualizar con datos de IA |
 | Bio de redes sociales | Cambiar a "Psicologa" |
-| WhatsApp Business | Actualizar catalogo de servicios |
+| Messaging Business | Actualizar catalogo de servicios |
 | Website (si existe) | Actualizar servicios y precios |
 
 ### Documentos Nuevos
